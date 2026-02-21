@@ -39,7 +39,10 @@
       );
     }
     if (selectedSources.size > 0) {
-      list = list.filter((j) => selectedSources.has(j.source || ""));
+      list = list.filter((j) => {
+        const s = (j.source != null && j.source !== "") ? String(j.source) : "";
+        return selectedSources.has(s) || (s === "" && selectedSources.has(""));
+      });
     }
     const sortBy = sortEl.value;
     if (sortBy === "posted_date") {
@@ -110,40 +113,65 @@
     });
   }
 
+  function dataUrl(path) {
+    let base = window.location.href.replace(/#.*$/, "").replace(/\/[^/]*$/, "/");
+    if (!base.endsWith("/")) base += "/";
+    return base + path;
+  }
+
+  function showError(msg, detail) {
+    metaEl.textContent = msg;
+    jobsBody.innerHTML = "";
+    emptyMsg.hidden = false;
+    emptyMsg.textContent = detail || "Could not load data.";
+  }
+
   function run() {
     searchEl.addEventListener("input", () => render(filterJobs()));
     sortEl.addEventListener("change", () => render(filterJobs()));
 
-    fetch("data/jobs.json")
+    const timeout = setTimeout(() => {
+      showError(
+        "Load timed out.",
+        "Open this page over HTTP (e.g. run: python -m http.server 8000, then visit http://localhost:8000). Do not open index.html directly from disk (file://)."
+      );
+    }, 12000);
+
+    fetch(dataUrl("data/jobs.json"))
       .then((r) => {
-        if (!r.ok) throw new Error(r.statusText);
+        clearTimeout(timeout);
+        if (!r.ok) throw new Error(r.status + " " + r.statusText);
         return r.json();
       })
       .then((data) => {
-        allJobs = data.jobs || [];
+        const list = Array.isArray(data.jobs) ? data.jobs : [];
+        allJobs = list;
+        sources.clear();
         allJobs.forEach((j) => {
-          if (j.source) sources.add(j.source);
+          if (j.source) sources.add(String(j.source));
         });
+        metaEl.textContent = `${allJobs.length} jobs`;
         buildSourceFilters();
-        metaEl.textContent = `Last updated: loading… • ${allJobs.length} jobs`;
-        return fetch("data/last_run.txt").then((r) => (r.ok ? r.text() : ""));
+        render(filterJobs());
+        return fetch(dataUrl("data/last_run.txt")).then((r) => (r.ok ? r.text() : ""));
       })
       .then((lastRun) => {
-        if (lastRun) {
+        if (lastRun && lastRun.trim()) {
           try {
             const d = new Date(lastRun.trim());
-            metaEl.textContent = `Last updated: ${d.toLocaleString()} • ${allJobs.length} jobs`;
-          } else {
-            metaEl.textContent = `${allJobs.length} jobs`;
-          }
+            if (!isNaN(d.getTime())) {
+              metaEl.textContent = `Last updated: ${d.toLocaleString()} • ${allJobs.length} jobs`;
+            }
+          } catch (_) {}
         }
         render(filterJobs());
       })
       .catch((err) => {
-        metaEl.textContent = "Failed to load jobs: " + err.message;
-        jobsBody.innerHTML = "";
-        emptyMsg.hidden = false;
-        emptyMsg.textContent = "Could not load data/jobs.json.";
+        clearTimeout(timeout);
+        showError(
+          "Failed to load jobs: " + err.message,
+          "Serve this folder over HTTP (e.g. python -m http.server 8000) and open http://localhost:8000. Opening index.html from disk (file://) will not work."
+        );
       });
   }
 

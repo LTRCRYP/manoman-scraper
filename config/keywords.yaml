@@ -1,11 +1,13 @@
-# Keywords used to filter jobs (case-insensitive match in title + description)
-# Jobs are included if ANY keyword matches.
-# Add or remove terms to broaden or narrow "crypto" scope.
+# Keywords used to filter jobs (case-insensitive match in title + description).
+# Jobs are included only if they match at least one PRIMARY keyword (strong crypto/blockchain terms).
+# Secondary keywords are NOT used for filtering — they were removed to cut non-crypto jobs
+# (e.g. "token", "ledger", "wallet", "protocol" match many non-crypto roles).
 
+# Primary: clearly crypto/blockchain — job must match at least one of these
 keywords:
   - blockchain
-  - crypto
   - cryptocurrency
+  - crypto
   - web3
   - defi
   - smart contract
@@ -14,15 +16,16 @@ keywords:
   - bitcoin
   - nft
   - dao
-  - token
-  - ledger
-  - wallet
   - dapp
   - layer 2
   - l2
-  - protocol
-  - consensus
-  - mining
   - staking
   - digital assets
   - tokenization
+  # Uncomment to broaden (more results, more noise):
+  # - token
+  # - ledger
+  # - wallet
+  # - protocol
+  # - consensus
+  # - mining
