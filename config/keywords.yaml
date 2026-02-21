@@ -1,0 +1,26 @@
+# Keywords used to filter jobs (case-insensitive match in title + description)
+# Jobs are included if ANY keyword matches.
+# Add or remove terms to broaden or narrow "crypto" scope.
+
+keywords:
+  - blockchain
+  - crypto
+  - cryptocurrency
+  - web3
+  - defi
+  - smart contract
+  - solidity
+  - ethereum
+  - bitcoin
+  - nft
+  - dao
+  - token
+  - ledger
+  - wallet
+  - dapp
+  - layer 2
+  - l2
+  - protocol
+  - consensus
+  - mining
+  - staking

@@ -1,0 +1,77 @@
+# Crypto/blockchain companies and job sources
+# Add Greenhouse slugs, Lever ids, or crypto board URLs below.
+
+greenhouse:
+  # Major crypto/blockchain companies using Greenhouse
+  - slug: coinbase
+    name: Coinbase
+  - slug: circle
+    name: Circle
+  - slug: chainalysis
+    name: Chainalysis
+  - slug: galaxydigital
+    name: Galaxy Digital
+  - slug: ripple
+    name: Ripple
+  - slug: fireblocks
+    name: Fireblocks
+  - slug: paradigm
+    name: Paradigm
+  - slug: anchorage
+    name: Anchorage Digital
+  - slug: polygon
+    name: Polygon Labs
+  - slug: opensea
+    name: OpenSea
+  - slug: alchemy
+    name: Alchemy
+  - slug: quicknode
+    name: QuickNode
+  - slug: immutable
+    name: Immutable
+  - slug: duneanalytics
+    name: Dune Analytics
+  - slug: blockdaemon
+    name: Blockdaemon
+  - slug: figment
+    name: Figment
+  - slug: tradfi
+    name: TradFi
+  - slug: kraken
+    name: Kraken
+  - slug: ledger
+    name: Ledger
+  - slug: moonpay
+    name: MoonPay
+
+lever:
+  # Companies using Lever (use their Lever URL identifier)
+  - id: a16z
+    name: Andreessen Horowitz
+  - id: phantom
+    name: Phantom
+  - id: solana-labs
+    name: Solana Labs
+  - id: magic
+    name: Magic
+  - id: walletconnect
+    name: WalletConnect
+  - id: rarible
+    name: Rarible
+  - id: zora
+    name: Zora
+  - id: uniswap
+    name: Uniswap Labs
+  - id: compound
+    name: Compound
+  - id: the-graph
+    name: The Graph
+
+crypto_boards:
+  # RSS or API endpoints for crypto-specific job boards
+  # Format: url (required), name (optional, for display)
+  - url: https://cryptojobslist.com/feed
+    name: CryptoJobsList
+  - url: https://web3.career/rss
+    name: web3.career
+  # Add more RSS/API URLs as you find them (e.g. crypto.jobs, Bankless)

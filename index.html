@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Crypto / Web3 Jobs</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="header">
+    <h1>Crypto & Web3 Jobs</h1>
+    <p class="subtitle">Aggregated from Greenhouse, Lever, and crypto job boards</p>
+    <p class="meta" id="meta">Loading…</p>
+  </header>
+
+  <main class="main">
+    <section class="controls">
+      <div class="control-row">
+        <label for="search">Search</label>
+        <input type="text" id="search" placeholder="Title or company…" />
+      </div>
+      <div class="control-row">
+        <label>Source</label>
+        <div class="source-filters" id="source-filters"></div>
+      </div>
+      <div class="control-row">
+        <label for="sort">Sort by</label>
+        <select id="sort">
+          <option value="posted_date">Posted date (newest)</option>
+          <option value="company">Company</option>
+          <option value="title">Title</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="table-wrap">
+      <table class="jobs-table" id="jobs-table">
+        <thead>
+          <tr>
+            <th>Company</th>
+            <th>Title</th>
+            <th>Location</th>
+            <th>Posted</th>
+            <th>Source</th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody id="jobs-body"></tbody>
+      </table>
+      <p class="empty" id="empty-msg" hidden>No jobs match the current filters.</p>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
