@@ -1,5 +1,7 @@
 # Crypto/blockchain companies and job sources
 # Add Greenhouse slugs, Lever ids, or crypto board URLs below.
+# Jobs are filtered by config/keywords.yaml (blockchain, crypto, web3, etc.) so
+# adding non-crypto companies will surface only their crypto/blockchain roles.
 
 greenhouse:
   # Major crypto/blockchain companies using Greenhouse
@@ -67,11 +69,42 @@ lever:
   - id: the-graph
     name: The Graph
 
+  # Non-crypto companies (we only keep jobs matching keywords: blockchain, crypto, web3, etc.)
+  - id: plaid
+    name: Plaid
+
+greenhouse_non_crypto:
+  # Traditional / big tech companies that post crypto/blockchain roles (Greenhouse)
+  # Note: Wells Fargo, ICE/NYSE use Workday or custom ATS — not scrapable with current setup.
+  - slug: xplatform
+    name: X (Twitter)
+  - slug: stripe
+    name: Stripe
+  - slug: robinhood
+    name: Robinhood
+  - slug: sofi
+    name: SoFi
+  - slug: iex
+    name: IEX Group
+
 crypto_boards:
-  # RSS or API endpoints for crypto-specific job boards
+  # RSS or API endpoints for crypto-specific job boards (all-encompassing)
   # Format: url (required), name (optional, for display)
-  - url: https://cryptojobslist.com/feed
+  - url: https://api.cryptojobslist.com/rss/c.xml
     name: CryptoJobsList
+  - url: https://cryptojobslist.com/feed
+    name: CryptoJobsList (alt)
   - url: https://web3.career/rss
     name: web3.career
-  # Add more RSS/API URLs as you find them (e.g. crypto.jobs, Bankless)
+  - url: https://web3.career/feed
+    name: web3.career (alt)
+  # Add more RSS URLs as you find them
+
+# JobSpy: LinkedIn, Indeed, etc. (pip install python-jobspy)
+# Uses https://github.com/speedyapply/JobSpy — results are filtered by keywords.yaml
+jobspy:
+  enabled: true
+  sites: [linkedin, indeed]
+  search_terms: [blockchain, crypto, web3, cryptocurrency, defi, digital assets, tokenization]
+  results_wanted: 40
+  # hours_old: 168  # optional: only jobs posted in last 7 days
