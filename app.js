@@ -114,9 +114,13 @@
   }
 
   function dataUrl(path) {
-    let base = window.location.href.replace(/#.*$/, "").replace(/\/[^/]*$/, "/");
-    if (!base.endsWith("/")) base += "/";
-    return base + path;
+    var origin = window.location.origin;
+    var pathname = window.location.pathname || "/";
+    if (pathname.endsWith(".html") || pathname.endsWith("/")) {
+      pathname = pathname.replace(/\/[^/]*$/, "") || "/";
+    }
+    if (!pathname.endsWith("/")) pathname += "/";
+    return origin + pathname + path;
   }
 
   function showError(msg, detail) {
