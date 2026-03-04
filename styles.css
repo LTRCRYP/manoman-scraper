@@ -173,6 +173,46 @@ body {
   color: var(--muted);
 }
 
+.media-section {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
+.media-heading {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--muted);
+  margin: 0 0 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.media-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.media-list li {
+  padding: 0.35rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.media-list li:last-child {
+  border-bottom: none;
+}
+
+.media-list a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.media-list a:hover {
+  color: var(--accent-hover);
+  text-decoration: underline;
+}
+
 @media (max-width: 768px) {
   .jobs-table th:nth-child(3),
   .jobs-table td:nth-child(3),

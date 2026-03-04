@@ -5,6 +5,7 @@
   const jobsBody = document.getElementById("jobs-body");
   const metaEl = document.getElementById("meta");
   const emptyMsg = document.getElementById("empty-msg");
+  const mediaListEl = document.getElementById("media-list");
 
   let allJobs = [];
   let sources = new Set();
@@ -123,6 +124,24 @@
     return origin + pathname + path;
   }
 
+  function loadMediaAppearances() {
+    if (!mediaListEl) return;
+    fetch(dataUrl("data/media_appearances.json"))
+      .then((r) => (r.ok ? r.json() : { appearances: [] }))
+      .then((data) => {
+        const list = Array.isArray(data.appearances) ? data.appearances : [];
+        mediaListEl.innerHTML = list
+          .map(
+            (a) =>
+              `<li><a href="${escapeAttr(a.url || "#")}" target="_blank" rel="noopener">${escapeHtml(a.title || "Link")}</a></li>`
+          )
+          .join("");
+      })
+      .catch(() => {
+        mediaListEl.innerHTML = "";
+      });
+  }
+
   function showError(msg, detail) {
     metaEl.textContent = msg;
     jobsBody.innerHTML = "";
@@ -169,6 +188,7 @@
           } catch (_) {}
         }
         render(filterJobs());
+        loadMediaAppearances();
       })
       .catch((err) => {
         clearTimeout(timeout);
