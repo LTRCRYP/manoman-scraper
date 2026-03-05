@@ -10,15 +10,6 @@
       "snippet": null
     },
     {
-      "title": "Product Designer II, Defi",
-      "company": "Coinbase",
-      "url": "https://www.coinbase.com/careers/positions/7604149?gh_jid=7604149",
-      "location": "Remote - USA",
-      "posted_date": "2026-03-03T01:59:06-05:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
       "title": "Product Manager II, Defi Lend",
       "company": "Coinbase",
       "url": "https://www.coinbase.com/careers/positions/7545975?gh_jid=7545975",
@@ -51,15 +42,6 @@
       "url": "https://www.coinbase.com/careers/positions/7565669?gh_jid=7565669",
       "location": "Remote - USA",
       "posted_date": "2026-03-03T01:58:59-05:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
-      "title": "Senior Product Manager, Tokenization",
-      "company": "Coinbase",
-      "url": "https://www.coinbase.com/careers/positions/7587431?gh_jid=7587431",
-      "location": "Remote - USA",
-      "posted_date": "2026-03-03T19:03:49-05:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -129,8 +111,8 @@
     {
       "title": "Manager, Crypto Accounting",
       "company": "Ripple",
-      "url": "https://ripple.com/careers/all-jobs/job/7523037?gh_jid=7523037",
-      "location": "San Francisco, CA, United States",
+      "url": "https://ripple.com/careers/all-jobs/job/7523049?gh_jid=7523049",
+      "location": "New York, NY, United States",
       "posted_date": "2026-02-27T01:32:28-05:00",
       "source": "greenhouse",
       "snippet": null
@@ -138,8 +120,8 @@
     {
       "title": "Manager, Crypto Accounting",
       "company": "Ripple",
-      "url": "https://ripple.com/careers/all-jobs/job/7523049?gh_jid=7523049",
-      "location": "New York, NY, United States",
+      "url": "https://ripple.com/careers/all-jobs/job/7523037?gh_jid=7523037",
+      "location": "San Francisco, CA, United States",
       "posted_date": "2026-02-27T01:32:28-05:00",
       "source": "greenhouse",
       "snippet": null
@@ -163,11 +145,11 @@
       "snippet": null
     },
     {
-      "title": "Business Development Manager, Blockchain and DeFi Ecosystem",
+      "title": "Associate General Counsel, Crypto Services",
       "company": "Fireblocks",
-      "url": "https://job-boards.greenhouse.io/fireblocks/jobs/4657524006",
+      "url": "https://job-boards.greenhouse.io/fireblocks/jobs/4658959006",
       "location": "New York",
-      "posted_date": "2026-03-02T10:36:23-05:00",
+      "posted_date": "2026-03-04T11:26:22-05:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -177,6 +159,15 @@
       "url": "https://job-boards.greenhouse.io/fireblocks/jobs/4657522006",
       "location": "London",
       "posted_date": "2026-03-02T10:36:45-05:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
+      "title": "Business Development Manager, Blockchain and DeFi Ecosystem",
+      "company": "Fireblocks",
+      "url": "https://job-boards.greenhouse.io/fireblocks/jobs/4657524006",
+      "location": "New York",
+      "posted_date": "2026-03-02T10:36:23-05:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -231,6 +222,15 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7536066",
       "location": "SF, SEA",
       "posted_date": "2026-02-26T12:14:16-05:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
+      "title": "Product Counsel, Crypto",
+      "company": "Stripe",
+      "url": "https://stripe.com/jobs/search?gh_jid=7573077",
+      "location": "N/A",
+      "posted_date": "2026-03-04T16:30:34-05:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -316,33 +316,6 @@
       "snippet": null
     },
     {
-      "title": "Product Marketing Manager, Crypto - Onchain",
-      "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7489915?t=gh_src=&gh_jid=7489915",
-      "location": "London, UK",
-      "posted_date": "2026-02-11T12:42:12-05:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
-      "title": "Product Marketing Manager, Crypto - Onchain",
-      "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7489914?t=gh_src=&gh_jid=7489914",
-      "location": "Menlo Park, CA; New York, NY",
-      "posted_date": "2026-02-11T12:42:12-05:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
-      "title": "Product Marketing Manager, Crypto - Onchain",
-      "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7555441?t=gh_src=&gh_jid=7555441",
-      "location": "Toronto, Canada",
-      "posted_date": "2026-02-11T12:42:12-05:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
       "title": "Product Marketing Manager, Crypto - US",
       "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/7489895?t=gh_src=&gh_jid=7489895",
@@ -390,8 +363,8 @@
     {
       "title": "Staff Software Engineer, Web3",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952",
-      "location": "Toronto, Canada",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950",
+      "location": "Menlo Park, CA; New York, NY",
       "posted_date": "2026-02-19T18:06:11-05:00",
       "source": "greenhouse",
       "snippet": null
@@ -399,8 +372,8 @@
     {
       "title": "Staff Software Engineer, Web3",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950",
-      "location": "Menlo Park, CA; New York, NY",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952",
+      "location": "Toronto, Canada",
       "posted_date": "2026-02-19T18:06:11-05:00",
       "source": "greenhouse",
       "snippet": null
@@ -451,11 +424,11 @@
       "snippet": null
     },
     {
-      "title": "Senior Mobile Engineer, Crypto",
+      "title": "Senior Software Engineer, Crypto",
       "company": "SoFi",
-      "url": "https://sofi.com/careers/job/7605994003?gh_jid=7605994003",
-      "location": "CA - San Francisco; WA - Seattle; NY -New York; UT -  Cottonwood Heights",
-      "posted_date": "2026-03-03T22:02:06-05:00",
+      "url": "https://sofi.com/careers/job/7594162003?gh_jid=7594162003",
+      "location": "WA - Seattle; CA- SanFrancisco; NY - New York City; UT - Cottonwood Heights",
+      "posted_date": "2026-02-23T12:05:33-05:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -464,15 +437,6 @@
       "company": "SoFi",
       "url": "https://sofi.com/careers/job/7608080003?gh_jid=7608080003",
       "location": "CA - San Francisco",
-      "posted_date": "2026-02-23T12:05:33-05:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
-      "title": "Senior Software Engineer, Crypto",
-      "company": "SoFi",
-      "url": "https://sofi.com/careers/job/7594162003?gh_jid=7594162003",
-      "location": "WA - Seattle; CA- SanFrancisco; NY - New York City; UT - Cottonwood Heights",
       "posted_date": "2026-02-23T12:05:33-05:00",
       "source": "greenhouse",
       "snippet": null
@@ -496,162 +460,333 @@
       "snippet": null
     },
     {
-      "title": "Digital Assets & Tokenized Payments Analyst",
-      "company": "Vantage Bank Texas",
-      "url": "https://www.indeed.com/viewjob?jk=89285df568355482",
+      "title": "Blockchain Software Engineer",
+      "company": "Craftner INC",
+      "url": "https://www.indeed.com/viewjob?jk=063ba2a3859c5fc2",
       "location": null,
-      "posted_date": "2026-03-03",
+      "posted_date": "2026-03-05",
       "source": "indeed",
-      "snippet": "**At Vantage Bank, we're driven by a deep commitment to supporting our customers, valuing our employees, embracing diversity, fostering meaningful connections, and providing outstanding service every step of the way.**\n\n**JOB SUMMARY**\n\nThe Digital Assets \\& Tokenized Payments Analyst acts as a strategic liaison between business objectives and technology solutions in the banking and financial services sector. They focus on advancing digital asset and enterprise payment initiatives, with a partic"
+      "snippet": "###### **Charlotte, NC \\| Contract To Hire**\n\n\n#### **Preferred Skills**\n\n\nBlockchain  \n\n  \n\n  \n\n  \n\n  \n\n#### **Job Description**\n\n\n**Duties and Responsibilities:**\n\n* Design, develop and implement blockchain capabilities\n* Design new methods for implementing blockchain technology for our clients\n* Incorporate usage of digital tokens and smart contract\n* Execute research and development activities for new blockchain deliverables\n\n**Requirements:**\n\n* Bachelor’s in Computer Science, Information T"
     },
     {
-      "title": "MD Head of Wholesale Credit Technology - C16",
-      "company": "Citi",
-      "url": "https://www.indeed.com/viewjob?jk=d45e4a26c06e599c",
-      "location": null,
-      "posted_date": "2026-03-03",
-      "source": "indeed",
-      "snippet": "The Global Head of Wholesale Credit Technology will be responsible for defining, driving, and executing the technology strategy and roadmap for Wholesale Credit, encompassing direct ownership of the Helios application for credit production and LoanIQ for loan servicing. This critical leadership role will also be responsible for guiding the overall technology strategy for wholesale credit applications managed within other CIO groups (e.g., Trade Loans in Services, F\\+S in Markets). The focus will"
-    },
-    {
-      "title": "Operations Support Analyst",
-      "company": "nan",
-      "url": "https://www.indeed.com/viewjob?jk=c102a081753ce15d",
-      "location": null,
-      "posted_date": "2026-03-03",
-      "source": "indeed",
-      "snippet": "**About Coinflow**\n\n\nCoinflow is a next\\-generation payments company headquartered in Chicago, pioneering the way money moves globally. We enable merchants and marketplaces to accept payment methods across 170\\+ countries with instant settlement, AI\\-driven fraud prevention, and blockchain\\-based proof\\-of\\-delivery.\n\n\nBacked by leading investors—including Pantera Capital, CMT Digital, Coinbase Ventures, Jump Capital, and Reciprocal Ventures—Coinflow recently raised a $25M Series A to accelerate"
-    },
-    {
-      "title": "Blockchain Java Backend Engineer",
-      "company": "Tata Consultancy Services (TCS)",
-      "url": "https://www.indeed.com/viewjob?jk=e49019e3e57d794c",
-      "location": null,
-      "posted_date": "2026-03-03",
-      "source": "indeed",
-      "snippet": "Must Have Technical/Functional Skills\n Core Backend Skills\n* Strong proficiency in Java (8\\+), and frameworks such as Spring Boot / Spring Cloud.\n* Experience building distributed systems and microservices architectures at scale.\n* Strong knowledge of:\n\no Concurrency, multithreading, asynchronous programming\no API design (REST/gRPC), security (OAuth2/JWT), and integration patterns\n* Solid understanding of data stores:\n\no SQL (PostgreSQL/MySQL) and/or NoSQL (MongoDB/Cassandra)\no Caching (Redis) a"
-    },
-    {
-      "title": "Senior Security Engineer (contract)",
-      "company": "BNY",
-      "url": "https://www.indeed.com/viewjob?jk=9574de19fb068750",
-      "location": null,
-      "posted_date": "2026-03-03",
-      "source": "indeed",
-      "snippet": "At BNY, our culture allows us to run our company better and enables you to grow and succeed. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting\\-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.\n\n\n\n\nRecognized as a top destination for innovators and champ"
-    },
-    {
-      "title": "Content Marketing Manager",
+      "title": "Director, Social and Community",
       "company": "Ripple",
-      "url": "https://www.indeed.com/viewjob?jk=b635154d83548d32",
+      "url": "https://www.indeed.com/viewjob?jk=1f07ac83011bcf1d",
       "location": null,
-      "posted_date": "2026-03-03",
+      "posted_date": "2026-03-05",
       "source": "indeed",
       "snippet": "At Ripple, we're building a world where value moves like information does today. It's big, it's bold, and we're already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs.\n\n\n\nIf you're"
     },
     {
-      "title": "Senior Program and Operations Specialist",
-      "company": "Ripple",
-      "url": "https://www.indeed.com/viewjob?jk=87651479f6133e04",
+      "title": "Senior Consultant - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=5c0beaf509425f95",
       "location": null,
-      "posted_date": "2026-03-03",
+      "posted_date": "2026-03-04",
       "source": "indeed",
-      "snippet": "At Ripple, we're building a world where value moves like information does today. It's big, it's bold, and we're already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs.\n\n\n\nIf you're"
+      "snippet": "Are you ready for an impactful career at the crossroads of financial crime, innovation, and technology? Do you have a passion for helping clients address anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) challenges in the rapidly evolving digital asset ecosystem? Deloitte's Digital Assets practice blends deep risk management, regulatory understanding, and advanced analytics to help clients tackle today's threats and tomorrow's opportunities across both traditiona"
     },
     {
-      "title": "AI-Assisted Developer",
-      "company": "QuickFi By Innovation Finance",
-      "url": "https://www.indeed.com/viewjob?jk=5d8303aad0efadae",
+      "title": "Senior Consultant - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=6c6dd35e97846bc3",
       "location": null,
-      "posted_date": "2026-03-03",
+      "posted_date": "2026-03-04",
       "source": "indeed",
-      "snippet": "**Job Description:**\n\nQuickFi® is hiring a Developer focused on agentic, AI\\-assisted software development to help build, automate, and scale internal systems that power the QuickFi platform.\n\nThis global award\\-winning Rochester, NY\\-based fintech business will hire one highly motivated individual to help define and implement AI\\-native development workflows inside the company. This position is an in\\-office role at Rochester headquarters at Woodcliff Office Park in Fairport, NY.\n\nQuickFi® is a"
+      "snippet": "Are you ready for an impactful career at the crossroads of financial crime, innovation, and technology? Do you have a passion for helping clients address anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) challenges in the rapidly evolving digital asset ecosystem? Deloitte's Digital Assets practice blends deep risk management, regulatory understanding, and advanced analytics to help clients tackle today's threats and tomorrow's opportunities across both traditiona"
     },
     {
-      "title": "Blockchain/web3 Engineer",
-      "company": "Tata Consultancy Services (TCS)",
-      "url": "https://www.indeed.com/viewjob?jk=dc45ddb078432afe",
+      "title": "Manager - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=e095ad5eb69067ce",
       "location": null,
-      "posted_date": "2026-03-03",
+      "posted_date": "2026-03-04",
       "source": "indeed",
-      "snippet": "Must Have Technical/Functional Skills\nCore Web3 / Blockchain Skills (Must\\-Have)\n* Strong understanding of blockchain fundamentals:\n\no transactions, blocks, gas/fees, wallets/keys, RPC, finality, consensus basics\n* Hands\\-on experience with smart contracts:\n\no Solidity (preferred) and development tooling (Hardhat/Foundry/Truffle/Remix)\nExperience working with EVM\\-based chains (Ethereum/Polygon/Arbitrum/Optimism/BSC)\nor enterprise chains (Hyperledger Fabric/Corda/Quorum) depending on project\nRol"
+      "snippet": "Are you ready to lead at the frontier of financial crime prevention, regulation, and innovation? Do you have deep experience driving anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) initiatives in the dynamic digital asset sector? Deloitte's Digital Assets team equips clients to build secure, compliant, and resilient digital finance operations that keep pace with today's opportunities and risks.  \n\n  \n\nOur Deloitte Regulatory, Risk \\& Forensic team helps client"
     },
     {
-      "title": "AI Agent Engineer",
+      "title": "Senior Consultant - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=94d05109a4b7a1b3",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "Are you ready for an impactful career at the crossroads of financial crime, innovation, and technology? Do you have a passion for helping clients address anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) challenges in the rapidly evolving digital asset ecosystem? Deloitte's Digital Assets practice blends deep risk management, regulatory understanding, and advanced analytics to help clients tackle today's threats and tomorrow's opportunities across both traditiona"
+    },
+    {
+      "title": "Manager - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=9388208ba291350e",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "Are you ready to lead at the frontier of financial crime prevention, regulation, and innovation? Do you have deep experience driving anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) initiatives in the dynamic digital asset sector? Deloitte's Digital Assets team equips clients to build secure, compliant, and resilient digital finance operations that keep pace with today's opportunities and risks.  \n\n  \n\nOur Deloitte Regulatory, Risk \\& Forensic team helps client"
+    },
+    {
+      "title": "Manager - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=90725997eb777c5f",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "Are you ready to lead at the frontier of financial crime prevention, regulation, and innovation? Do you have deep experience driving anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) initiatives in the dynamic digital asset sector? Deloitte's Digital Assets team equips clients to build secure, compliant, and resilient digital finance operations that keep pace with today's opportunities and risks.  \n\n  \n\nOur Deloitte Regulatory, Risk \\& Forensic team helps client"
+    },
+    {
+      "title": "Manager - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=a4c4dbef335e9868",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "Are you ready to lead at the frontier of financial crime prevention, regulation, and innovation? Do you have deep experience driving anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) initiatives in the dynamic digital asset sector? Deloitte's Digital Assets team equips clients to build secure, compliant, and resilient digital finance operations that keep pace with today's opportunities and risks.  \n\n  \n\nOur Deloitte Regulatory, Risk \\& Forensic team helps client"
+    },
+    {
+      "title": "Senior Consultant - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=d802b76a54db05b7",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "Are you ready for an impactful career at the crossroads of financial crime, innovation, and technology? Do you have a passion for helping clients address anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) challenges in the rapidly evolving digital asset ecosystem? Deloitte's Digital Assets practice blends deep risk management, regulatory understanding, and advanced analytics to help clients tackle today's threats and tomorrow's opportunities across both traditiona"
+    },
+    {
+      "title": "Manager - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=148ac54a316f51ac",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "Are you ready to lead at the frontier of financial crime prevention, regulation, and innovation? Do you have deep experience driving anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) initiatives in the dynamic digital asset sector? Deloitte's Digital Assets team equips clients to build secure, compliant, and resilient digital finance operations that keep pace with today's opportunities and risks.  \n\n  \n\nOur Deloitte Regulatory, Risk \\& Forensic team helps client"
+    },
+    {
+      "title": "Senior Consultant - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=da1e9c2c8e89b3e7",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "Are you ready for an impactful career at the crossroads of financial crime, innovation, and technology? Do you have a passion for helping clients address anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) challenges in the rapidly evolving digital asset ecosystem? Deloitte's Digital Assets practice blends deep risk management, regulatory understanding, and advanced analytics to help clients tackle today's threats and tomorrow's opportunities across both traditiona"
+    },
+    {
+      "title": "Manager - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=13c586c2577e3d6a",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "Are you ready to lead at the frontier of financial crime prevention, regulation, and innovation? Do you have deep experience driving anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) initiatives in the dynamic digital asset sector? Deloitte's Digital Assets team equips clients to build secure, compliant, and resilient digital finance operations that keep pace with today's opportunities and risks.  \n\n  \n\nOur Deloitte Regulatory, Risk \\& Forensic team helps client"
+    },
+    {
+      "title": "Senior Consultant - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=c1c40caa8ec152ca",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "Are you ready for an impactful career at the crossroads of financial crime, innovation, and technology? Do you have a passion for helping clients address anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) challenges in the rapidly evolving digital asset ecosystem? Deloitte's Digital Assets practice blends deep risk management, regulatory understanding, and advanced analytics to help clients tackle today's threats and tomorrow's opportunities across both traditiona"
+    },
+    {
+      "title": "Manager - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=1ba51b9c4a51628c",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "Are you ready to lead at the frontier of financial crime prevention, regulation, and innovation? Do you have deep experience driving anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) initiatives in the dynamic digital asset sector? Deloitte's Digital Assets team equips clients to build secure, compliant, and resilient digital finance operations that keep pace with today's opportunities and risks.  \n\n  \n\nOur Deloitte Regulatory, Risk \\& Forensic team helps client"
+    },
+    {
+      "title": "Manager - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=df19dc663ccab230",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "Are you ready to lead at the frontier of financial crime prevention, regulation, and innovation? Do you have deep experience driving anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) initiatives in the dynamic digital asset sector? Deloitte's Digital Assets team equips clients to build secure, compliant, and resilient digital finance operations that keep pace with today's opportunities and risks.  \n\n  \n\nOur Deloitte Regulatory, Risk \\& Forensic team helps client"
+    },
+    {
+      "title": "Senior Consultant - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=a06777210b01d1b3",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "Are you ready for an impactful career at the crossroads of financial crime, innovation, and technology? Do you have a passion for helping clients address anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) challenges in the rapidly evolving digital asset ecosystem? Deloitte's Digital Assets practice blends deep risk management, regulatory understanding, and advanced analytics to help clients tackle today's threats and tomorrow's opportunities across both traditiona"
+    },
+    {
+      "title": "Senior Consultant - Digital Assets - AML/KYC/BSA Knowledge",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=6c40304a76166f0a",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "Are you ready for an impactful career at the crossroads of financial crime, innovation, and technology? Do you have a passion for helping clients address anti\\-money laundering (AML), know your customer (KYC), and Bank Secrecy Act (BSA) challenges in the rapidly evolving digital asset ecosystem? Deloitte's Digital Assets practice blends deep risk management, regulatory understanding, and advanced analytics to help clients tackle today's threats and tomorrow's opportunities across both traditiona"
+    },
+    {
+      "title": "Account Director - DoS / USSS / NCFI",
       "company": "TRM Labs",
-      "url": "https://www.indeed.com/viewjob?jk=d569fe1df3c996d9",
+      "url": "https://www.indeed.com/viewjob?jk=31bddea1ab2c7563",
       "location": null,
-      "posted_date": "2026-03-03",
+      "posted_date": "2026-03-04",
       "source": "indeed",
       "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
     },
     {
-      "title": "Associate / Senior Associate General Counsel",
-      "company": "Xsolla",
-      "url": "https://www.indeed.com/viewjob?jk=7e5f7d30d12dd4d6",
-      "location": null,
-      "posted_date": "2026-03-03",
-      "source": "indeed",
-      "snippet": "**ABOUT YOU**  \n\nWe are looking for a Associate / Senior Associate General Counsel who is detail\\-oriented, proactive, and a collaborative team player to join our Legal team. The ideal candidate thrives in a fast\\-paced, highly dynamic environment and is excited to provide strategic legal counsel, ensure compliance, and support Xsolla's business objectives. You will support the CLO across a broad range of corporate, transactional, and regulatory matters, with a particular focus on digital assets"
-    },
-    {
-      "title": "Associate / Senior Associate General Counsel",
-      "company": "Xsolla",
-      "url": "https://www.indeed.com/viewjob?jk=e03d191e780cd92f",
-      "location": null,
-      "posted_date": "2026-03-03",
-      "source": "indeed",
-      "snippet": "**ABOUT YOU**  \n\nWe are looking for a Associate / Senior Associate General Counsel who is detail\\-oriented, proactive, and a collaborative team player to join our Legal team. The ideal candidate thrives in a fast\\-paced, highly dynamic environment and is excited to provide strategic legal counsel, ensure compliance, and support Xsolla's business objectives. You will support the CLO across a broad range of corporate, transactional, and regulatory matters, with a particular focus on digital assets"
-    },
-    {
-      "title": "Communications Manager",
-      "company": "CertiK",
-      "url": "https://www.indeed.com/viewjob?jk=9d0ca2ffb659db1b",
-      "location": null,
-      "posted_date": "2026-03-03",
-      "source": "indeed",
-      "snippet": "**About the Company**\nCertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To date, CertiK has worked with over 5,000 Enterprise clients, secured over $557 billion worth of digital assets, and has detected over 18,000 vulnerabilities in blockchain code. Our clients include leading projects such as OKX, Tether, Ripple, and Pancakeswap. Our investors include top VCs like Tiger Global, Coatue Management, Shunwei Capital and H"
-    },
-    {
-      "title": "AP/AR Manager",
-      "company": "Polygon Labs",
-      "url": "https://www.indeed.com/viewjob?jk=657b66a2da8b3e62",
-      "location": null,
-      "posted_date": "2026-03-03",
-      "source": "indeed",
-      "snippet": "**About Polygon Labs**\n----------------------\n\n\nPolygon Labs is a global blockchain payments company building and operating infrastructure to move money instantly, reliably, and at internet scale, with the mission to move all money onchain. It is building the Polygon Open Money Stack, an open and integrated stack of services and technologies to instantly and reliably move money anywhere, and put it to work. Its infrastructure has facilitated trillions of dollars in onchain value transfer and sup"
-    },
-    {
-      "title": "Lead Software Engineer - Blockchain (Public or Permissioned blockchain platforms)",
-      "company": "JPMorganChase",
-      "url": "https://www.indeed.com/viewjob?jk=21a0a9501d4dc7bb",
-      "location": null,
-      "posted_date": "2026-03-03",
-      "source": "indeed",
-      "snippet": "**JOB DESCRIPTION**  \n\nBe an integral part of an agile team that's constantly pushing the envelope to enhance, build, and deliver top\\-notch technology products.\n\n\nAs a Lead Software Engineer at JPMorgan Chase, within **Commercial** and **Investment Banking team,** you will play a key role in an agile team dedicated to building, enhancing, and delivering trusted, market\\-leading technology products. You will leverage your deep technical expertise and problem\\-solving skills to address complex ch"
-    },
-    {
-      "title": "Engineering Manager, AI Product Engineering",
+      "title": "Account Director - DOJ",
       "company": "TRM Labs",
-      "url": "https://www.indeed.com/viewjob?jk=92a6213f81d88b4a",
+      "url": "https://www.indeed.com/viewjob?jk=6a62a74bcf9ccb43",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Account Director, Canada (NatSec)",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=401dc3524f31f113",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Account Director - State and Local Law Enforcement",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=fd666ea3a6f0a893",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Fidelity Investments",
+      "url": "https://www.indeed.com/viewjob?jk=4d57da990117ae0f",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "### **Job Description:**\n\n**The Role**\n\n\nWe are seeking a highly skilled Technical Product Manager to lead product development within the Fidelity Center for Applied Technology (FCAT) new product and technology incubators. As a Technical Product Manager, you will be responsible for leveraging cutting\\-edge technologies, including Blockchain, Artificial Intelligence, Emerging Technology, and human\\-centered design to rapidly move blue\\-sky ideas to proofs of concepts (POCs), pilots, and minimum v"
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Fidelity Investments",
+      "url": "https://www.indeed.com/viewjob?jk=09a5aff22089ed62",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "### **Job Description:**\n\n**The Role**\n\n\nWe are seeking a highly skilled Technical Product Manager to lead product development within the Fidelity Center for Applied Technology (FCAT) new product and technology incubators. As a Technical Product Manager, you will be responsible for leveraging cutting\\-edge technologies, including Blockchain, Artificial Intelligence, Emerging Technology, and human\\-centered design to rapidly move blue\\-sky ideas to proofs of concepts (POCs), pilots, and minimum v"
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Fidelity Investments",
+      "url": "https://www.indeed.com/viewjob?jk=67db1940bceed071",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "### **Job Description:**\n\n**The Role**\n\n\nWe are seeking a highly skilled Technical Product Manager to lead product development within the Fidelity Center for Applied Technology (FCAT) new product and technology incubators. As a Technical Product Manager, you will be responsible for leveraging cutting\\-edge technologies, including Blockchain, Artificial Intelligence, Emerging Technology, and human\\-centered design to rapidly move blue\\-sky ideas to proofs of concepts (POCs), pilots, and minimum v"
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Fidelity Investments",
+      "url": "https://www.indeed.com/viewjob?jk=7ffc9014ed7fd5a3",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "### **Job Description:**\n\n**The Role**\n\n\nWe are seeking a highly skilled Technical Product Manager to lead product development within the Fidelity Center for Applied Technology (FCAT) new product and technology incubators. As a Technical Product Manager, you will be responsible for leveraging cutting\\-edge technologies, including Blockchain, Artificial Intelligence, Emerging Technology, and human\\-centered design to rapidly move blue\\-sky ideas to proofs of concepts (POCs), pilots, and minimum v"
+    },
+    {
+      "title": "Lead Product Manager, Liquidity",
+      "company": "Ripple",
+      "url": "https://www.indeed.com/viewjob?jk=7615cd64ecd5d36c",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "At Ripple, we're building a world where value moves like information does today. It's big, it's bold, and we're already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs.\n\n\n\nIf you're"
+    },
+    {
+      "title": "Lead Product Manager, Platform Connectivity",
+      "company": "Ripple",
+      "url": "https://www.indeed.com/viewjob?jk=0b7cd5c88487029e",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "At Ripple, we're building a world where value moves like information does today. It's big, it's bold, and we're already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs.\n\n\n\nIf you're"
+    },
+    {
+      "title": "Account Director - Public Sector (Middle East)",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=447bab2216e4e8d6",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Forward Deployed Engineer - US National Security",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=d6f51822af2a240d",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Forward Deployed Engineer - US National Security",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=e9911ccc0a256e84",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Lead Instructor/Trainer (National Security)",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=bb76c7b0bc55deeb",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Sales Account Director - Public Sector (Eastern Europe)",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=49def1a821b00f1f",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Sales Account Director - Public Sector (Eastern Europe)",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=5cfc32ee267f2deb",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Sales Account Director - DACH",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=7a9b8db63ccea22c",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Blockchain & DeFi Sales Specialist",
+      "company": "Iopa Solutions",
+      "url": "https://www.linkedin.com/jobs/view/4378857758",
       "location": null,
       "posted_date": "2026-03-02",
-      "source": "indeed",
-      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+      "source": "linkedin",
+      "snippet": "nan"
     },
     {
       "title": "DeFi Specialist",
       "company": "Monad Foundation",
       "url": "https://www.linkedin.com/jobs/view/4378719908",
-      "location": null,
-      "posted_date": "2026-02-27",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Web3 Capital Markets Associate",
-      "company": "Innovation Vision Technology Consultants",
-      "url": "https://www.linkedin.com/jobs/view/4379063317",
       "location": null,
       "posted_date": "2026-02-27",
       "source": "linkedin",
@@ -672,6 +807,15 @@
       "url": "https://www.linkedin.com/jobs/view/4377252521",
       "location": null,
       "posted_date": "2026-02-26",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Crypto Analyst",
+      "company": "Weiss Ratings",
+      "url": "https://www.linkedin.com/jobs/view/4363077357",
+      "location": null,
+      "posted_date": "2026-02-11",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -703,58 +847,76 @@
       "snippet": "nan"
     },
     {
-      "title": "Sales Enablement Analyst, Broker API",
-      "company": "Alpaca",
-      "url": "https://www.indeed.com/viewjob?jk=1ddf9c9c625015db",
+      "title": "DeFi Specialist",
+      "company": "Iopa Solutions",
+      "url": "https://www.linkedin.com/jobs/view/4379648955",
+      "location": null,
+      "posted_date": "nan",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Head of Operations (Web3)",
+      "company": "Spectrum Search",
+      "url": "https://www.linkedin.com/jobs/view/4378917650",
+      "location": null,
+      "posted_date": "nan",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Fractional Chief Technology Offer (fCTO) - FinTech / Banking / Crypto",
+      "company": "Anytime Bitcoin",
+      "url": "https://www.indeed.com/viewjob?jk=8c529b85d1f028e6",
+      "location": null,
+      "posted_date": "2026-03-05",
+      "source": "indeed",
+      "snippet": "**1\\.) About Us**\n\nAnytime Capital is a growing FinTech company building digital financial infrastructure. We currently have a newly built, production\\-ready web application deployed on Vercel and connected to a structured GitHub repository.\n\nOur development team consists of multiple full\\-stack engineers and a Product Marketing Manager overseeing execution. We’re now looking for a strategic technical leader to elevate our infrastructure, guide long\\-term scalability, and align our tech roadmap"
+    },
+    {
+      "title": "Forward Deployed Data Engineer (TS/SCI)",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=41b8b52b4f4453d1",
       "location": null,
       "posted_date": "2026-03-04",
       "source": "indeed",
-      "snippet": "**Who We Are:**\n\n\n\nAlpaca is a US\\-headquartered self\\-clearing broker\\-dealer and brokerage infrastructure for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more. Our recent Series D funding round brought our total investment to over $320 million, fueling our ambitious vision.\n\n\n\nAmongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional\\-grade APIs. This includes broker\\-deale"
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
     },
     {
-      "title": "Alternate COMSEC Responsible Officer",
-      "company": "Lockheed Martin",
-      "url": "https://www.indeed.com/viewjob?jk=cd05fa66752d3aef",
+      "title": "Forward Deployed Engineer (TS/SCI)",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=4c60899bb0f450c6",
       "location": null,
-      "posted_date": "2026-03-03",
+      "posted_date": "2026-03-04",
       "source": "indeed",
-      "snippet": "**Job ID:** 719512BR\n  \n\n**Date posted:** Mar. 03, 2026  \n\n  \n\n**Description:****This position requires TS/SCI clearance with ability to pass a Polygraph.**  \n\n  \n\nThe Alternate COMSEC Responsible Officer duties of this position include:  \n\n* Safeguarding and accounting for classified and unclassified COMSEC Controlled Cryptographic Items (CCIs)\n* Disseminate, inventory, and destroy COMSEC keying material\n* Maintain COMSEC records\n* Perform courier duties, and comply with all NSA and Customer sp"
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
     },
     {
-      "title": "Software Engineer, Tokenization",
-      "company": "Talos Global",
-      "url": "https://www.indeed.com/viewjob?jk=5266f6ce48351370",
+      "title": "Account Director - DACH (Public Sector)",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=5fba595b9b3fbf4f",
       "location": null,
-      "posted_date": "2026-03-03",
+      "posted_date": "2026-03-04",
       "source": "indeed",
-      "snippet": "Location\n\n\nNew York\nEmployment Type\n\n\nFull time\nDepartment\n\n\nEngineering\nCompensation\n\n\n$140K – $200K • Offers Equity • Offers Bonus\n\n\n\n\n**Talos: Institutional Fabric for Digital Asset Markets**\nFounded in 2018, Talos provides institutional\\-grade trading technology for the global digital asset market, powering many of the major players in the crypto ecosystem. Our mission is clear: to advance the mass adoption of digital assets by seamlessly connecting institutions to the digital asset ecosyste"
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
     },
     {
-      "title": "Senior Software Engineer - Payments",
-      "company": "Block Labs",
-      "url": "https://www.indeed.com/viewjob?jk=0b3edea2365ac494",
+      "title": "Sales Account Director - Public Sector (Eastern Europe)",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=8a34c4953a5031c2",
       "location": null,
-      "posted_date": "2026-03-03",
+      "posted_date": "2026-03-04",
       "source": "indeed",
-      "snippet": "**About Block Labs**\n====================\n\n\nBlock Labs is a premier technology studio operating at the bleeding edge of **Web3, Artificial Intelligence, and iGaming**. We don't just ship features; we engineer high\\-scale, production\\-grade platforms that power the next generation of digital products.\n\n\nWe are a collective of senior engineers, product strategists, and builders who refuse to compromise on architecture. Whether we are designing autonomous multi\\-agent AI systems, building decentral"
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
     },
     {
-      "title": "Accounting Manager - Client Lead",
-      "company": "Graphite Financial Group",
-      "url": "https://www.indeed.com/viewjob?jk=2fa7cf997e616c8b",
+      "title": "Social Media Manager (Crypto/Web3) - Dragonfly Portfolio",
+      "company": "Dragonfly",
+      "url": "https://www.linkedin.com/jobs/view/4375537564",
       "location": null,
-      "posted_date": "2026-03-03",
-      "source": "indeed",
-      "snippet": "**Graphite Financial** is a growing boutique finance, accounting, tax, and strategy firm (www.graphitefinancial.com) built to help startup and high\\-growth companies scale efficiently and sustainably. Graphite Financial is redefining the “finance department” for early\\-stage companies and VC\\-backed startups. We deliver high\\-caliber accounting and finance leadership and support to entrepreneurs and management teams building scalable, high\\-growth companies. Our clients are actively managing cas"
-    },
-    {
-      "title": "Operations Control, Senior Manager",
-      "company": "Alpaca",
-      "url": "https://www.indeed.com/viewjob?jk=47341b3d46a9794a",
-      "location": null,
-      "posted_date": "2026-03-03",
-      "source": "indeed",
-      "snippet": "**Who We Are:**\n\n\n\nAlpaca is a US\\-headquartered self\\-clearing broker\\-dealer and brokerage infrastructure for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more. Our recent Series D funding round brought our total investment to over $320 million, fueling our ambitious vision.\n\n\n\nAmongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional\\-grade APIs. This includes broker\\-deale"
+      "posted_date": "2026-02-26",
+      "source": "linkedin",
+      "snippet": "nan"
     },
     {
       "title": "Entry-Level Crypto Market Specialist",
@@ -769,6 +931,15 @@
       "title": "Entry-Level Crypto Market Specialist",
       "company": "ELEMENTAL TERRA CAPITAL LTD",
       "url": "https://www.linkedin.com/jobs/view/4376523721",
+      "location": null,
+      "posted_date": "2026-02-23",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Equity Research Associate - Crypto & Digital Assets",
+      "company": "Jefferies",
+      "url": "https://www.linkedin.com/jobs/view/4377050428",
       "location": null,
       "posted_date": "2026-02-23",
       "source": "linkedin",
@@ -791,6 +962,87 @@
       "posted_date": "2026-01-11",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "Product Manager Director, Web3 Wallet",
+      "company": "OKG",
+      "url": "https://www.indeed.com/viewjob?jk=c1946f575b7923c1",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Who We Are**\n--------------\n\n\nAt OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets. We are safe and reliable, backed by our Proof of Reserves. Across our multiple offices globally,"
+    },
+    {
+      "title": "GTM Strategy & Operations Senior Manager",
+      "company": "Ripple",
+      "url": "https://www.indeed.com/viewjob?jk=adc9a2b29dbb8de4",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "At Ripple, we're building a world where value moves like information does today. It's big, it's bold, and we're already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs.\n\n\n\nIf you're"
+    },
+    {
+      "title": "Senior Sales Manager",
+      "company": "Ripple",
+      "url": "https://www.indeed.com/viewjob?jk=c2901a13ef6a5f0d",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "At Ripple, we're building a world where value moves like information does today. It's big, it's bold, and we're already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs.\n\n\n\nIf you're"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=c84c0720fcafa1b8",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Job Required Skills**\n\nProficiency in web development technologies such as HTML, CSS, JavaScript, and frameworks like React or Angular, Experience with blockchain technology and smart contracts, Strong understanding of Web 3\\.0 principles and protocols, Knowledge of decentralized applications (dApps) development, Familiarity with web3 development tools such as Truffle, Remix, or Hardhat\n\n**Job Essential Functions**\n\nDesigning and developing Web 3\\.0 applications using blockchain technology, Bu"
+    },
+    {
+      "title": "Algo Trading Quant",
+      "company": "Decentralized Masters",
+      "url": "https://www.indeed.com/viewjob?jk=1c9ac799261c54e0",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "Who Are We?\nDecentralized Masters is at the forefront of DeFi education globally. In just two years, we have grown from a pioneering pair of co\\-founders to over 140 dedicated professionals. Today, we are recognized as one of the fastest\\-growing enterprises in the sector, with industry insiders predicting our evolution into a unicorn company by 2030\\. Operating on a bootstrapped model, we are on track to achieve an impressive $50 million in revenue this year alone.\n\n\nOur Impact\nWhile our growth"
+    },
+    {
+      "title": "Blockchain/web3 Engineer",
+      "company": "Tata Consultancy Services (TCS)",
+      "url": "https://www.indeed.com/viewjob?jk=dc45ddb078432afe",
+      "location": null,
+      "posted_date": "2026-03-03",
+      "source": "indeed",
+      "snippet": "Must Have Technical/Functional Skills\nCore Web3 / Blockchain Skills (Must\\-Have)\n* Strong understanding of blockchain fundamentals:\n\no transactions, blocks, gas/fees, wallets/keys, RPC, finality, consensus basics\n* Hands\\-on experience with smart contracts:\n\no Solidity (preferred) and development tooling (Hardhat/Foundry/Truffle/Remix)\nExperience working with EVM\\-based chains (Ethereum/Polygon/Arbitrum/Optimism/BSC)\nor enterprise chains (Hyperledger Fabric/Corda/Quorum) depending on project\nRol"
+    },
+    {
+      "title": "Senior Software Engineer - Payments",
+      "company": "Block Labs",
+      "url": "https://www.indeed.com/viewjob?jk=0b3edea2365ac494",
+      "location": null,
+      "posted_date": "2026-03-03",
+      "source": "indeed",
+      "snippet": "**About Block Labs**\n====================\n\n\nBlock Labs is a premier technology studio operating at the bleeding edge of **Web3, Artificial Intelligence, and iGaming**. We don't just ship features; we engineer high\\-scale, production\\-grade platforms that power the next generation of digital products.\n\n\nWe are a collective of senior engineers, product strategists, and builders who refuse to compromise on architecture. Whether we are designing autonomous multi\\-agent AI systems, building decentral"
+    },
+    {
+      "title": "Accounting Manager - Client Lead",
+      "company": "Graphite Financial Group",
+      "url": "https://www.indeed.com/viewjob?jk=2fa7cf997e616c8b",
+      "location": null,
+      "posted_date": "2026-03-03",
+      "source": "indeed",
+      "snippet": "**Graphite Financial** is a growing boutique finance, accounting, tax, and strategy firm (www.graphitefinancial.com) built to help startup and high\\-growth companies scale efficiently and sustainably. Graphite Financial is redefining the “finance department” for early\\-stage companies and VC\\-backed startups. We deliver high\\-caliber accounting and finance leadership and support to entrepreneurs and management teams building scalable, high\\-growth companies. Our clients are actively managing cas"
+    },
+    {
+      "title": "Communications Manager",
+      "company": "CertiK",
+      "url": "https://www.indeed.com/viewjob?jk=9d0ca2ffb659db1b",
+      "location": null,
+      "posted_date": "2026-03-03",
+      "source": "indeed",
+      "snippet": "**About the Company**\nCertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To date, CertiK has worked with over 5,000 Enterprise clients, secured over $557 billion worth of digital assets, and has detected over 18,000 vulnerabilities in blockchain code. Our clients include leading projects such as OKX, Tether, Ripple, and Pancakeswap. Our investors include top VCs like Tiger Global, Coatue Management, Shunwei Capital and H"
     },
     {
       "title": "Technical Product Manager",
@@ -845,6 +1097,15 @@
       "posted_date": "2026-02-27",
       "source": "indeed",
       "snippet": "Founded in Silicon Valley in 2009 by Marc Andreessen and Ben Horowitz, Andreessen Horowitz (aka a16z) is a venture capital firm that backs bold entrepreneurs building the future through technology. We are stage agnostic. We invest in seed to venture to growth\\-stage technology companies, across AI, bio \\+ healthcare, consumer, crypto, enterprise, fintech, games, and companies building toward American dynamism. a16z has $90B under management across multiple funds.\n\n\n\nWe've established a team that"
+    },
+    {
+      "title": "AI Product & Research Engineer",
+      "company": "GALAXY",
+      "url": "https://www.indeed.com/viewjob?jk=18cd4666f4dd175b",
+      "location": null,
+      "posted_date": "2026-02-27",
+      "source": "indeed",
+      "snippet": "**Who We Are:**  \n\nGalaxy is a global leader in digital assets and data center infrastructure, delivering solutions that accelerate progress in finance and artificial intelligence. We believe that blockchain and digital asset innovation will transform how value moves through the world – and we're building the products and services to make that future a reality.  \n\n  \n\nOur institutional digital assets platform spans trading, investment banking, asset management, staking, self\\-custody, and tokeni"
     },
     {
       "title": "AI & Trading Engineer",
@@ -955,51 +1216,6 @@
       "snippet": "Full Time\n\n\nRemote\n\n\nPosted 0 months ago\n\n\n**Summary**  \n\nBlockchain Analytics Specialist skilled in identifying, tracing, and analyzing both on\\-chain and off\\-chain data across diverse blockchains, DeFi protocols, and digital asset ecosystems. Experienced in advanced attribution methodologies, combining strong investigative insight with deep technical expertise. Adept at processing large volumes of blockchain data, uncovering actionable intelligence, and delivering clear, results\\-driven analy"
     },
     {
-      "title": "Senior Backend Security and Identity Engineer",
-      "company": "Uphold",
-      "url": "https://www.indeed.com/viewjob?jk=e35ed07013225117",
-      "location": null,
-      "posted_date": "2026-02-23",
-      "source": "indeed",
-      "snippet": "**About Uphold**\n\n\n\nUphold is a financial technology company that believes on\\-chain services are the future of finance. It provides modern infrastructure for on\\-chain payments, banking, and investments. Offering Consumer Services, Business Services, and Institutional Trading, Uphold makes pioneering financial services easy and trusted for millions of customers in more than 140 countries.\n\n  \n\nUphold strips away the complexity and lack of transparency to open up Web3 finance for everyone."
-    },
-    {
-      "title": "Research Scientist/Engineer",
-      "company": "Offchain Labs",
-      "url": "https://www.indeed.com/viewjob?jk=c7e5190aa74fa116",
-      "location": null,
-      "posted_date": "2026-02-23",
-      "source": "indeed",
-      "snippet": "At Offchain Labs, we aren’t just building products: we’re leading a movement.  \n\nAs pioneers in blockchain scalability and security, we're at the forefront of transforming how the world interacts with decentralized applications. We're laying the foundation that will define the next generation of digital commerce, governance, and human interaction. This involves tackling real\\-world challenges that come with scaling blockchain technology, without compromising on its core principles: decentralizat"
-    },
-    {
-      "title": "Blockchain Analytics Specialist",
-      "company": "Guidepost Solutions LLC",
-      "url": "https://www.indeed.com/viewjob?jk=65911994542d6d45",
-      "location": null,
-      "posted_date": "2026-02-23",
-      "source": "indeed",
-      "snippet": "**SUMMARY**\n\n\nBlockchain Analytics Specialist skilled in identifying, tracing, and analyzing both on\\-chain and off\\-chain data across diverse blockchains, DeFi protocols, and digital asset ecosystems. Experienced in advanced attribution methodologies, combining strong investigative insight with deep technical expertise. Adept at processing large volumes of blockchain data, uncovering actionable intelligence, and delivering clear, results\\-driven analysis.\n\n**CORE RESPONSIBILITIES**\n\n* Support t"
-    },
-    {
-      "title": "AI Generalist (Junior–Mid Level)",
-      "company": "ChainIT Pay",
-      "url": "https://www.indeed.com/viewjob?jk=fc21efe17a9deca1",
-      "location": null,
-      "posted_date": "2026-02-23",
-      "source": "indeed",
-      "snippet": "AI Generalist (Junior–Mid Level)\n\nLocation: Remote / Hybrid  \nType: Full\\-time  \nCompany: ChainIT\n\nAbout ChainIT\n\nChainIT is building at the intersection of Web3 and intelligent systems. We believe AI agents won’t just support teams — they’ll become core operators across marketing, sales, operations, and product. We're looking for someone early in their career who wants to grow into that future with us.\n\nThe Role\n\nWe’re hiring an AI Generalist to help integrate agentic AI systems across every pa"
-    },
-    {
-      "title": "Independent Sales Contractor",
-      "company": "Sanghvi Infosoft",
-      "url": "https://www.indeed.com/viewjob?jk=b26a190c6d610738",
-      "location": null,
-      "posted_date": "2026-02-23",
-      "source": "indeed",
-      "snippet": "**Commission\\-Based \\| Global \\| B2B Tech Sales**\n\nWe are a engineering company building custom software solutions for startups, enterprises, fintech companies, Web3 projects, and e\\-commerce brands worldwide.\n\nWe’re looking for a driven Independent Sales Contractor to help us expand our client base and generate high\\-quality leads.\n\n**What We Do**\n\nWe build: Custom Web \\& Mobile Applications SaaS Platforms \\& Fintech Systems Web3 Applications \\& Smart Contracts (Solana\\-focused) Validator Infra"
-    },
-    {
       "title": "Head of Ecosystem",
       "company": "mLabs",
       "url": "https://www.indeed.com/viewjob?jk=82db264330355477",
@@ -1018,20 +1234,20 @@
       "snippet": "Senior EVM \\& Web3 Engineer \\- Enterprise Distributed Ledger\n**Location:** Remote \\- US \\- Open to Europe if happy to overlap with EST\n\n**Compensation:** Competitive\n\n\nWe are hiring on behalf of our client who is a fast\\-growing software company dedicated to supporting and servicing an **open source, proof\\-of\\-stake platform** that is **EVM\\-compatible**. This network is specifically built to meet the needs of enterprise and Web3 applications, prioritizing speed, security, and stability. They a"
     },
     {
-      "title": "Social Media Manager (Crypto/Web3) - Dragonfly Portfolio",
-      "company": "Dragonfly",
-      "url": "https://www.linkedin.com/jobs/view/4375537564",
-      "location": null,
-      "posted_date": "2026-02-26",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Head of Partnerships - Web3 Infrastructure",
       "company": "Revenue3",
       "url": "https://www.linkedin.com/jobs/view/4376392448",
       "location": null,
       "posted_date": "2026-02-22",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Head of Growth - *Crypto-Native - Remote",
+      "company": "Embakire Workforce",
+      "url": "https://www.linkedin.com/jobs/view/4366029353",
+      "location": null,
+      "posted_date": "2026-01-27",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1045,40 +1261,157 @@
       "snippet": "nan"
     },
     {
-      "title": "Real Estate Manager",
-      "company": "Data Airflow",
-      "url": "https://www.indeed.com/viewjob?jk=69a4aedfc96c24eb",
+      "title": "Web3 Portfolio Manager",
+      "company": "VynceTech",
+      "url": "https://www.linkedin.com/jobs/view/4378982530",
       "location": null,
-      "posted_date": "2026-03-03",
-      "source": "indeed",
-      "snippet": "**Job Title: Real Estate Manager FLSA Status: Exempt (FT)**\n\n\n**Location: Boise (On\\-site) Reports To: COO**\n\n **Why Join Data Airflow?**\n\nWe’re a growing, founder\\-led company solving real problems for modern data teams – and most importantly – we listen to the people doing the work. Data Airflow is a fast\\-growing company that tailors data center cooling solutions in the cryptocurrency mining and AI systems. You’ll join a collaborative, low\\-ego team where ideas matter, autonomy is real, and y"
+      "posted_date": "nan",
+      "source": "linkedin",
+      "snippet": "nan"
     },
     {
-      "title": "Project Manager",
-      "company": "Data Airflow",
-      "url": "https://www.indeed.com/viewjob?jk=249cd317db17c6b8",
+      "title": "Execution Services Senior Analyst - Fidelity Digital Assets",
+      "company": "Fidelity Investments",
+      "url": "https://www.indeed.com/viewjob?jk=a54f743a5dc3abe5",
       "location": null,
-      "posted_date": "2026-03-03",
+      "posted_date": "2026-03-04",
       "source": "indeed",
-      "snippet": "**Why Join Data Airflow?**\n\nWe’re a growing, founder\\-led company solving real problems for modern data teams – and most importantly – we listen to the people doing the work. Data Airflow is a fast\\-growing company that tailors data center cooling solutions in the cryptocurrency mining and AI systems. You’ll join a collaborative, low\\-ego team where ideas matter, autonomy is real, and your influence is impactful. We move fast, value curiosity, and believe great work happens when smart people are"
+      "snippet": "### **Job Description:**\n\n**Job Title:** Senior Analyst, Execution Services – Fidelity Digital Assets\n\n**Dublin:** 7am – 3:30pm / 8:30am – 5pm (Shift rotation for every 3rd weekend work)\n\n**Boston:** 8am – 5pm (Shift rotation for every 3rd weekend work)\n\n**Salt Lake:** 1pm – 11:30pm / (Shift rotation for every 3rd weekend work)\n\n**The Role**\n\n\nFidelity Digital Assets® is an exciting new business unit that is focused on bringing emerging concepts to life in the digital asset arena and delivering"
     },
     {
-      "title": "Attorney Advisor, Dark Web and Cryptocurrency International Computer Hacking and Intellectual Property (DWC-ICHIP), Remote",
-      "company": "United States Department of Justice",
-      "url": "https://www.indeed.com/viewjob?jk=c2e78f4a3f22677e",
+      "title": "Chief Compliance Officer",
+      "company": "Coinme",
+      "url": "https://www.indeed.com/viewjob?jk=49caf46ff0dbf4e1",
       "location": null,
-      "posted_date": "2026-03-03",
+      "posted_date": "2026-03-04",
       "source": "indeed",
-      "snippet": "Hiring Organization\n  \nCriminal Division (CRM)\n  \nHiring Office\n  \nOffice of Overseas Prosecutorial Development, Assistance and Training\n  \nAttorney Appointment Type\n  \nAttorney Detail\n  \nJob ID\n  \n26\\-CRM\\-DET\\-011\n  \n  \n\n**Location:**  \n\nRemote\n  \nUnited States\n  \n  \n\n**Application Deadline:**  \n\nMonday, May 4, 2026\n  \nAbout the Office\n  \n  \n\nWhile this vacancy announcement expires on May 4, 2026, the announcement may be closed at any time if a selection is made. This assignment is for a perio"
+      "snippet": "At Coinme, we're redefining access to financial services in a digital world. By combining the cutting\\-edge power of blockchain technology with everyday simplicity, we make digital currencies accessible and usable for all.\n\n\n\nAs the world's largest network of cryptocurrency kiosks with over 40,000 locations nationwide, we're breaking down barriers to crypto adoption through our seamless mobile app, secure digital wallet, and DeFi integrations. Beyond our consumer offerings, we're also the infras"
     },
     {
-      "title": "Machine Learning Infrastructure Engineer",
+      "title": "Lead Instructor/Trainer (National Security)",
       "company": "TRM Labs",
-      "url": "https://www.indeed.com/viewjob?jk=27f13864bdbdf487",
+      "url": "https://www.indeed.com/viewjob?jk=c6bb385cfd7be9f0",
       "location": null,
-      "posted_date": "2026-03-02",
+      "posted_date": "2026-03-04",
       "source": "indeed",
       "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Senior Infrastructure Engineer",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=b0ef470a847776fd",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Senior Cloud Security Engineer (DevSecOps)",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=3b50d634154dd6c5",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Account Director, Canada (NatSec)",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=086f5b771827ca91",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Sales Development Representative - Federal Civilian",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=4f27bea4c2d5f45d",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Head of Sales, US Financial Institutions",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=637d07712e86b672",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Account Director - North American Crypto",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=ff1b29b4a72b5390",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Enablement Specialist, Private Sector",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=63f7f19e0266f653",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Account Director - DoS / USSS / NCFI",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=bec487f52ede2b22",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Senior Growth Marketing Manager",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=c2cc1c1ff63c7c8b",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Intelligence Operations Contractor",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=f2a975f57cb4222e",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Strategic Finance Manager, GTM",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=cc7a4c1bd9100580",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Crypto AML Investigator",
+      "company": "Robinhood",
+      "url": "https://www.linkedin.com/jobs/view/4378127575",
+      "location": null,
+      "posted_date": "2026-03-03",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Blockchain Intelligence Analyst",
+      "company": "TRM Labs",
+      "url": "https://www.linkedin.com/jobs/view/4077506251",
+      "location": null,
+      "posted_date": "2026-02-27",
+      "source": "linkedin",
+      "snippet": "nan"
     },
     {
       "title": "DeFi Algorithmic Trading Internship",
@@ -1090,20 +1423,20 @@
       "snippet": "nan"
     },
     {
-      "title": "Crypto Analyst",
-      "company": "Weiss Ratings",
-      "url": "https://www.linkedin.com/jobs/view/4363077357",
+      "title": "Crypto Wallet Operations Specialist",
+      "company": "moomoo",
+      "url": "https://www.linkedin.com/jobs/view/4372626591",
       "location": null,
-      "posted_date": "2026-02-11",
+      "posted_date": "2026-02-18",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Account Executive (Crypto)",
+      "title": "Account Manager (Institutional Crypto)",
       "company": "The Tie",
-      "url": "https://www.linkedin.com/jobs/view/4339103605",
+      "url": "https://www.linkedin.com/jobs/view/4346156010",
       "location": null,
-      "posted_date": "2025-11-25",
+      "posted_date": "2025-12-24",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1113,15 +1446,6 @@
       "url": "https://www.linkedin.com/jobs/view/4289392765",
       "location": null,
       "posted_date": "2025-08-22",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Blockchain Security Researcher - Future Openings",
-      "company": "OpenZeppelin",
-      "url": "https://www.linkedin.com/jobs/view/4008713856",
-      "location": null,
-      "posted_date": "2024-08-02",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1486,6 +1810,24 @@
       "snippet": "**Position Purpose:**\n\n\nThe Senior Client Executive assumes the leadership role in managing defi SOLUTIONS business relationships with a portfolio of large, multi\\-million dollar clients from a strategic and consultative perspective. Serving as the primary contact for the client’s executive and/ or senior level managers, the Senior Client Executive is responsible for managing and growing the overall relationship with key senior\\-level decision makers and influencers at assigned clients to create"
     },
     {
+      "title": "Director, Stock Tokenization Product",
+      "company": "Securitize",
+      "url": "https://www.linkedin.com/jobs/view/4379926546",
+      "location": null,
+      "posted_date": "2026-03-03",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Institutional BD – DeFi Lending (App: 81078)",
+      "company": "Referment",
+      "url": "https://www.linkedin.com/jobs/view/4380145762",
+      "location": null,
+      "posted_date": "2026-03-03",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
       "title": "Macro Strategist, Crypto & Digital Assets",
       "company": "F&L Search",
       "url": "https://www.linkedin.com/jobs/view/4363082346",
@@ -1531,33 +1873,6 @@
       "snippet": "nan"
     },
     {
-      "title": "Digital Assets Consultant",
-      "company": "Accenture",
-      "url": "https://www.linkedin.com/jobs/view/4373325036",
-      "location": null,
-      "posted_date": "2026-02-18",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Equity Research Associate &#x2013; Cryptocurrency & Blockchain",
-      "company": "Wedbush",
-      "url": "https://www.linkedin.com/jobs/view/4369988712",
-      "location": null,
-      "posted_date": "2026-02-07",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Sr Dir of Digital Assets and AI",
-      "company": "Summit Utilities, Inc.",
-      "url": "https://www.linkedin.com/jobs/view/4368637854",
-      "location": null,
-      "posted_date": "2026-01-09",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Digital Assets Strategy Director, Wealth Management Operations",
       "company": "Morgan Stanley",
       "url": "https://www.linkedin.com/jobs/view/4318359668",
@@ -1565,6 +1880,24 @@
       "posted_date": "2025-11-14",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "Digital Assets Strategist, Vice President/Executive Director",
+      "company": "Morgan Stanley",
+      "url": "https://www.linkedin.com/jobs/view/4312871652",
+      "location": null,
+      "posted_date": "2025-11-04",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Software Engineer, Tokenization",
+      "company": "Talos Global",
+      "url": "https://www.indeed.com/viewjob?jk=5266f6ce48351370",
+      "location": null,
+      "posted_date": "2026-03-03",
+      "source": "indeed",
+      "snippet": "Location\n\n\nNew York\nEmployment Type\n\n\nFull time\nDepartment\n\n\nEngineering\nCompensation\n\n\n$140K – $200K • Offers Equity • Offers Bonus\n\n\n\n\n**Talos: Institutional Fabric for Digital Asset Markets**\nFounded in 2018, Talos provides institutional\\-grade trading technology for the global digital asset market, powering many of the major players in the crypto ecosystem. Our mission is clear: to advance the mass adoption of digital assets by seamlessly connecting institutions to the digital asset ecosyste"
     },
     {
       "title": "Senior Data Protection Engineer-Cryptography and Tokenization",
@@ -1576,103 +1909,13 @@
       "snippet": "**The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communications. If you already have a profile with us, you can log in to check status.**\n\n\nNeed Help?\n\n*If you have a disability and need assistance with the application, you can request a reasonable accommodation. Send an email t"
     },
     {
-      "title": "AVP Payments Project Manager I",
-      "company": "The Bancorp, Inc.",
-      "url": "https://www.indeed.com/viewjob?jk=c3859956f8f2013f",
+      "title": "Director, Asset Management Risk (Blockchain & Digital Assets)",
+      "company": "Fidelity Investments",
+      "url": "https://www.indeed.com/viewjob?jk=57f6891d23f07cb0",
       "location": null,
-      "posted_date": "2026-03-02",
+      "posted_date": "2026-02-25",
       "source": "indeed",
-      "snippet": "**Overview**\n------------\n\nThe AVP Payments Project Manager I will lead the implementation of small to medium\\-sized payments programs. This role serves as the primary point of contact for assigned partners and processors, managing program setup, launch, and testing to ensure seamless execution. The individual will oversee the enhancement and expansion of payment capabilities, including tokenization, the addition of new BINs, and the integration of new payment tools such as ACH and wire services"
-    },
-    {
-      "title": "Senior Data Protection Engineer--Cryptography and Tokenization",
-      "company": "Truist",
-      "url": "https://www.indeed.com/viewjob?jk=65e7069117d8ec09",
-      "location": null,
-      "posted_date": "2026-03-02",
-      "source": "indeed",
-      "snippet": "**The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communications. If you already have a profile with us, you can log in to check status.**\n\n\nNeed Help?\n\n*If you have a disability and need assistance with the application, you can request a reasonable accommodation. Send an email t"
-    },
-    {
-      "title": "AVP Payments Project Manager I",
-      "company": "The Bancorp, Inc.",
-      "url": "https://www.indeed.com/viewjob?jk=3a85663ca3e615fb",
-      "location": null,
-      "posted_date": "2026-03-02",
-      "source": "indeed",
-      "snippet": "Overview:\n\nThe AVP Payments Project Manager I will lead the implementation of small to medium\\-sized payments programs. This role serves as the primary point of contact for assigned partners and processors, managing program setup, launch, and testing to ensure seamless execution. The individual will oversee the enhancement and expansion of payment capabilities, including tokenization, the addition of new BINs, and the integration of new payment tools such as ACH and wire services. Additionally,"
-    },
-    {
-      "title": "Senior Product Manager – Digital Assets & Distributed Ledger Sol",
-      "company": "BetaNXT",
-      "url": "https://www.indeed.com/viewjob?jk=836c02e4683b9a81",
-      "location": null,
-      "posted_date": "2026-03-02",
-      "source": "indeed",
-      "snippet": "**Level/Function: Senior Specialist, Project Management**\n\n**Title:** **Senior Product Manager – Digital Assets \\& Distributed Ledger Solutions**\n\n**About BetaNXT**\n\n\nBetaNXT is a leading provider of frictionless wealth management infrastructure, real\\-time data solutions, and an enhanced advisor experience. We invest in platforms, products, and partnerships to accelerate growth for the ecosystem we serve. Our connective approach empowers our clients to deliver a comprehensive, end\\-to\\-end advi"
-    },
-    {
-      "title": "Senior Product Manager – Digital Assets & Distributed Ledger Sol",
-      "company": "BetaNXT",
-      "url": "https://www.indeed.com/viewjob?jk=f4164ba085236497",
-      "location": null,
-      "posted_date": "2026-03-02",
-      "source": "indeed",
-      "snippet": "**Level/Function: Senior Specialist, Project Management**\n\n**Title:** **Senior Product Manager – Digital Assets \\& Distributed Ledger Solutions**\n\n**About BetaNXT**\n\n\nBetaNXT is a leading provider of frictionless wealth management infrastructure, real\\-time data solutions, and an enhanced advisor experience. We invest in platforms, products, and partnerships to accelerate growth for the ecosystem we serve. Our connective approach empowers our clients to deliver a comprehensive, end\\-to\\-end advi"
-    },
-    {
-      "title": "Senior Product Manager – Digital Assets & Distributed Ledger Sol",
-      "company": "BetaNXT",
-      "url": "https://www.indeed.com/viewjob?jk=4ea1d4e7b90cc45c",
-      "location": null,
-      "posted_date": "2026-03-02",
-      "source": "indeed",
-      "snippet": "**Level/Function: Senior Specialist, Project Management**\n\n**Title:** **Senior Product Manager – Digital Assets \\& Distributed Ledger Solutions**\n\n**About BetaNXT**\n\n\nBetaNXT is a leading provider of frictionless wealth management infrastructure, real\\-time data solutions, and an enhanced advisor experience. We invest in platforms, products, and partnerships to accelerate growth for the ecosystem we serve. Our connective approach empowers our clients to deliver a comprehensive, end\\-to\\-end advi"
-    },
-    {
-      "title": "Senior Data Protection Engineer-Cryptography and Tokenization",
-      "company": "Information Technology Senior Management Forum",
-      "url": "https://www.indeed.com/viewjob?jk=77ff8adfd33850b3",
-      "location": null,
-      "posted_date": "2026-03-01",
-      "source": "indeed",
-      "snippet": "Posted Date\n\n\n3/01/2026\n\n\nDescription\n\n **Regular or Temporary:**\n\n\nRegular**Language Fluency:** English (Required)\n\n**Work Shift:**\n\n\n1st shift (United States of America)#### **Please review the following job description:**\n\n\nThe Senior Data Protection Engineer will serve as the primary technical expert for Protegrity within the organization, responsible for designing, implementing, and supporting enterprise level data protection solutions. This role leads the integration of Protegrity with new"
-    },
-    {
-      "title": "Director, Business Development, DMI Funds",
-      "company": "LSEG (London Stock Exchange Group)",
-      "url": "https://www.indeed.com/viewjob?jk=52016485a8ca0359",
-      "location": null,
-      "posted_date": "2026-03-01",
-      "source": "indeed",
-      "snippet": "Digital Markets Infrastructure (DMI) is an ambitious programme to enable the use of blockchain architecture for financial infrastructure. The initiative is focused on the tokenization, trading, and settlement of financial instruments as digital assets, with initial efforts specifically targeting the transformation of alternative investments in private markets.\nThis is a unique opportunity to join an innovative, intellectually exciting project backed by the influential reach of London Stock Excha"
-    },
-    {
-      "title": "Director, Stock Tokenization Product",
-      "company": "Securitize",
-      "url": "https://www.linkedin.com/jobs/view/4379926546",
-      "location": null,
-      "posted_date": "2026-03-03",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Web3 Fund Associate",
-      "company": "Wakaru",
-      "url": "https://www.linkedin.com/jobs/view/4377790918",
-      "location": null,
-      "posted_date": "2026-03-02",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Tokenization, Senior Associate",
-      "company": "JPMorganChase",
-      "url": "https://www.linkedin.com/jobs/view/4354686934",
-      "location": null,
-      "posted_date": "2026-02-28",
-      "source": "linkedin",
-      "snippet": "nan"
+      "snippet": "### **Job Description:**\n\n**Blockchain and Digital Assets Risk – Asset Management**\n\n**Note: Fidelity is not providing immigration sponsorship for this position**\n\n**The Role**\n\n\nSeeking a highly experienced and visionary **Director of Digital Assets Risk** to lead risk oversight across the full spectrum of digital asset investment products, tokenized structures, and emerging blockchain‑enabled strategies. In this role, you will define the risk framework, governance model, and control environmen"
     },
     {
       "title": "Digital Director, Digital Wallets and Tokenization",
@@ -1693,15 +1936,6 @@
       "snippet": "nan"
     },
     {
-      "title": "Equity Research Associate - Crypto & Digital Assets",
-      "company": "Jefferies",
-      "url": "https://www.linkedin.com/jobs/view/4377050428",
-      "location": null,
-      "posted_date": "2026-02-23",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Digital Assets & Tokenization Index Product Management",
       "company": "Nasdaq",
       "url": "https://www.linkedin.com/jobs/view/4345203951",
@@ -1718,16 +1952,7 @@
       "posted_date": "2026-02-04",
       "source": "linkedin",
       "snippet": "nan"
-    },
-    {
-      "title": "Engineering Manager, Tokenization",
-      "company": "zerohash",
-      "url": "https://www.linkedin.com/jobs/view/4378524542",
-      "location": null,
-      "posted_date": "nan",
-      "source": "linkedin",
-      "snippet": "nan"
     }
   ],
-  "count": 192
+  "count": 217
 }
