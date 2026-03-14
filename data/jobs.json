@@ -212,7 +212,7 @@
       "company": "Stripe",
       "url": "https://stripe.com/jobs/search?gh_jid=6889347",
       "location": "NYC",
-      "posted_date": "2026-03-06T18:52:06-05:00",
+      "posted_date": "2026-03-13T19:00:45-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -221,7 +221,7 @@
       "company": "Stripe",
       "url": "https://stripe.com/jobs/search?gh_jid=7392188",
       "location": "New York City, Seattle, San Francisco, Chicago, Atlanta, US-Remote",
-      "posted_date": "2026-03-06T18:52:06-05:00",
+      "posted_date": "2026-03-13T19:00:45-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -230,7 +230,7 @@
       "company": "Stripe",
       "url": "https://stripe.com/jobs/search?gh_jid=7536066",
       "location": "SF, SEA",
-      "posted_date": "2026-03-06T18:52:06-05:00",
+      "posted_date": "2026-03-13T19:00:45-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -239,7 +239,7 @@
       "company": "Stripe",
       "url": "https://stripe.com/jobs/search?gh_jid=7706824",
       "location": "Canada",
-      "posted_date": "2026-03-12T05:13:00-04:00",
+      "posted_date": "2026-03-13T19:00:45-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -248,7 +248,7 @@
       "company": "Stripe",
       "url": "https://stripe.com/jobs/search?gh_jid=7507904",
       "location": "San Francisco or New York",
-      "posted_date": "2026-03-06T18:52:06-05:00",
+      "posted_date": "2026-03-13T19:00:45-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -257,7 +257,7 @@
       "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/7473982?t=gh_src=&gh_jid=7473982",
       "location": "London, UK",
-      "posted_date": "2026-03-11T10:48:09-04:00",
+      "posted_date": "2026-03-13T13:17:34-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -275,43 +275,16 @@
       "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/7536920?t=gh_src=&gh_jid=7536920",
       "location": "Menlo Park, CA; New York, NY",
-      "posted_date": "2026-03-10T17:22:52-04:00",
+      "posted_date": "2026-03-13T19:20:01-04:00",
       "source": "greenhouse",
       "snippet": null
     },
     {
-      "title": "Product Marketing Manager, Crypto - International",
-      "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7565828?t=gh_src=&gh_jid=7565828",
-      "location": "Ljubljana, Slovenia",
-      "posted_date": "2026-03-12T18:41:40-04:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
-      "title": "Product Marketing Manager, Crypto - International",
-      "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7565555?t=gh_src=&gh_jid=7565555",
-      "location": "London, UK",
-      "posted_date": "2026-03-12T18:41:40-04:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
-      "title": "Product Marketing Manager, Crypto - International",
-      "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7565829?t=gh_src=&gh_jid=7565829",
-      "location": "Luxembourg, Luxembourg",
-      "posted_date": "2026-03-12T18:41:40-04:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
-      "title": "Product Marketing Manager, Crypto - US",
+      "title": "Product Marketing Manager, Crypto",
       "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/7489895?t=gh_src=&gh_jid=7489895",
       "location": "Menlo Park, CA; New York, NY",
-      "posted_date": "2026-03-10T17:24:17-04:00",
+      "posted_date": "2026-03-13T19:21:31-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -354,18 +327,18 @@
     {
       "title": "Staff Software Engineer, Web3",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952",
-      "location": "Toronto, Canada",
-      "posted_date": "2026-03-10T17:22:41-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950",
+      "location": "Menlo Park, CA; New York, NY",
+      "posted_date": "2026-03-10T17:24:16-04:00",
       "source": "greenhouse",
       "snippet": null
     },
     {
       "title": "Staff Software Engineer, Web3",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950",
-      "location": "Menlo Park, CA; New York, NY",
-      "posted_date": "2026-03-10T17:24:16-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952",
+      "location": "Toronto, Canada",
+      "posted_date": "2026-03-10T17:22:41-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -375,6 +348,15 @@
       "url": "https://sofi.com/careers/job/7592200003?gh_jid=7592200003",
       "location": "UT - Cottonwood Heights; CA - San Francisco; NY - New York City",
       "posted_date": "2026-03-12T14:48:22-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
+      "title": "Financial Analyst, Strategic Finance, Crypto",
+      "company": "SoFi",
+      "url": "https://sofi.com/careers/job/7608864003?gh_jid=7608864003",
+      "location": "UT - Cottonwood Heights; CA - San Francisco; TX - Frisco; NC - Charlotte; NY - New York City; FL - Jacksonville",
+      "posted_date": "2026-03-13T12:28:44-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -418,8 +400,8 @@
       "title": "Senior Software Engineer, Crypto",
       "company": "SoFi",
       "url": "https://sofi.com/careers/job/7594162003?gh_jid=7594162003",
-      "location": "WA - Seattle; CA- SanFrancisco; NY - New York City; UT - Cottonwood Heights",
-      "posted_date": "2026-03-12T14:48:23-04:00",
+      "location": "WA - Seattle; CA- SanFrancisco; UT - Cottonwood Heights",
+      "posted_date": "2026-03-13T10:13:48-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -442,6 +424,69 @@
       "snippet": null
     },
     {
+      "title": "AI Solutions Engineer (PUERTO RICO)",
+      "company": "Collins Aerospace",
+      "url": "https://www.indeed.com/viewjob?jk=56801319da77eff5",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "**Date Posted:**\n\n\n2026\\-03\\-13**Country:**\n\n\nUnited States of America**Location:**\n\n\nUS\\-PR\\-SANTA ISABEL\\-B1 \\~ Felicia Industrial Park \\- St B1 \\~ BLDG 1**Position Role Type:**\n\n\nRemote**U.S. Citizen, U.S. Person, or Immigration Status Requirements:**\n\n\nThis job requires a U.S. Person. A U.S. Person is a lawful permanent resident as defined in 8 U.S.C. 1101(a)(20\\) or who is a protected individual as defined by 8 U.S.C. 1324b(a)(3\\). U.S. citizens, U.S. nationals, U.S. permanent residents, or"
+    },
+    {
+      "title": "Trading Analyst",
+      "company": "Paradigm",
+      "url": "https://www.indeed.com/viewjob?jk=36d006ebd8183cb1",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "Paradigm is a San Francisco\\-based investment firm focused on crypto and frontier technologies across the globe, with over $10 billion in assets under management. We make investments in companies and protocols at all stages, ranging from early\\-stage venture financing rounds to growth equity to liquid token assets.\n\n\nParadigm was co\\-founded in 2018 by Matt Huang (former Partner at Sequoia Capital) and Fred Ehrsam (co\\-founder of Coinbase). Since then we’ve been hard at work building a world\\-cl"
+    },
+    {
+      "title": "Senior Sales Recruiter",
+      "company": "TRM Labs",
+      "url": "https://www.indeed.com/viewjob?jk=7e300077b06e91f5",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
+    },
+    {
+      "title": "Audit and Exam Program Manager",
+      "company": "Paxos",
+      "url": "https://www.indeed.com/viewjob?jk=952f1597c342be97",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "**About Paxos**\n---------------\n\n\nToday’s financial infrastructure is archaic, expensive, inefficient and risky — supporting a system that leaves out more people than it lets in. So we’re rebuilding it. We’re on a mission to open the world’s financial system to everyone by enabling the instant movement of any asset, any time, in a trustworthy way. For over a decade, we’ve built blockchain infrastructure that tokenizes, custodies, trades and settles assets for the world’s leading financial instit"
+    },
+    {
+      "title": "Senior Specialty Protocol Engineer",
+      "company": "Wells Fargo",
+      "url": "https://www.indeed.com/viewjob?jk=c370eafe00e9f78a",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "**About This Role:**\n\n\nWells Fargo is seeking several Senior Specialty Software Developers (Protocol Engineers) to contribute to a next\\-generation Digital Asset Platform designed to solve the most critical challenge in institutional finance: achieving strict regulatory compliance without compromising transaction confidentiality.\n\n\nWells Fargo is moving beyond standard public blockchains to build a custom, application\\-specific infrastructure. Our platform utilizes advanced cryptography to enabl"
+    },
+    {
+      "title": "Lead Cryptography Engineer (MPC & Confidential Computing)",
+      "company": "Wells Fargo",
+      "url": "https://www.indeed.com/viewjob?jk=77e45138aca197ab",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "**About this Role:**\n\n\nWells Fargo is seeking a Lead Specialty Software Engineer (Cryptography Engineer) to contribute to a next\\-generation Digital Asset Platform designed to solve the most critical challenge in institutional finance: achieving strict regulatory compliance without compromising transaction confidentiality. As a Lead Cryptography Engineer you will be responsible for architecting the core Key Management Service (KMS). You will sit at the intersection of applied cryptography, hardw"
+    },
+    {
+      "title": "Senior Legal Counsel, Digital Assets",
+      "company": "Fidelity Investments",
+      "url": "https://www.indeed.com/viewjob?jk=994d2711110c3137",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "### **Job Description:**\n\n**Senior Legal Counsel – Digital Assets Legal Team**\n\n**The Role:**\n\n\nThe FMR LLC Legal Department is seeking to hire an attorney to join the Digital Assets Legal Team as a member of the Brokerage and Wealth Management Practices Group. The Digital Assets Legal Team is responsible for advising on cutting edge legal issues spanning state and federal securities laws, crypto\\-specific regimes and banking law, among others. The Digital Asset Legal Team works across Fidelity,"
+    },
+    {
       "title": "Technology Risk Management Lead (Blockchain / Cryptocurrency) - Vice President",
       "company": "JPMorganChase",
       "url": "https://www.indeed.com/viewjob?jk=96e161317906d9e5",
@@ -458,15 +503,6 @@
       "posted_date": "2026-03-13",
       "source": "indeed",
       "snippet": "**JOB DESCRIPTION**  \n\nThe Consumer and Community Banking (CCB) Strategy team provides the opportunity to support strategic initiatives aligned with the bank’s overall business goals. Primarily under the Chase brand, Consumer \\& Community Banking (CCB) serves more than 84 million consumers and 7 million small businesses, with a broad range of financial services, including personal banking, credit cards, mortgages, auto financing, investment advice, small business loans and payment processing. Ch"
-    },
-    {
-      "title": "Blockchain Software Engineer",
-      "company": "Craftner INC",
-      "url": "https://www.indeed.com/viewjob?jk=e3dfb182d446bff9",
-      "location": null,
-      "posted_date": "2026-03-13",
-      "source": "indeed",
-      "snippet": "###### **Charlotte, NC \\| Contract To Hire**\n\n\n#### **Preferred Skills**\n\n\nBlockchain  \n\n  \n\n  \n\n  \n\n  \n\n#### **Job Description**\n\n\n**Duties and Responsibilities:**\n\n\n* Design, develop and implement blockchain capabilities\n* Design new methods for implementing blockchain technology for our clients\n* Incorporate usage of digital tokens and smart contract\n* Execute research and development activities for new blockchain deliverables\n\n\n**Requirements:**\n\n\n* Bachelor’s in Computer Science, Informatio"
     },
     {
       "title": "Senior Sales Executive - Closer | US based",
@@ -532,101 +568,11 @@
       "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
     },
     {
-      "title": "Executive Operations Lead",
-      "company": "PayStand",
-      "url": "https://www.indeed.com/viewjob?jk=cb13c041bbc2c1fa",
+      "title": "Blockchain Ecosystem Director",
+      "company": "Runeapes Labs",
+      "url": "https://www.linkedin.com/jobs/view/4383241914",
       "location": null,
       "posted_date": "2026-03-12",
-      "source": "indeed",
-      "snippet": "At Paystand, we're not just another fintech company—we're trailblazers in decentralized finance (DeFi), transforming how businesses manage their finances. With thriving hubs in Santa Cruz, San Francisco, Austin, Minneapolis, Mexico City, Hermosillo, and Guadalajara, we're leading a global revolution in financial systems. Recognized on the Inc. 5000 list for five consecutive years, we're among the fastest\\-growing companies reshaping the future of finance.\n\n\n\nOur Expanding Ecosystem: Paystand isn"
-    },
-    {
-      "title": "Conference Manager Futurist",
-      "company": "Emerald",
-      "url": "https://www.indeed.com/viewjob?jk=5fbfb05208616347",
-      "location": null,
-      "posted_date": "2026-03-12",
-      "source": "indeed",
-      "snippet": "**About Emerald**\n\n  \n\nEmerald’s talented and experienced teams grow our customers’ businesses 365 days a year with products that create connections, deliver content, and drive commerce. We produce over 140 annual events, create and deliver content through print and digital channels, and power commerce through our seamlessly integrated in\\-person and digital platforms and channels. For more information, please visit http://www.emeraldx.com.\n\n  \n\nBlockchain Futurist Conference is one of the leadi"
-    },
-    {
-      "title": "Information Security IV (Security Engineer) - cryptography engineering",
-      "company": "VTekis Consulting LLP",
-      "url": "https://www.indeed.com/viewjob?jk=87d8cd6f16fee5c3",
-      "location": null,
-      "posted_date": "2026-03-12",
-      "source": "indeed",
-      "snippet": "**Company Description**  \n\nVTekis Consulting LLC provides complete solutions for Staff Agumentation, Recruitment Process Outsourcing, Contract Hiring, Direct Hire and Outsourced Solutions. Our goal is to deliver quality professional services to our clients not just to find someone to do a job, we match the right professional for your staffing needs and earning confidence through the proper assignment of people. This alignment of people and companies allows us to create opportunity. Most importan"
-    },
-    {
-      "title": "Director, Corporate Communications, Digital Assets",
-      "company": "NASDAQ",
-      "url": "https://www.indeed.com/viewjob?jk=c08f2c4a175255ed",
-      "location": null,
-      "posted_date": "2026-03-12",
-      "source": "indeed",
-      "snippet": "Nasdaq is seeking a Director of Communications to lead strategic communications for our Digital Assets initiatives across the enterprise. This role will lead and drive the creation, development and execution of comprehensive communications strategies that position Nasdaq as a trusted thought leader in digital assets, blockchain technology, and the evolution of financial infrastructure.  \n\n  \n\nAs the senior communications leader for this transformative business area, you will craft compelling nar"
-    },
-    {
-      "title": "Senior Software Engineer, Custody & Staking",
-      "company": "GALAXY",
-      "url": "https://www.indeed.com/viewjob?jk=137e328740c3d61a",
-      "location": null,
-      "posted_date": "2026-03-12",
-      "source": "indeed",
-      "snippet": "**Who We Are:**  \n\nGalaxy is a global leader in digital assets and data center infrastructure, delivering solutions that accelerate progress in finance and artificial intelligence. We believe that blockchain and digital asset innovation will transform how value moves through the world – and we're building the products and services to make that future a reality.  \n\n  \n\nOur institutional digital assets platform spans trading, investment banking, asset management, staking, self\\-custody, and tokeni"
-    },
-    {
-      "title": "AI Engineering Manager, Product Engineering - San Francisco Only",
-      "company": "TRM Labs",
-      "url": "https://www.indeed.com/viewjob?jk=7e5ad00a83d4efc2",
-      "location": null,
-      "posted_date": "2026-03-12",
-      "source": "indeed",
-      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
-    },
-    {
-      "title": "Compliance Advisor",
-      "company": "Fidelity Investments",
-      "url": "https://www.indeed.com/viewjob?jk=f4811441263f2643",
-      "location": null,
-      "posted_date": "2026-03-12",
-      "source": "indeed",
-      "snippet": "### **Job Description:**\n\n**Compliance Advisor**\n\n\nCompliance Governance and Oversight team, in coordination with Fidelity Digital Assets (FDA) Compliance plays a crucial role in ensuring the organization’s adherence to regulatory standards and internal policies in the dynamic digital assets sector. This position involves supporting compliance initiatives including developing control frameworks and promoting ethical conduct across the organization. This role focuses on supporting the development"
-    },
-    {
-      "title": "Digital Assets Consultant",
-      "company": "Logic, Inc.",
-      "url": "https://www.indeed.com/viewjob?jk=1f473a4c7c1ec312",
-      "location": null,
-      "posted_date": "2026-02-17",
-      "source": "indeed",
-      "snippet": "Mgmt Consulting Team Lead/Consultant \\| Mid\\-Level \\| Full time\nJob No. R00314107 \\| Multiple Locations\n  \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent\\- and innovation\\-led company with approximately 799,000 people serving clients in mor"
-    },
-    {
-      "title": "Digital Assets Manager",
-      "company": "Logic, Inc.",
-      "url": "https://www.indeed.com/viewjob?jk=c0848c84b97e6a2a",
-      "location": null,
-      "posted_date": "2026-02-17",
-      "source": "indeed",
-      "snippet": "Mgmt Consulting Manager \\| Senior Level \\| Full time\nJob No. R00314112 \\| Multiple Locations\n  \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent\\- and innovation\\-led company with approximately 799,000 people serving clients in more than 120"
-    },
-    {
-      "title": "Digital Assets Senior Manager",
-      "company": "Logic, Inc.",
-      "url": "https://www.indeed.com/viewjob?jk=097155896901f143",
-      "location": null,
-      "posted_date": "2026-02-17",
-      "source": "indeed",
-      "snippet": "Mgmt Consulting Senior Manager \\| Senior Level \\| Full time\nJob No. R00314114 \\| Multiple Locations\n  \nAccenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent\\- and innovation\\-led company with approximately 799,000 people serving clients in more th"
-    },
-    {
-      "title": "DeFi / Web3 Advisor (Remote)",
-      "company": "Greenlight Asset Finance",
-      "url": "https://www.linkedin.com/jobs/view/4383406107",
-      "location": null,
-      "posted_date": "2026-03-10",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -636,15 +582,6 @@
       "url": "https://www.linkedin.com/jobs/view/4380477485",
       "location": null,
       "posted_date": "2026-03-05",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Crypto Portfolio Manager (Remote - USA)",
-      "company": "Ton Daily",
-      "url": "https://www.linkedin.com/jobs/view/4381110392",
-      "location": null,
-      "posted_date": "2026-03-04",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -685,11 +622,11 @@
       "snippet": "nan"
     },
     {
-      "title": "CTO possible co-founder role, hands on Rust, Blockchain, AI, startup experience a must have",
-      "company": "Travoom",
-      "url": "https://www.linkedin.com/jobs/view/4373529363",
+      "title": "Senior Executive Assistant W/(Crypto/Investments background)(NYC)",
+      "company": "Embakire Workforce",
+      "url": "https://www.linkedin.com/jobs/view/4374628353",
       "location": null,
-      "posted_date": "2026-02-16",
+      "posted_date": "2026-02-20",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -699,15 +636,6 @@
       "url": "https://www.linkedin.com/jobs/view/4372906498",
       "location": null,
       "posted_date": "2026-02-13",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Crypto Analyst",
-      "company": "Weiss Ratings",
-      "url": "https://www.linkedin.com/jobs/view/4363077357",
-      "location": null,
-      "posted_date": "2026-02-11",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -730,13 +658,67 @@
       "snippet": "nan"
     },
     {
-      "title": "Blockchain Engineer",
-      "company": "Old Harmony",
-      "url": "https://www.linkedin.com/jobs/view/4250721698",
+      "title": "Customer Success Manager",
+      "company": "Solidus Labs",
+      "url": "https://www.indeed.com/viewjob?jk=04f0d264a731497d",
       "location": null,
-      "posted_date": "2025-06-18",
-      "source": "linkedin",
-      "snippet": "nan"
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "At Solidus, we are shaping the financial markets of tomorrow with cutting\\-edge trading surveillance and risk management solutions that protect investors, enhance transparency, and ensure regulatory compliance across traditional financial assets and crypto markets.\n\n\nWith the rapid expansion of digital assets into traditional finance, we are growing our Customer Success team to accelerate product adoption across key industry players.\n\n\nAt Solidus, we believe that great customer success is built"
+    },
+    {
+      "title": "Postdoctoral Research Fellow -Cryptography",
+      "company": "Stevens Institute of Technology",
+      "url": "https://www.indeed.com/viewjob?jk=6e3867c4f00540a4",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "Job Description\nStevens Institute of Technology, a premier research university located in Hoboken, New Jersey, invites applications for a Postdoctoral Research Fellow in Cryptography within the Department of Computer Science. Stevens is known for its strong focus on innovation, interdisciplinary research, and technological advancement. The successful candidate will contribute to cutting\\-edge research in modern cryptography, working closely with faculty and graduate researchers to develop secure"
+    },
+    {
+      "title": "Data Center Technician- Algona Iowa",
+      "company": "Simple Mining",
+      "url": "https://www.indeed.com/viewjob?jk=f6b897e5dc85176b",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "At Simple Mining, we run large\\-scale cryptocurrency mining operations, and we need someone who can keep up. If you're the type of person who likes working with your hands, thinks on their feet, and doesn't back down from a tough day — keep reading.\n\n\nThis is a full\\-time, stable position with steady hours and a team that shows up and gets the job done. You'll be on the floor, in the field, and in the thick of it every single day. No cubicles. No sitting around. Just real work, real equipment, a"
+    },
+    {
+      "title": "Content & Growth Manager",
+      "company": "Rabbu",
+      "url": "https://www.indeed.com/viewjob?jk=4d5d190c809e4f4b",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "*Full\\-Time Preferred / Contract Considered \\| Charlotte, NC (Preferred) \\| Reports to CEO*\n\n**ABOUT RABBU**\n\nRabbu is building the platform that connects every step of short\\-term rental investing for a $100B\\+ market. Think of us as the E\\*TRADE or Coinbase of STR investing — making what has historically been a fragmented, opaque process as straightforward and professional as trading a stock or buying crypto.\n\nWe’ve spent five years building the data moat, the audience, and the marketplace inf"
+    },
+    {
+      "title": "Sales Operations Manager",
+      "company": "Rabbu",
+      "url": "https://www.indeed.com/viewjob?jk=995dd65abd24545f",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "*Full\\-Time \\| Charlotte, NC \\| Reports to CEO*\n\n**ABOUT RABBU**\n\nRabbu is building the platform that connects every step of short\\-term rental investing for a $100B\\+ market. Think of us as the E\\*TRADE or Coinbase of STR investing — making what has historically been a fragmented, opaque process as straightforward and professional as trading a stock or buying crypto.\n\nWe’ve spent five years building the data moat, the audience, and the marketplace infrastructure. Now we’re in the growth phase —"
+    },
+    {
+      "title": "Crypto Applications Team Software Engineer",
+      "company": "Cisco",
+      "url": "https://www.indeed.com/viewjob?jk=fc813ba47d9be154",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "**The application window is expected to close on:** 03/20/2026Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n  \n  \n\nWhat You'll Do\n  \n  \n\nThe Cryptographic Services team is looking for a highly motivated Software Developer to work on our team, providing development and support for custom applications behind Cisco's growing Public Key Infrastructure (PKI) and cryptographic services. As a member of our team you will develop and"
+    },
+    {
+      "title": "Information Security IV (Security Engineer) - cryptography engineering",
+      "company": "VTekis Consulting LLP",
+      "url": "https://www.indeed.com/viewjob?jk=87d8cd6f16fee5c3",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "**Company Description**  \n\nVTekis Consulting LLC provides complete solutions for Staff Agumentation, Recruitment Process Outsourcing, Contract Hiring, Direct Hire and Outsourced Solutions. Our goal is to deliver quality professional services to our clients not just to find someone to do a job, we match the right professional for your staffing needs and earning confidence through the proper assignment of people. This alignment of people and companies allows us to create opportunity. Most importan"
     },
     {
       "title": "Premium Sales Manager (Crypto.com Arena)",
@@ -757,83 +739,11 @@
       "snippet": "**Job Title:** Investment Funds Associate Attorney (Remote)\n\n**Job Type:** Full\\-time \\| 100% Remote\n\n**About the Company**\n\nOur client is a boutique investment management law firm delivering BigLaw\\-level expertise with the responsiveness and personal attention of a boutique practice. The team represents investors, investment companies, and fund managers across high\\-growth markets — including private equity, hedge funds, private credit, startups, Web3, crypto, e\\-commerce, and emerging technol"
     },
     {
-      "title": "Senior Manager, Controllership Scalability & AI Execution",
-      "company": "Ripple",
-      "url": "https://www.indeed.com/viewjob?jk=fb5bf3fc475fbcff",
+      "title": "DeFi Trader ($600k-$1.2m)",
+      "company": "Fionics",
+      "url": "https://www.linkedin.com/jobs/view/4383923943",
       "location": null,
       "posted_date": "2026-03-12",
-      "source": "indeed",
-      "snippet": "At Ripple, we're building a world where value moves like information does today. It's big, it's bold, and we're already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs.\n\n\n\nIf you're"
-    },
-    {
-      "title": "Senior Manager, Controllership Scalability & AI Execution",
-      "company": "Ripple",
-      "url": "https://www.indeed.com/viewjob?jk=fa89cfe37cd7187d",
-      "location": null,
-      "posted_date": "2026-03-12",
-      "source": "indeed",
-      "snippet": "At Ripple, we're building a world where value moves like information does today. It's big, it's bold, and we're already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs.\n\n\n\nIf you're"
-    },
-    {
-      "title": "Lead Technical Recruiter – AI/ML",
-      "company": "TRM Labs",
-      "url": "https://www.indeed.com/viewjob?jk=799e421f55e505cd",
-      "location": null,
-      "posted_date": "2026-03-11",
-      "source": "indeed",
-      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
-    },
-    {
-      "title": "Account Director - US National Security",
-      "company": "TRM Labs",
-      "url": "https://www.indeed.com/viewjob?jk=987c1fc18f26c296",
-      "location": null,
-      "posted_date": "2026-03-11",
-      "source": "indeed",
-      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
-    },
-    {
-      "title": "Senior Technical Recruiter - Engineering (Contractor)",
-      "company": "TRM Labs",
-      "url": "https://www.indeed.com/viewjob?jk=c075c17d3921840a",
-      "location": null,
-      "posted_date": "2026-03-11",
-      "source": "indeed",
-      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
-    },
-    {
-      "title": "Event Production Associate, CoinDesk Institutional Events",
-      "company": "BULLISH GLOBAL",
-      "url": "https://www.indeed.com/viewjob?jk=6aa74ffe270b73d8",
-      "location": null,
-      "posted_date": "2026-03-11",
-      "source": "indeed",
-      "snippet": "About Bullish\nBullish is an institutionally focused global digital asset platform that provides market infrastructure and information services. These include: Bullish Exchange – a regulated and institutionally focused digital assets spot and derivatives exchange, integrating a high\\-performance central limit order book matching engine with automated market making to provide deep and predictable liquidity. Bullish Exchange is regulated in Germany, Hong Kong, and Gibraltar. CoinDesk Indices – a co"
-    },
-    {
-      "title": "Director of Engineering, Dynamic Platform",
-      "company": "Fireblocks",
-      "url": "https://www.indeed.com/viewjob?jk=b1e03607169b91cc",
-      "location": null,
-      "posted_date": "2026-03-11",
-      "source": "indeed",
-      "snippet": "The world of digital assets is accelerating in speed, magnitude, and complexity, opening the door to new ways for leveraging the blockchain. Fireblocks' platform and network provide the simplest and most secure way for companies to work with digital assets and it trusted by some of the largest financial institutions, banks, globally\\-recognized brands, and Web3 companies in the world, including BNY Mellon, BNP Paribas, ANZ Bank, Revolut, and thousands more.\n\n\nThis is an opportunity to lead the c"
-    },
-    {
-      "title": "Data Center Technician",
-      "company": "Simple Mining",
-      "url": "https://www.indeed.com/viewjob?jk=a23f4fd7174cff43",
-      "location": null,
-      "posted_date": "2026-03-11",
-      "source": "indeed",
-      "snippet": "At Simple Mining, we run large\\-scale cryptocurrency mining operations, and we need someone who can keep up. If you're the type of person who likes working with your hands, thinks on their feet, and doesn't back down from a tough day — keep reading.\n\nThis is a full\\-time, stable position with steady hours and a team that shows up and gets the job done. You'll be on the floor, in the field, and in the thick of it every single day. No cubicles. No sitting around. Just real work, real equipment, an"
-    },
-    {
-      "title": "Entry-Level Crypto Market Specialist",
-      "company": "Jobgether",
-      "url": "https://www.linkedin.com/jobs/view/4384115885",
-      "location": null,
-      "posted_date": "2026-03-11",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -841,15 +751,6 @@
       "title": "Account Executive (Institutional Crypto)",
       "company": "The Tie",
       "url": "https://www.linkedin.com/jobs/view/4383358046",
-      "location": null,
-      "posted_date": "2026-03-09",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Account Manager (Institutional Crypto)",
-      "company": "The Tie",
-      "url": "https://www.linkedin.com/jobs/view/4383354387",
       "location": null,
       "posted_date": "2026-03-09",
       "source": "linkedin",
@@ -881,6 +782,51 @@
       "posted_date": "2026-01-11",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "HR TA Generalist Memecoin Web3 Project",
+      "company": "Ricochetox",
+      "url": "https://www.indeed.com/viewjob?jk=1404f8b1ed67829f",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "We need a TA Generalist with main talent for acquisition, you need to identify who we need and also why by spotting the best talent for a Memecoin Project Web3 project. We wanna be successful I would consider 10m market cap a success if not higher, we need to launch to market in the shortest time possible.  \nYou should have knowledge DeFi ecosystem and HR tools like LinkedIn Recruiter and other tools like DocuSign to make onboarding contracts. Access to AI tools also will be valued highly.\n\nJob"
+    },
+    {
+      "title": "Conference Manager Futurist",
+      "company": "Emerald",
+      "url": "https://www.indeed.com/viewjob?jk=5fbfb05208616347",
+      "location": null,
+      "posted_date": "2026-03-12",
+      "source": "indeed",
+      "snippet": "**About Emerald**\n\n  \n\nEmerald’s talented and experienced teams grow our customers’ businesses 365 days a year with products that create connections, deliver content, and drive commerce. We produce over 140 annual events, create and deliver content through print and digital channels, and power commerce through our seamlessly integrated in\\-person and digital platforms and channels. For more information, please visit http://www.emeraldx.com.\n\n  \n\nBlockchain Futurist Conference is one of the leadi"
+    },
+    {
+      "title": "Senior Software Engineer, Custody & Staking",
+      "company": "GALAXY",
+      "url": "https://www.indeed.com/viewjob?jk=137e328740c3d61a",
+      "location": null,
+      "posted_date": "2026-03-12",
+      "source": "indeed",
+      "snippet": "**Who We Are:**  \n\nGalaxy is a global leader in digital assets and data center infrastructure, delivering solutions that accelerate progress in finance and artificial intelligence. We believe that blockchain and digital asset innovation will transform how value moves through the world – and we're building the products and services to make that future a reality.  \n\n  \n\nOur institutional digital assets platform spans trading, investment banking, asset management, staking, self\\-custody, and tokeni"
+    },
+    {
+      "title": "Event Production Associate, CoinDesk Institutional Events",
+      "company": "BULLISH GLOBAL",
+      "url": "https://www.indeed.com/viewjob?jk=6aa74ffe270b73d8",
+      "location": null,
+      "posted_date": "2026-03-11",
+      "source": "indeed",
+      "snippet": "About Bullish\nBullish is an institutionally focused global digital asset platform that provides market infrastructure and information services. These include: Bullish Exchange – a regulated and institutionally focused digital assets spot and derivatives exchange, integrating a high\\-performance central limit order book matching engine with automated market making to provide deep and predictable liquidity. Bullish Exchange is regulated in Germany, Hong Kong, and Gibraltar. CoinDesk Indices – a co"
+    },
+    {
+      "title": "Director of Engineering, Dynamic Platform",
+      "company": "Fireblocks",
+      "url": "https://www.indeed.com/viewjob?jk=b1e03607169b91cc",
+      "location": null,
+      "posted_date": "2026-03-11",
+      "source": "indeed",
+      "snippet": "The world of digital assets is accelerating in speed, magnitude, and complexity, opening the door to new ways for leveraging the blockchain. Fireblocks' platform and network provide the simplest and most secure way for companies to work with digital assets and it trusted by some of the largest financial institutions, banks, globally\\-recognized brands, and Web3 companies in the world, including BNY Mellon, BNP Paribas, ANZ Bank, Revolut, and thousands more.\n\n\nThis is an opportunity to lead the c"
     },
     {
       "title": "Senior Technical Account Manager & Support Engineer",
@@ -1036,6 +982,15 @@
       "snippet": "**Job Required Skills**\n\nProficiency in web development technologies such as HTML, CSS, JavaScript, and frameworks like React or Angular, Experience with blockchain technology and smart contracts, Strong understanding of Web 3\\.0 principles and protocols, Knowledge of decentralized applications (dApps) development, Familiarity with web3 development tools such as Truffle, Remix, or Hardhat\n\n**Job Essential Functions**\n\nDesigning and developing Web 3\\.0 applications using blockchain technology, Bu"
     },
     {
+      "title": "Senior Staff Accountant",
+      "company": "Fireblocks",
+      "url": "https://www.indeed.com/viewjob?jk=636c9e0e1e3f4d06",
+      "location": null,
+      "posted_date": "2026-03-04",
+      "source": "indeed",
+      "snippet": "The world of digital assets is accelerating in speed, magnitude, and complexity, opening the door to new ways for leveraging the blockchain. Fireblocks' platform and network provide the simplest and most secure way for companies to work with digital assets and it trusted by some of the largest financial institutions, banks, globally\\-recognized brands, and Web3 companies in the world, including BNY Mellon, BNP Paribas, ANZ Bank, Revolut, and thousands more.\n\n**About the Role**  \n\n  \n\nWe are seek"
+    },
+    {
       "title": "Algo Trading Quant",
       "company": "Decentralized Masters",
       "url": "https://www.indeed.com/viewjob?jk=1c9ac799261c54e0",
@@ -1070,6 +1025,15 @@
       "posted_date": "2026-03-03",
       "source": "indeed",
       "snippet": "**About the Company**\nCertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To date, CertiK has worked with over 5,000 Enterprise clients, secured over $557 billion worth of digital assets, and has detected over 18,000 vulnerabilities in blockchain code. Our clients include leading projects such as OKX, Tether, Ripple, and Pancakeswap. Our investors include top VCs like Tiger Global, Coatue Management, Shunwei Capital and H"
+    },
+    {
+      "title": "Customer Success Manager ,Tres",
+      "company": "Fireblocks",
+      "url": "https://www.indeed.com/viewjob?jk=9d2afc9f9daea490",
+      "location": null,
+      "posted_date": "2026-03-03",
+      "source": "indeed",
+      "snippet": "The world of digital assets is accelerating in speed, magnitude, and complexity, opening the door to new ways for leveraging the blockchain. Fireblocks' platform and network provide the simplest and most secure way for companies to work with digital assets and it trusted by some of the largest financial institutions, banks, globally\\-recognized brands, and Web3 companies in the world, including BNY Mellon, BNP Paribas, ANZ Bank, Revolut, and thousands more.\n\n### **What You'll Do**\n\n\n\nSenior Cust"
     },
     {
       "title": "Technical Product Manager",
@@ -1108,29 +1072,11 @@
       "snippet": "\\# About Alva\n\nalva.ai\n\nAlva is an AI\\-powered platform for quantamental investing. We're building AI agents that automate the investment research workflow—from idea generation and data analytics to trend monitoring, strategy development, and backtesting—while enabling users to build, share, and refine their strategies together.\n\nOur team is small and talent dense. We previously built Galxe, the largest growth platform in Web3 (30M\\+ users, $20M ARR).\n\nWe’re looking for a Growth Manager to own A"
     },
     {
-      "title": "Partner 22, Communications",
-      "company": "Andreessen Horowitz",
-      "url": "https://www.indeed.com/viewjob?jk=8f92477a999020d3",
+      "title": "Chief Investment Officer - Web3",
+      "company": "Fountech Solutions",
+      "url": "https://www.linkedin.com/jobs/view/4376441575",
       "location": null,
-      "posted_date": "2026-02-27",
-      "source": "indeed",
-      "snippet": "Founded in Silicon Valley in 2009 by Marc Andreessen and Ben Horowitz, Andreessen Horowitz (aka a16z) is a venture capital firm that backs bold entrepreneurs building the future through technology. We are stage agnostic. We invest in seed to venture to growth\\-stage technology companies, across AI, bio \\+ healthcare, consumer, crypto, enterprise, fintech, games, and companies building toward American dynamism. a16z has $90B under management across multiple funds.\n\n\n\nWe’ve established a team that"
-    },
-    {
-      "title": "Partner 22, Communications, Crypto",
-      "company": "a16z",
-      "url": "https://www.indeed.com/viewjob?jk=bbfe0e83fc49a145",
-      "location": null,
-      "posted_date": "2026-02-27",
-      "source": "indeed",
-      "snippet": "Founded in Silicon Valley in 2009 by Marc Andreessen and Ben Horowitz, Andreessen Horowitz (aka a16z) is a venture capital firm that backs bold entrepreneurs building the future through technology. We are stage agnostic. We invest in seed to venture to growth\\-stage technology companies, across AI, bio \\+ healthcare, consumer, crypto, enterprise, fintech, games, and companies building toward American dynamism. a16z has $90B under management across multiple funds.\n\n\n\nWe've established a team that"
-    },
-    {
-      "title": "Web3 Program Manager",
-      "company": "Draper University",
-      "url": "https://www.linkedin.com/jobs/view/4382450588",
-      "location": null,
-      "posted_date": "2026-03-10",
+      "posted_date": "2026-02-24",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1144,11 +1090,11 @@
       "snippet": "nan"
     },
     {
-      "title": "Corporate Associate – Crypto / Blockchain",
-      "company": "The People Of: Professional Services",
-      "url": "https://www.linkedin.com/jobs/view/4326163915",
+      "title": "UX Designer (Part-Time, Web3/DeFi)",
+      "company": "Agoric",
+      "url": "https://www.linkedin.com/jobs/view/4305156545",
       "location": null,
-      "posted_date": "2025-12-07",
+      "posted_date": "2025-09-23",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1162,20 +1108,74 @@
       "snippet": "nan"
     },
     {
-      "title": "Crypto Portfolio Manager – DeFi & Prediction Markets (Remote / Global)",
-      "company": "L.Knighton",
-      "url": "https://www.linkedin.com/jobs/view/4383216380",
+      "title": "Web3 Portfolio Manager (Remote - USA)",
+      "company": "BLACKDOT STUDIOS ⚫",
+      "url": "https://www.linkedin.com/jobs/view/4384273706",
       "location": null,
-      "posted_date": "2026-03-11",
+      "posted_date": "nan",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Blockchain Investigator",
-      "company": "BlockchainUnmasked",
-      "url": "https://www.linkedin.com/jobs/view/4382321870",
+      "title": "Customer Support Representative",
+      "company": "TELUS Digital",
+      "url": "https://www.indeed.com/viewjob?jk=ddcadc877ddbafe7",
       "location": null,
-      "posted_date": "2026-03-07",
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "**Position Overview:**  \n\nAs a Customer Support Representative, you'll be on the front lines of interaction with customers of a leading financial technology company that has revolutionized investing by offering commission\\-free trading through an intuitive mobile platform. Our client has democratized access to the stock market, making it easy for first\\-time and everyday investors to buy and sell stocks, ETFs, options, and cryptocurrency. We are looking for personable and tech\\-savvy professiona"
+    },
+    {
+      "title": "CRYPTOCURRENCY / FINANCIAL SERVICES PARALEGAL",
+      "company": "Commonwealth of Massachusetts",
+      "url": "https://www.indeed.com/viewjob?jk=87ee52b1fca705f0",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "***Attention applicants:******Do not apply for this position via the MassCareers website.******Your application will not be received.***\n\n **To apply, follow the link below** **to the Attorney General’s Office direct application page.**\n\n**www.mass.gov/ago/employment****.**\n\n **CRYPTOCURRENCY/FINANCIAL SERVICES PARALEGAL**\nPUBLIC PROTECTION \\& ADVOCACY BUREAU\nINSURANCE \\& FINANCIAL SERVICES DIVISION\n(Boston or Regional Office)  \n\nThe Attorney General's Office is looking to hire a Paralegal to as"
+    },
+    {
+      "title": "Cryptocurrency/Financial Services Paralegal | Insurance & Financial Services Division",
+      "company": "Massachusetts Office of the Attorney General",
+      "url": "https://www.indeed.com/viewjob?jk=827e30767cd4cc6c",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "**CRYPTOCURRENCY/FINANCIAL SERVICES PARALEGAL**\n\nPUBLIC PROTECTION \\& ADVOCACY BUREAU\n\n\nINSURANCE \\& FINANCIAL SERVICES DIVISION\n\n\n(Boston or Regional Office)  \n\n\n\n  \n\nThe Attorney General's Office is looking to hire a Paralegal to assist a group of attorneys focusing on consumer/investor protection issues in cryptocurrency and analogous financial services transactions in our Insurance \\& Financial Services Division (IFSD). The Division handles investigations, mediations, and enforcement actions"
+    },
+    {
+      "title": "Backend / Python Software Engineer - San Francisco, CA",
+      "company": "AHU Technologies",
+      "url": "https://www.indeed.com/viewjob?jk=5b62a7dd3c89a797",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "**About the job**  \n\nWe're building a consumer finance app for emerging markets, in partnership with extremely large distribution partners. We are creating a joint virtual banking and cryptocurrency wallet that allows users all over the world to move seamlessly within our financial ecosystem.  \n\n**Why now:** stablecoins are changing cross\\-border payments. There is an opportunity to rebuild financial infrastructure for the 3 billion people who need better financial rails.  \n\nWe're a small, **sen"
+    },
+    {
+      "title": "Fintech Engineering Lead - San Francisco, CA",
+      "company": "AHU Technologies",
+      "url": "https://www.indeed.com/viewjob?jk=94ec47dab4356cce",
+      "location": null,
+      "posted_date": "2026-03-13",
+      "source": "indeed",
+      "snippet": "**About the job**  \n\n\nWe're building a consumer finance app for emerging markets, in partnership with extremely large distribution partners. We are creating a joint virtual banking and cryptocurrency wallet that allows users all over the world to move seamlessly within our financial ecosystem.  \n\nWe're a small, **senior\\-only team** moving fast. We are well\\-funded with the ability to offer **high cash compensation**, based in SF, and led by **proven founders with successful exits**. Every hire"
+    },
+    {
+      "title": "Account Manager (Institutional Crypto)",
+      "company": "The Tie",
+      "url": "https://www.linkedin.com/jobs/view/4383354387",
+      "location": null,
+      "posted_date": "2026-03-09",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Blockchain Intelligence Analyst",
+      "company": "TRM Labs",
+      "url": "https://www.linkedin.com/jobs/view/4077506251",
+      "location": null,
+      "posted_date": "2026-02-27",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1198,301 +1198,301 @@
       "snippet": "nan"
     },
     {
-      "title": "Crypto Wallet Operations Specialist",
-      "company": "moomoo",
-      "url": "https://www.linkedin.com/jobs/view/4372626591",
+      "title": "Crypto Trading Analyst (Remote - United States)",
+      "company": "Cryptocurrency Investors and Trade Association",
+      "url": "https://www.linkedin.com/jobs/view/4384255576",
       "location": null,
       "posted_date": "nan",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=793f8afba2ac519b",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=a23a82d09d3d7477",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=fd79724a653eae5f",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=5cdbad90fefeb59f",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=85da12401b1ce2ef",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=ef90bec306d4b694",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=f96766bd13733f5d",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=4f2597e39510c3ec",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=0c1cce1c6bcb4f71",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=af190fef1355eccd",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=d6f3f26dba94502c",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=a0a7ea0dd6d9df29",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=b513d09d3f061aef",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=95d7d32dadc57b76",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=322137c9a93857a1",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=67696334e7fcbd7b",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=870e882ad93bdcdb",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=eab0a3fc83e61cae",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=78efa2c3012a7c30",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=c61e5ccf81d1529a",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=949eafa573fb8c31",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=dc14d51be6c1d3db",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=53e96c440c600f93",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=676ef27731d7f6e7",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=91c2fb0b202a1e4c",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=4021bc865035b969",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=e4c1c668b7669937",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=60baf96c41b9134e",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=612600b49c3a9110",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=e4c7ee4eccb78cad",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=92788f1b1f83a4c9",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
-      "title": "Collections/ Customer Service Specialist - Remote",
+      "title": "Customer Service Specialist - Remote",
       "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=8741b13a68ef45b4",
       "location": null,
       "posted_date": "2026-03-13",
       "source": "indeed",
-      "snippet": "**This class date is slated for March 16, 2026!!**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n\nLea"
+      "snippet": "* **This class date is slated for** ***April 27, 2026*****!!**\n* **This position will include a Saturday shift and** **operate on a flexible schedule. Shifts may start and end within a one\\-hour scheduling window based on business needs.**\n\n **About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North A"
     },
     {
       "title": "Titles Specialist - Vault Team",
@@ -1567,29 +1567,11 @@
       "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at de"
     },
     {
-      "title": "Partnerships Lead, Defi",
-      "company": "OP Labs PBC",
-      "url": "https://www.linkedin.com/jobs/view/4372157835",
-      "location": null,
-      "posted_date": "2026-03-06",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Crypto Research & Market Insights Analyst (Content & Community)",
       "company": "Yieldschool, Inc.",
       "url": "https://www.linkedin.com/jobs/view/4380602241",
       "location": null,
       "posted_date": "2026-03-05",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Blockchain Analytics Specialist",
-      "company": "Guidepost Solutions",
-      "url": "https://www.linkedin.com/jobs/view/4380203331",
-      "location": null,
-      "posted_date": "2026-02-23",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1608,24 +1590,6 @@
       "url": "https://www.linkedin.com/jobs/view/4314840836",
       "location": null,
       "posted_date": "2026-02-22",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Digital Assets Consultant",
-      "company": "Accenture",
-      "url": "https://www.linkedin.com/jobs/view/4373325036",
-      "location": null,
-      "posted_date": "2026-02-18",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Sr Dir of Digital Assets and AI",
-      "company": "Summit Utilities, Inc.",
-      "url": "https://www.linkedin.com/jobs/view/4368637854",
-      "location": null,
-      "posted_date": "2026-01-09",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1684,15 +1648,6 @@
       "snippet": "nan"
     },
     {
-      "title": "Director, Stock Tokenization Product",
-      "company": "Securitize",
-      "url": "https://www.linkedin.com/jobs/view/4379926546",
-      "location": null,
-      "posted_date": "2026-03-03",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Tokenization, Senior Associate",
       "company": "JPMorganChase",
       "url": "https://www.linkedin.com/jobs/view/4354686934",
@@ -1720,6 +1675,15 @@
       "snippet": "nan"
     },
     {
+      "title": "Digital Director, Digital Wallets and Tokenization",
+      "company": "Bank of America",
+      "url": "https://www.linkedin.com/jobs/view/4377846913",
+      "location": null,
+      "posted_date": "2026-02-25",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
       "title": "Digital Assets & Tokenization Index Product Management",
       "company": "Nasdaq",
       "url": "https://www.linkedin.com/jobs/view/4345203951",
@@ -1727,7 +1691,16 @@
       "posted_date": "2026-02-21",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "Director, Stock Tokenization Product Manager",
+      "company": "Securitize",
+      "url": "https://www.linkedin.com/jobs/view/4385377331",
+      "location": null,
+      "posted_date": "nan",
+      "source": "linkedin",
+      "snippet": "nan"
     }
   ],
-  "count": 192
+  "count": 189
 }
