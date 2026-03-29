@@ -230,7 +230,7 @@
       "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/7536920?t=gh_src=&gh_jid=7536920",
       "location": "Menlo Park, CA; New York, NY",
-      "posted_date": "2026-03-18T15:04:20-04:00",
+      "posted_date": "2026-03-29T03:19:44-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -239,7 +239,7 @@
       "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/7489895?t=gh_src=&gh_jid=7489895",
       "location": "Menlo Park, CA; New York, NY",
-      "posted_date": "2026-03-18T15:05:18-04:00",
+      "posted_date": "2026-03-29T03:05:29-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -257,7 +257,7 @@
       "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/6545329?t=gh_src=&gh_jid=6545329",
       "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
-      "posted_date": "2026-03-18T15:04:22-04:00",
+      "posted_date": "2026-03-29T03:19:44-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -273,8 +273,8 @@
     {
       "title": "Staff Software Engineer, Web3",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952",
-      "location": "Toronto, Canada",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950",
+      "location": "Menlo Park, CA; New York, NY",
       "posted_date": "2026-03-18T15:02:48-04:00",
       "source": "greenhouse",
       "snippet": null
@@ -282,8 +282,8 @@
     {
       "title": "Staff Software Engineer, Web3",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950",
-      "location": "Menlo Park, CA; New York, NY",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952",
+      "location": "Toronto, Canada",
       "posted_date": "2026-03-18T15:02:48-04:00",
       "source": "greenhouse",
       "snippet": null
@@ -379,13 +379,22 @@
       "snippet": null
     },
     {
-      "title": "Job Title: PhD Consultant – Post-Quantum Cryptography (PQC)",
-      "company": "Internet Sciences Inc",
-      "url": "https://www.indeed.com/viewjob?jk=58e59d900c2b823e",
+      "title": "Blockchain Software Engineer",
+      "company": "Craftner INC",
+      "url": "https://www.indeed.com/viewjob?jk=50103bfc3af89ca4",
+      "location": null,
+      "posted_date": "2026-03-29",
+      "source": "indeed",
+      "snippet": "###### **Charlotte, NC \\| Contract To Hire**\n\n\n#### **Preferred Skills**\n\n\nBlockchain  \n\n  \n\n  \n\n  \n\n  \n\n#### **Job Description**\n\n\n**Duties and Responsibilities:**\n\n\n* Design, develop and implement blockchain capabilities\n* Design new methods for implementing blockchain technology for our clients\n* Incorporate usage of digital tokens and smart contract\n* Execute research and development activities for new blockchain deliverables\n\n\n**Requirements:**\n\n\n* Bachelor’s in Computer Science, Informatio"
+    },
+    {
+      "title": "Bitcoin mining",
+      "company": "Bitcoin Depot",
+      "url": "https://www.indeed.com/viewjob?jk=2e770aa57c8c2755",
       "location": null,
       "posted_date": "2026-03-28",
       "source": "indeed",
-      "snippet": "**About AegisQ**\n\nAegisQ Technologies is a startup building quantum\\-resilient cybersecurity infrastructure for the next generation of digital systems. Our focus is simple: design and deploy cryptography that will survive the transition to the quantum era.\n\n**The Role**\n\nWe are seeking a PhD\\-level cryptographer to design and implement core post\\-quantum security components.\n\nThis is a hands\\-on role focused on translating advanced cryptographic theory into real, deployable systems.\n\n**What You’"
+      "snippet": "**Overview**  \nJoin a dynamic team dedicated to pioneering the future of digital currency through Bitcoin mining! In this role, you will be at the forefront of blockchain technology, operating and maintaining high\\-performance mining hardware to validate transactions and secure the Bitcoin network. Your enthusiasm for cutting\\-edge technology and commitment to precision will drive the success of our mining operations. This paid position offers an exciting opportunity to develop expertise in cryp"
     },
     {
       "title": "Lead Software Engineer - ML / Blockchain",
@@ -404,15 +413,6 @@
       "posted_date": "2026-03-28",
       "source": "indeed",
       "snippet": "**JOB DESCRIPTION**  \n\nAt Chase, you'll have the opportunity to make a significant impact by shaping the future of how we protect our customers. Join a dynamic team that values innovation, collaboration, and continuous improvement.\n\n  \n\n\n\n**Job Summary**  \n\nAs a Senior Product Associate in the Wires, International, and Blockchain Payments team, you will drive the end\\-to\\-end delivery of product experience and platform features. You will focus on enhancing customer experience through both user\\-"
-    },
-    {
-      "title": "Blockchain Software Engineer",
-      "company": "Craftner INC",
-      "url": "https://www.indeed.com/viewjob?jk=5f4d3623c4ebeec0",
-      "location": null,
-      "posted_date": "2026-03-28",
-      "source": "indeed",
-      "snippet": "###### **Charlotte, NC \\| Contract To Hire**\n\n\n#### **Preferred Skills**\n\n\nBlockchain  \n\n  \n\n  \n\n  \n\n  \n\n#### **Job Description**\n\n\n**Duties and Responsibilities:**\n\n\n* Design, develop and implement blockchain capabilities\n* Design new methods for implementing blockchain technology for our clients\n* Incorporate usage of digital tokens and smart contract\n* Execute research and development activities for new blockchain deliverables\n\n\n**Requirements:**\n\n\n* Bachelor’s in Computer Science, Informatio"
     },
     {
       "title": "Senior Blockchain Engineering Manager - SVP",
@@ -496,6 +496,42 @@
       "snippet": "Description:\n**IT Helpdesk Manager – Empower the Future of Travel with Blockskye**\n\n\nBlockskye is transforming corporate travel and entertainment with next\\-generation blockchain\\-powered booking, payment, and expense solutions. By connecting suppliers and corporate buyers through cutting\\-edge technology, we drive transparency, trust, and efficiency in travel management. Backed by industry\\-leading partners in booking technology, airlines, and innovative payment solutions, we are shaping the fu"
     },
     {
+      "title": "Web3 Capital Network & Digital Asset Participation Associate",
+      "company": "Bruin Finance Society",
+      "url": "https://www.linkedin.com/jobs/view/4391739671",
+      "location": null,
+      "posted_date": "2026-03-27",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Strategic Account Executive - Institutional DeFi",
+      "company": "MLabs",
+      "url": "https://www.linkedin.com/jobs/view/4391543968",
+      "location": null,
+      "posted_date": "2026-03-27",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Web3 Macro Portfolio Manager",
+      "company": "Techgenix",
+      "url": "https://www.linkedin.com/jobs/view/4392683386",
+      "location": null,
+      "posted_date": "2026-03-27",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Web3 Deal Flow & Digital Asset Opportunities Associate",
+      "company": "LEA FinTech | Technology-Backed Project Finance",
+      "url": "https://www.linkedin.com/jobs/view/4391716134",
+      "location": null,
+      "posted_date": "2026-03-27",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
       "title": "Head of Growth - DeFi",
       "company": "Coinme",
       "url": "https://www.linkedin.com/jobs/view/4390820832",
@@ -559,11 +595,11 @@
       "snippet": "nan"
     },
     {
-      "title": "Chief Executive Officer (CEO) - AIVM Blockchain - Americas",
-      "company": "ChainGPT",
-      "url": "https://www.linkedin.com/jobs/view/4372906498",
+      "title": "CTO possible co-founder role, hands on Rust, Blockchain, AI, startup experience a must have",
+      "company": "Travoom",
+      "url": "https://www.linkedin.com/jobs/view/4373529363",
       "location": null,
-      "posted_date": "2026-02-13",
+      "posted_date": "2026-02-16",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -578,28 +614,10 @@
     },
     {
       "title": "Blockchain Engineer",
-      "company": "Old Harmony",
-      "url": "https://www.linkedin.com/jobs/view/4250721698",
+      "company": "Harmony",
+      "url": "https://www.linkedin.com/jobs/view/3959571895",
       "location": null,
-      "posted_date": "2025-06-18",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Web3 Capital Network & Digital Asset Participation Associate",
-      "company": "Bruin Finance Society",
-      "url": "https://www.linkedin.com/jobs/view/4391739671",
-      "location": null,
-      "posted_date": "nan",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Blockchain Research Analyst",
-      "company": "CHEManager International",
-      "url": "https://www.linkedin.com/jobs/view/4390988071",
-      "location": null,
-      "posted_date": "nan",
+      "posted_date": "2024-06-26",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -640,11 +658,20 @@
       "snippet": "**About Initialized Capital Management, LLC**\n\nInitialized is a generalist seed\\-stage venture firm with over $3B in AUM. The team works closely with technical, ambitious founders and backs them early as they build enduring companies.\n\nInitialized is focused on investing across AI, robotics, space, energy, defense, and crypto. The firm has backed companies including Coinbase, Instacart, Flexport, and Rippling and spends a lot of time thinking about how new tools, especially AI, are changing how"
     },
     {
-      "title": "Social Media Manager (Crypto/Web3) - Dragonfly Portfolio",
-      "company": "Dragonfly",
-      "url": "https://www.linkedin.com/jobs/view/4375537564",
+      "title": "PM/Trader, Market Neutral Crypto",
+      "company": "G-20 Group",
+      "url": "https://www.linkedin.com/jobs/view/4390013867",
       "location": null,
-      "posted_date": "2026-02-26",
+      "posted_date": "2026-03-25",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Account Executive (Institutional Crypto)",
+      "company": "The Tie",
+      "url": "https://www.linkedin.com/jobs/view/4383358046",
+      "location": null,
+      "posted_date": "2026-03-09",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -820,11 +847,29 @@
       "snippet": "nan"
     },
     {
-      "title": "Web3 Macro Portfolio Manager",
-      "company": "Techgenix",
-      "url": "https://www.linkedin.com/jobs/view/4392683386",
+      "title": "Blockchain Consultant",
+      "company": "Atlantic Partners Corporation",
+      "url": "https://www.linkedin.com/jobs/view/4388573486",
       "location": null,
-      "posted_date": "nan",
+      "posted_date": "2026-03-21",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Web3 / Full-stack Software Engineer",
+      "company": "stakefish",
+      "url": "https://www.linkedin.com/jobs/view/4354644743",
+      "location": null,
+      "posted_date": "2026-01-05",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Corporate Associate – Crypto / Blockchain",
+      "company": "The People Of: Professional Services",
+      "url": "https://www.linkedin.com/jobs/view/4326163915",
+      "location": null,
+      "posted_date": "2025-12-07",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -834,15 +879,6 @@
       "url": "https://www.linkedin.com/jobs/view/4077506251",
       "location": null,
       "posted_date": "2026-03-20",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Crypto Portfolio Manager – DeFi & Prediction Markets (Remote / Global)",
-      "company": "L.Knighton",
-      "url": "https://www.linkedin.com/jobs/view/4383216380",
-      "location": null,
-      "posted_date": "2026-03-11",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1216,24 +1252,6 @@
       "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance. Learn more at defis"
     },
     {
-      "title": "Institutional BD – DeFi Lending (App: 786c0)",
-      "company": "Referment",
-      "url": "https://www.linkedin.com/jobs/view/4391513613",
-      "location": null,
-      "posted_date": "2026-03-27",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "PM/Trader, Market Neutral Crypto",
-      "company": "G-20 Group",
-      "url": "https://www.linkedin.com/jobs/view/4390013867",
-      "location": null,
-      "posted_date": "2026-03-25",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Crypto Business Development Intern",
       "company": "LayerZero Labs",
       "url": "https://www.linkedin.com/jobs/view/4384223306",
@@ -1247,45 +1265,45 @@
       "company": "Dragonfly",
       "url": "https://www.linkedin.com/jobs/view/4382553014",
       "location": null,
-      "posted_date": "2026-03-11",
+      "posted_date": "nan",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Private Client Process Analyst, Senior Associate",
-      "company": "JPMorganChase",
-      "url": "https://www.indeed.com/viewjob?jk=ca210366aa34f860",
+      "title": "Partnerships Lead, Defi",
+      "company": "OP Labs PBC",
+      "url": "https://www.linkedin.com/jobs/view/4372157835",
       "location": null,
-      "posted_date": "2026-03-28",
-      "source": "indeed",
-      "snippet": "**JOB DESCRIPTION**  \n\nJ.P. Morgan Private Client is a line of business within Consumer \\& Community Banking, dedicated to helping affluent clients achieve their banking, lending, and investment goals. Operating in a highly dynamic environment shaped by evolving client behaviors, regulatory changes, and close partnerships with other Consumer \\& Community Banking businesses, our team is at the forefront of redefining service standards.\n\n\nAs a Business Analyst within the JPMorgan Private Client te"
-    },
-    {
-      "title": "Senior Product Designer – Private Bank Digital, Vice President",
-      "company": "JPMorganChase",
-      "url": "https://www.indeed.com/viewjob?jk=5fd19c5275f37cda",
-      "location": null,
-      "posted_date": "2026-03-28",
-      "source": "indeed",
-      "snippet": "**JOB DESCRIPTION**  \n\nAre you ready to shape the future of private banking at the world’s premier global financial institution? We’re seeking an innovative and strategic Senior Product Designer to drive the evolution of digital experiences within the Private Bank. In this role, you will be at the forefront of redefining how our teams and stakeholders interact with digital products and services, delivering seamless, user\\-centric solutions that set new standards for the industry.\n\n\nAs a hands\\-o"
-    },
-    {
-      "title": "Institutional Defined Contribution Marketing Strategy Associate",
-      "company": "JPMorganChase",
-      "url": "https://www.indeed.com/viewjob?jk=05bdc0255ace8a57",
-      "location": null,
-      "posted_date": "2026-03-28",
-      "source": "indeed",
-      "snippet": "**JOB DESCRIPTION**  \n\nAt J.P. Morgan Asset Management, we help the nation’s largest defined contribution retirement plans and their consulting partners achieve their goals through innovative investment and engagement strategies. As the Associate, Institutional Defined Contribution Marketing Strategy Lead, you will be part of a forward\\-thinking team dedicated to understanding the evolving needs of institutional retirement clients and developing impactful, data\\-driven marketing strategies. This"
-    },
-    {
-      "title": "Equity Research Associate, Fintech/Digital Assets",
-      "company": "BTIG",
-      "url": "https://www.linkedin.com/jobs/view/4390348873",
-      "location": null,
-      "posted_date": "2026-03-26",
+      "posted_date": "nan",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "Creative Marketing Manager, Amazon Delivery Experience (ADX)",
+      "company": "Amazon.com",
+      "url": "https://www.indeed.com/viewjob?jk=1095f8c0b4ba8010",
+      "location": null,
+      "posted_date": "2026-02-14",
+      "source": "indeed",
+      "snippet": "**DESCRIPTION**\n---------------\n\n\nThe Creative Marketing Manager for Amazon Now owns the end\\-to\\-end creative strategy that defines how Amazon Now visually communicates speed and convenience options to customers. This role establishes the strategic foundation for Amazon Now's creative approach, developing template frameworks, channel strategies, and campaign guidelines that serve all marketing\\-forward, digital asset tier needs across the business. As the creative strategist for this high\\-grow"
+    },
+    {
+      "title": "Creative Marketing Manager, Amazon Delivery Experience (ADX)",
+      "company": "Amazon.com",
+      "url": "https://www.indeed.com/viewjob?jk=c17ac0f3f073411f",
+      "location": null,
+      "posted_date": "2026-02-14",
+      "source": "indeed",
+      "snippet": "**DESCRIPTION**\n---------------\n\n\nThe Creative Marketing Manager for Amazon Now owns the end\\-to\\-end creative strategy that defines how Amazon Now visually communicates speed and convenience options to customers. This role establishes the strategic foundation for Amazon Now's creative approach, developing template frameworks, channel strategies, and campaign guidelines that serve all marketing\\-forward, digital asset tier needs across the business. As the creative strategist for this high\\-grow"
+    },
+    {
+      "title": "Creative Marketing Manager, Amazon Delivery Experience (ADX)",
+      "company": "Amazon.com",
+      "url": "https://www.indeed.com/viewjob?jk=9b66fdef9a10ca9d",
+      "location": null,
+      "posted_date": "2026-02-14",
+      "source": "indeed",
+      "snippet": "**DESCRIPTION**\n---------------\n\n\nThe Creative Marketing Manager for Amazon Now owns the end\\-to\\-end creative strategy that defines how Amazon Now visually communicates speed and convenience options to customers. This role establishes the strategic foundation for Amazon Now's creative approach, developing template frameworks, channel strategies, and campaign guidelines that serve all marketing\\-forward, digital asset tier needs across the business. As the creative strategist for this high\\-grow"
     },
     {
       "title": "Digital Assets Manager",
@@ -1293,6 +1311,15 @@
       "url": "https://www.linkedin.com/jobs/view/4373322103",
       "location": null,
       "posted_date": "2026-02-18",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Sr Dir of Digital Assets and AI",
+      "company": "Summit Utilities, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4368626911",
+      "location": null,
+      "posted_date": "2026-01-09",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1313,6 +1340,15 @@
       "posted_date": "2025-11-04",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "OpenAM",
+      "company": "Openkyber",
+      "url": "https://www.indeed.com/viewjob?jk=06c2d442119e17ab",
+      "location": null,
+      "posted_date": "2026-03-28",
+      "source": "indeed",
+      "snippet": "Position: AI ML engineer with Agentic AI experience Location: Remote\n\n\nJob Profile: An expert Prompt engineer with a strong software engineering a background and an excellent communicator with 8\\+ years of experience implementing AI and ML use cases. (Primarily AI) Knowledge of Computer vision related projects.\n\n\nLLM Expertise: Must have hands\\-on experience working with modern LLMs (OpenAI, Anthropic, LLaMA, Mistral, Gemini),as well as a strong understanding of tokenization, model behaviors, re"
     },
     {
       "title": "CrowdStrike Charlotte AI Engineer",
@@ -1351,18 +1387,27 @@
       "snippet": "**Corporate \\& Investment Bank (CIB)** delivers a comprehensive suite of banking, capital markets and advisory solutions, including a full complement of sales, trading and research capabilities, to corporate, government and institutional clients. We focus on our clients' overall financial needs, with consideration and respect for their total relationship with Wells Fargo.  \n\n  \n\n**Markets** provides solutions to clients with the means to manage their exposure through various derivatives, lending"
     },
     {
-      "title": "Tokenization Product Operations Senior Associate",
-      "company": "JPMorganChase",
-      "url": "https://www.indeed.com/viewjob?jk=a1edf0b36bf15351",
+      "title": "VP, Innovation & Tokenization",
+      "company": "American Bankers Association",
+      "url": "https://www.linkedin.com/jobs/view/4390022651",
       "location": null,
-      "posted_date": "2026-03-26",
-      "source": "indeed",
-      "snippet": "**JOB DESCRIPTION**  \n\nThe Commerce Payments organization is a motivated, forward\\-thinking team comprised of highly talented product managers with a singular focus of delivering innovative payment services via the most important platforms of today and tomorrow. We seek to transform customer experiences, simplify the ways we do business, and aim for product excellence. We value controls, simplicity, and consistency in the capabilities and features we deliver.\n\n\nAs a Product Associate on the Toke"
+      "posted_date": "2026-03-25",
+      "source": "linkedin",
+      "snippet": "nan"
     },
     {
       "title": "Managing Director, Digital Assets",
       "company": "BlackRock",
       "url": "https://www.linkedin.com/jobs/view/4387849321",
+      "location": null,
+      "posted_date": "2026-03-19",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Head of Digital Assets/Tokenization - US",
+      "company": "SS&C Technologies",
+      "url": "https://www.linkedin.com/jobs/view/4304493033",
       "location": null,
       "posted_date": "2026-03-19",
       "source": "linkedin",
@@ -1378,23 +1423,14 @@
       "snippet": "nan"
     },
     {
-      "title": "Digital Assets & Tokenization Index Product Management",
-      "company": "Nasdaq",
-      "url": "https://www.linkedin.com/jobs/view/4345203951",
+      "title": "Software Engineer, Tokenization",
+      "company": "Talos",
+      "url": "https://www.linkedin.com/jobs/view/4380752286",
       "location": null,
-      "posted_date": "2026-03-14",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Engineering Manager, Tokenization",
-      "company": "zerohash",
-      "url": "https://www.linkedin.com/jobs/view/4378524542",
-      "location": null,
-      "posted_date": "2026-03-03",
+      "posted_date": "2026-03-04",
       "source": "linkedin",
       "snippet": "nan"
     }
   ],
-  "count": 155
+  "count": 159
 }
