@@ -37,15 +37,6 @@
       "snippet": null
     },
     {
-      "title": "Sales Director (Crypto Native)",
-      "company": "Fireblocks",
-      "url": "https://job-boards.greenhouse.io/fireblocks/jobs/4620464006",
-      "location": "Hong Kong; Singapore",
-      "posted_date": "2026-04-07T05:42:14-04:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
       "title": "Senior Blockchain Engineer",
       "company": "Fireblocks",
       "url": "https://job-boards.greenhouse.io/fireblocks/jobs/4601513006",
@@ -127,6 +118,15 @@
       "snippet": null
     },
     {
+      "title": "Staff Data Scientist, Product (Crypto)",
+      "company": "Robinhood",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489743?t=gh_src=&gh_jid=7489743",
+      "location": "Menlo Park, CA; New York, NY",
+      "posted_date": "2026-04-08T15:37:04-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
       "title": "Staff Product Designer, Crypto",
       "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/6545329?t=gh_src=&gh_jid=6545329",
@@ -147,8 +147,8 @@
     {
       "title": "Staff Software Engineer, Web3",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950",
-      "location": "Menlo Park, CA; New York, NY",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952",
+      "location": "Toronto, Canada",
       "posted_date": "2026-04-07T20:15:18-04:00",
       "source": "greenhouse",
       "snippet": null
@@ -156,8 +156,8 @@
     {
       "title": "Staff Software Engineer, Web3",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952",
-      "location": "Toronto, Canada",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950",
+      "location": "Menlo Park, CA; New York, NY",
       "posted_date": "2026-04-07T20:15:18-04:00",
       "source": "greenhouse",
       "snippet": null
@@ -181,29 +181,11 @@
       "snippet": null
     },
     {
-      "title": "Engineering Manager, Crypto",
-      "company": "SoFi",
-      "url": "https://sofi.com/careers/job/7592200003?gh_jid=7592200003",
-      "location": "UT - Cottonwood Heights; CA - San Francisco; NY - New York City",
-      "posted_date": "2026-03-25T16:36:10-04:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
       "title": "Financial Analyst, Strategic Finance, Crypto",
       "company": "SoFi",
       "url": "https://sofi.com/careers/job/7608864003?gh_jid=7608864003",
       "location": "UT - Cottonwood Heights; CA - San Francisco; TX - Frisco; NC - Charlotte; NY - New York City; FL - Jacksonville",
       "posted_date": "2026-03-20T10:51:46-04:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
-      "title": "Senior Crypto Banking Operations Manager",
-      "company": "SoFi",
-      "url": "https://sofi.com/careers/job/7647520003?gh_jid=7647520003",
-      "location": "UT - Cottonwood Heights; FL - Jacksonville; NY - New York City",
-      "posted_date": "2026-03-20T10:52:00-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -228,9 +210,9 @@
     {
       "title": "Senior Software Engineer, Crypto",
       "company": "SoFi",
-      "url": "https://sofi.com/careers/job/7608080003?gh_jid=7608080003",
+      "url": "https://sofi.com/careers/job/7608088003?gh_jid=7608088003",
       "location": "CA - San Francisco; NY - New York City",
-      "posted_date": "2026-03-20T10:51:45-04:00",
+      "posted_date": "2026-04-08T09:50:27-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -253,6 +235,15 @@
       "snippet": null
     },
     {
+      "title": "Staff Full-Stack Engineer, Crypto",
+      "company": "SoFi",
+      "url": "https://sofi.com/careers/job/7609472003?gh_jid=7609472003",
+      "location": "WA - Seattle; UT - Cottonwood Heights; CA - San Francisco; NY - New York City",
+      "posted_date": "2026-04-08T18:17:57-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
       "title": "Staff Software Engineer: Crypto & Commercial Banking",
       "company": "SoFi",
       "url": "https://sofi.com/careers/job/7589439003?gh_jid=7589439003",
@@ -262,319 +253,220 @@
       "snippet": null
     },
     {
-      "title": "Staff Software Engineer, Backend - Platform (Payment Rails)",
+      "title": "Lead Software Engineer - ML / Blockchain",
+      "company": "JPMorganChase",
+      "url": "https://www.indeed.com/viewjob?jk=0cd11c27a6bf03ec",
+      "location": null,
+      "posted_date": "2026-04-09",
+      "source": "indeed",
+      "snippet": "**JOB DESCRIPTION**  \n\nBe an integral part of an agile team that's constantly pushing the envelope to enhance, build, and deliver top\\-notch technology products.\n\n\nAs a Lead Software Engineer at JPMorgan Chase, within **Commercial** and **Investment Banking team,** you will play a key role in an agile team dedicated to building, enhancing, and delivering trusted, market\\-leading technology products. You will leverage your deep technical expertise and problem\\-solving skills to address complex ch"
+    },
+    {
+      "title": "Blockchain Software Engineer",
+      "company": "Craftner INC",
+      "url": "https://www.indeed.com/viewjob?jk=5976b8a53fb4a9e9",
+      "location": null,
+      "posted_date": "2026-04-09",
+      "source": "indeed",
+      "snippet": "###### **Charlotte, NC \\| Contract To Hire**\n\n\n#### **Preferred Skills**\n\n\nBlockchain  \n\n  \n\n  \n\n  \n\n  \n\n#### **Job Description**\n\n\n**Duties and Responsibilities:**\n\n\n* Design, develop and implement blockchain capabilities\n* Design new methods for implementing blockchain technology for our clients\n* Incorporate usage of digital tokens and smart contract\n* Execute research and development activities for new blockchain deliverables\n\n\n**Requirements:**\n\n\n* Bachelor’s in Computer Science, Informatio"
+    },
+    {
+      "title": "CEO Assistant",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=25affa2ad09ffe04",
+      "location": null,
+      "posted_date": "2026-04-09",
+      "source": "indeed",
+      "snippet": "**Job Position: CEO Assistant**\n**Location: Dallas, TX, USA (Remote Acceptable)**\n**Company:****https://infstones.com/**\n**Contact:** **recruiter\\-usa@infstones.com**\n\n**About Company**\nInfStones is an advanced, enterprise\\-grade Platform as a Service (PaaS) blockchain infrastructure provider trusted by the top blockchain companies in the world. InfStones’ AI\\-based infrastructure provides developers worldwide with a rugged, powerful node management platform alongside an easy\\-to\\-use API. With"
+    },
+    {
+      "title": "Data Science",
+      "company": "TEMPO",
+      "url": "https://www.indeed.com/viewjob?jk=6f2c88c4ed7a8dda",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "Tempo is a layer\\-1 blockchain purpose\\-built for stablecoins and real\\-world payments, born from Stripe’s experience in global payments and Paradigm’s expertise in crypto tech.\n\n\nTempo’s payment\\-first design provides a scalable, low\\-cost predictable backbone that meets the needs of high\\-volume payment use cases. Our goal is to move money reliably, cheaply, and at scale. Our north star is simplicity for users: fintechs, traditional banks, merchants, platforms, and anyone else looking to move"
+    },
+    {
+      "title": "Experience Owner II",
+      "company": "Citizens",
+      "url": "https://www.indeed.com/viewjob?jk=bd2f16b50179a238",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**Description**\n\n**Experience Owner – Digital Assets \\& Tokenized Payments'**\n\n**Role Overview**\n\n\nThe Experience Owner – Digital Assets \\& Tokenized Payments plays a hands‑on role in building and commercializing Citizens’ digital asset, stablecoin, and tokenization capabilities across Commercial Banking and Wholesale Payments. Reporting to the SVP, Digital Asset Delivery Lead, this role owns day‑to‑day product execution—translating emerging digital asset use cases into **secure, scalable, bank*"
+    },
+    {
+      "title": "Digital Assets & Blockchain Subject Matter Expert Associate | 2026",
+      "company": "CBIZ",
+      "url": "https://www.indeed.com/viewjob?jk=906dd38556fa452e",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "CBIZ Inc. is a leading professional services advisor to middle market businesses and organizations nationwide. With unmatched industry knowledge and expertise in accounting, tax, advisory, benefits, insurance, and technology, CBIZ delivers forward\\-thinking insights and actionable solutions to help clients anticipate what's next and discover new ways to accelerate growth. CBIZ has more than 10,000 team members across more than 160 locations in 22 major markets coast to coast.\n\n\nCBIZ strives to b"
+    },
+    {
+      "title": "Digital Assets & Blockchain Intern | Fall 2026",
+      "company": "CBIZ",
+      "url": "https://www.indeed.com/viewjob?jk=f07db5b58a454166",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "CBIZ Inc. is a leading professional services advisor to middle market businesses and organizations nationwide. With unmatched industry knowledge and expertise in accounting, tax, advisory, benefits, insurance, and technology, CBIZ delivers forward\\-thinking insights and actionable solutions to help clients anticipate what's next and discover new ways to accelerate growth. CBIZ has more than 10,000 team members across more than 160 locations in 22 major markets coast to coast.\n\n\nCBIZ strives to b"
+    },
+    {
+      "title": "Staff Full-Stack Engineer, Crypto",
+      "company": "SoFi",
+      "url": "https://www.indeed.com/viewjob?jk=f7dece87a3ede4f0",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**Employee Applicant Privacy Notice**\n\n\n**Who we are:**\n\n\n\nShape a brighter financial future with us.\n\n\n\nTogether with our members, we're changing the way people think about and interact with personal finance.\n\n\n\nWe're a next\\-generation financial services company and national bank using innovative, mobile\\-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we're at the forefront. We're proud to come to work ever"
+    },
+    {
+      "title": "Data Scientist (GTM)",
+      "company": "0x",
+      "url": "https://www.indeed.com/viewjob?jk=182cebf5af087b87",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**COMPANY**\n\n\nAt 0x, our mission is to \"Create a Tokenized World Where All Forms of Value Can Flow Freely\". We deliver this to web3 builders with a delightfully simple suite of developer APIs that provide faster trading, better prices, and superior user experience.\n\n\nFounded in 2017, we’ve processed over 211M\\+ transactions and $180B\\+ in trading volume from users trading on Matcha, Coinbase Wallet, Robinhood Wallet, Phantom, Rainbow, DefiLlama, MetaMask, Zerion, Zapper, and many more. Our inves"
+    },
+    {
+      "title": "VP - DLR Product management, Digital Innovations (Hybrid - NYC, Newark, NJ, London)",
+      "company": "Broadridge",
+      "url": "https://www.indeed.com/viewjob?jk=cba184736218efea",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "At Broadridge, we've built a culture where the highest goal is to empower others to accomplish more. If you’re passionate about developing your career, while helping others along the way, come join the Broadridge team.\n\n\nBroadridge is hiring! We are seeking a Senior Distributed Ledger Repo Product Manager to support growing demand for Broadridge Tokenization initiatives. This role is responsible for defining product vision, translating market and business needs into product requirements, and dri"
+    },
+    {
+      "title": "Director - DLR Product Management, Digital Innovations (Hybrid - NYC, Newark, NJ)",
+      "company": "Broadridge",
+      "url": "https://www.indeed.com/viewjob?jk=1179ef7ba777036f",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "At Broadridge, we've built a culture where the highest goal is to empower others to accomplish more. If you’re passionate about developing your career, while helping others along the way, come join the Broadridge team.\n\n\nBroadridge is hiring! We are seeking a Distributed Ledger Repo Product Manager to support growing demand for Broadridge Tokenization initiatives. This role is responsible for defining product vision, translating market and business needs into product requirements, and driving ex"
+    },
+    {
+      "title": "Sr. Director, Technology Risk Management - Digital Assets",
+      "company": "Early Warning Services",
+      "url": "https://www.indeed.com/viewjob?jk=dc56b675e3db58ca",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "At Early Warning, we’ve powered and protected the U.S. financial system for over thirty years with cutting\\-edge solutions like Zelle®, Paze℠, and so much more. As a trusted name in payments, we partner with thousands of institutions to increase access to financial services and protect transactions for hundreds of millions of consumers and small businesses.\n\n\nPositions located in Scottsdale, San Francisco, Chicago, or New York follow a hybrid work model to allow for a more collaborative working"
+    },
+    {
+      "title": "Engineering Manager",
+      "company": "Unchained Capital",
+      "url": "https://www.indeed.com/viewjob?jk=34140c03fe1448e3",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**ABOUT UNCHAINED**\n\n  \n\nUnchained offers a suite of bitcoin financial services built on top of a unique collaborative custody model. These include: buying and selling bitcoin directly to and from cold storage, bitcoin retirement accounts, bitcoin\\-backed loans, concierge services to educate clients on best security practices, and cold storage solutions for institutions and other businesses.\n\n **POSITION OVERVIEW**\n\n\nThe Engineering Manager at Unchained is a hands\\-on engineering leader responsi"
+    },
+    {
+      "title": "Associate, Liquid Tokens",
+      "company": "Digital Currency Group",
+      "url": "https://www.indeed.com/viewjob?jk=b18908cc32d1641b",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**What You'll Be A Part Of:**\n\n\n\nFounded in 2015 by CEO Barry Silbert, Digital Currency Group is the most active investor in the blockchain sector with a mission to accelerate the development of a better financial system through the proliferation of digital assets and blockchain technology. Today, DCG sits at the epicenter of the industry, backing more than 200 blockchain\\-related companies in over 35 countries. DCG also invests directly in digital currencies and other digital assets.\n\n\n\nWe pass"
+    },
+    {
+      "title": "Information Security IV - (Intel SGX and HSMs ) AND (MPC or cryptographic frameworks) - (Very Urgent Requirement)",
+      "company": "Syncreon Consulting",
+      "url": "https://www.indeed.com/viewjob?jk=08e29e8a7aa71118",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**Company Description**  \n\nWe provide Recruitment and Staffing services to many industries and domain through our innovative and customized solutions and passionate commitment to research. Ability to understand the hiring strategies, availability of talent and compensation benchmarking makes us proud hiring partner for various industries. We work as trusted business partners and always strive to deliver the most value and highest return on investment for our clients. We are highly trained busine"
+    },
+    {
+      "title": "Digital Assets Trading Manager/Digital Asset Research Analyst",
+      "company": "Anytime Fitness",
+      "url": "https://www.indeed.com/viewjob?jk=bac6dbd5a9e1d00d",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**Job Overview**  \nWe are seeking a dynamic and detail\\-oriented Digital Assets Trading Manager / Digital Asset Research Analyst to lead our digital asset investment initiatives and provide comprehensive research insights. This role offers an exciting opportunity to shape our digital asset strategies, manage trading activities, and deliver in\\-depth market analysis. You will play a pivotal role in navigating the rapidly evolving landscape of cryptocurrencies and blockchain\\-based assets, ensurin"
+    },
+    {
+      "title": "Principal Consultant VP - IBOR - Implementation",
+      "company": "State Street",
+      "url": "https://www.indeed.com/viewjob?jk=5003c0fc70d0d261",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**What we are looking for**\n\n\nPrincipal Consultants serve as subject\\-matter experts in the implementation and upgrade of the Charles River Investment Management Solution (CRIMS). Their contributions include defining client requirements, configuring and tuning the solution to the client’s business and technical needs, training clients, testing workflows and resolving issues before taking the client “live”.\n\n\nPrincipal Consultants are expected to demonstrate basic understanding of the entire CRIM"
+    },
+    {
+      "title": "Principal Consultant, VP - Investment Software Implementation - Charles River Development",
+      "company": "State Street",
+      "url": "https://www.indeed.com/viewjob?jk=581b95bc00a84b02",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**What we are looking for**\n\n\nPrincipal Consultants serve as subject\\-matter experts in the implementation and upgrade of the Charles River Investment Management Solution (CRIMS). Their contributions include defining client requirements, configuring and tuning the solution to the client’s business and technical needs, training clients, testing workflows and resolving issues before taking the client “live”.\n\n\nPrincipal Consultants are expected to demonstrate basic understanding of the entire CRIM"
+    },
+    {
+      "title": "Head of SOX and Internal Controls",
       "company": "Coinbase",
-      "url": "https://www.indeed.com/viewjob?jk=f0b965cf8da2af22",
+      "url": "https://www.indeed.com/viewjob?jk=bd3eb64d787ebb95",
       "location": null,
       "posted_date": "2026-04-08",
       "source": "indeed",
       "snippet": "Ready to be pushed beyond what you think you're capable of?\n\n\n\nAt Coinbase, our mission is to increase economic freedom in the world. It's a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.\n\n\n\nTo achieve our mission, we're seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update"
     },
     {
-      "title": "Tax Director - Blockchain and Digital Assets - Cryptocurrency",
-      "company": "BPM",
-      "url": "https://www.indeed.com/viewjob?jk=e5f937bd59b4d303",
+      "title": "Senior Software Engineer, Backend - Platform (Overseer)",
+      "company": "Coinbase",
+      "url": "https://www.indeed.com/viewjob?jk=7347970c571437b7",
       "location": null,
-      "posted_date": "2026-04-07",
+      "posted_date": "2026-04-08",
       "source": "indeed",
-      "snippet": "**Overview**\n\nOrganizations across industries are rapidly integrating digital assets into their operations, finance, and technology strategies. As they do so, they confront a complex and evolving tax environment that requires multidisciplinary experience, sophisticated structuring, and ongoing technical guidance.\n\nBPM’s Digital Assets practice offers an opportunity to engage directly with industry\\-defining companies while contributing to market insights, thought leadership, and the advancement"
+      "snippet": "Ready to be pushed beyond what you think you're capable of?\n\n\n\nAt Coinbase, our mission is to increase economic freedom in the world. It's a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.\n\n\n\nTo achieve our mission, we're seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update"
     },
     {
-      "title": "Security Ops (Operations (Tech)) : Job Level - Executive Director",
-      "company": "Morgan Stanley",
-      "url": "https://www.indeed.com/viewjob?jk=43337beddd70c570",
+      "title": "Group Product Manager - Financial Engineering",
+      "company": "Coinbase",
+      "url": "https://www.indeed.com/viewjob?jk=c55c249cfd39ebbb",
       "location": null,
-      "posted_date": "2026-04-07",
+      "posted_date": "2026-04-08",
       "source": "indeed",
-      "snippet": "Digital Assets \\& Crypto Fraud Risk \\| Program Manager \\| Executive Director\n\n\nRole Overview:  \n\n\n\n  \n\nThe Executive Director, Digital Assets \\& Crypto Fraud Risk Program Management is a senior leadership role within Morgan Stanley's Global Fraud organization, responsible for defining, governing, and overseeing the firmwide fraud risk framework for digital assets, including cryptocurrencies, tokenized assets, blockchain based payment rails, wallets, and related third party ecosystems.\n\n\nThis rol"
+      "snippet": "Ready to be pushed beyond what you think you're capable of?\n\n\n\nAt Coinbase, our mission is to increase economic freedom in the world. It's a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.\n\n\n\nTo achieve our mission, we're seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update"
     },
     {
-      "title": "Digital Assets Product Manager, Vice President, Citi Markets",
-      "company": "Citi",
-      "url": "https://www.indeed.com/viewjob?jk=125d0f696023a13f",
+      "title": "Senior Product Delivery Analyst – BEDA",
+      "company": "Fidelity Investments",
+      "url": "https://www.indeed.com/viewjob?jk=6913672c8fdb5116",
       "location": null,
-      "posted_date": "2026-04-07",
+      "posted_date": "2026-04-08",
       "source": "indeed",
-      "snippet": "Job Req Id:\n26949103\nLocation(s):\nNew York, New York, United States\nJob Type:\nHybrid\nPosted:\nApr. 07, 2026\n  \n**Discover your future at Citi**\n--------------------------------\n\n\nWorking at Citi is far more than just a job. A career with us means joining a team of more than 230,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.\n\n\n**Job Overview**\n----------------\n\n\nCiti is the World’s Most Globa"
+      "snippet": "### **Job Description:**\n\n**Senior Product Delivery Analyst – BEDA**\n\n\nFidelity Digital Assets® is dedicated to building products and services that help institutions adopt digital assets and innovate within the increasingly digital world of finance. Fidelity Investments began researching blockchain technology and digital assets solutions in 2014, where years of research and development have provided us with the deep expertise necessary to build the future of finance. As a Product Delivery Analys"
     },
     {
-      "title": "Digital Assets Product Manager, Assistant Vice President Citi Markets",
-      "company": "Citi",
-      "url": "https://www.indeed.com/viewjob?jk=22ef712355250423",
+      "title": "Senior Product Delivery Analyst – BEDA",
+      "company": "Fidelity Investments",
+      "url": "https://www.indeed.com/viewjob?jk=c23fae1ed972efd0",
       "location": null,
-      "posted_date": "2026-04-07",
+      "posted_date": "2026-04-08",
       "source": "indeed",
-      "snippet": "Job Req Id:\n26950334\nLocation(s):\nNew York, New York, United States\nJob Type:\nHybrid\nPosted:\nApr. 07, 2026\n  \n**Discover your future at Citi**\n--------------------------------\n\n\nWorking at Citi is far more than just a job. A career with us means joining a team of more than 230,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.\n\n\n**Job Overview**\n----------------\n\n\nCiti is the World’s Most Globa"
+      "snippet": "### **Job Description:**\n\n**Senior Product Delivery Analyst – BEDA**\n\n\nFidelity Digital Assets® is dedicated to building products and services that help institutions adopt digital assets and innovate within the increasingly digital world of finance. Fidelity Investments began researching blockchain technology and digital assets solutions in 2014, where years of research and development have provided us with the deep expertise necessary to build the future of finance. As a Product Delivery Analys"
     },
     {
-      "title": "Tax Director - Blockchain and Digital Assets - Cryptocurrency",
-      "company": "BPM",
-      "url": "https://www.indeed.com/viewjob?jk=d1224f9576f0334b",
+      "title": "Crypto Business Development Manager",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=d8308d43c9ca8eb5",
       "location": null,
-      "posted_date": "2026-04-07",
+      "posted_date": "2026-04-01",
       "source": "indeed",
-      "snippet": "**Overview**\n\nOrganizations across industries are rapidly integrating digital assets into their operations, finance, and technology strategies. As they do so, they confront a complex and evolving tax environment that requires multidisciplinary experience, sophisticated structuring, and ongoing technical guidance.\n\nBPM’s Digital Assets practice offers an opportunity to engage directly with industry\\-defining companies while contributing to market insights, thought leadership, and the advancement"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=eeec0619cd9048f6",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=4e47a43749fc7f77",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=d0074e2d3cfb7ddd",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=fe44b65b793b7a6d",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=a89e4b7cba2608a2",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=6dcd582564c0e8e9",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=effb7d3d95ca11a9",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=a9e0b3b324e21fe1",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=cf065a5c0d67664c",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=ba27be5c78d42c8e",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=c4291a7843d05d0e",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=6c38ce6d204e8772",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=cdfac88e7b684ab0",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=368696ec69155067",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=70f01b3c8a66d040",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=cd16bb2ae76dada6",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=62073855604a34e9",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=8c8c0d717c422163",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=f7d299be43c607ad",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=134d58954bacaefd",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=dbd8af0e51141a08",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=0f372c2b76a833d5",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=bd47fa67ec457426",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=f13b6278c65ef5bb",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=3e005c783a93a1e7",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=ccabe75ee4657dd3",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=2824103eca1ce01e",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=bb945c71325d04e4",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
-    },
-    {
-      "title": "Life Sciences MedTech R&D Technology Consulting Manager",
-      "company": "Accenture",
-      "url": "https://www.indeed.com/viewjob?jk=07d7cc9f55a411c4",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**We Are:**  \n\nAccenture Life Sciences. We provide innovative and comprehensive services and solutions that span cloud, systems integration, and application management, security, intelligent platform services, infrastructure services, software engineering services, data and AI, automation, and global delivery through our Advanced Technology Centers. We continuously innovate our services, capabilities, and platforms through early adoption of new technologies such as generative AI, blockchain, rob"
+      "snippet": "### **Crypto Business Development Manager**\n\n\n**Location:** Remote  \n\n**Employment Type:** Full\\-time\n\n\n**About Us**  \n\nWe are an emerging blockchain and real estate technology company building a global investment ecosystem that bridges **crypto and real assets**. Our mission is to make real estate investment more accessible, transparent, and liquid through tokenization and decentralized finance (DeFi) innovation.\n\n\n**Position Overview**  \n\nWe are seeking a **Crypto Business Development Manager*"
     },
     {
       "title": "Web3 Capital Network & Digital Asset Participation Associate",
@@ -586,29 +478,11 @@
       "snippet": "nan"
     },
     {
-      "title": "Partnerships Lead - Crypto SaaS",
-      "company": "Revenue3",
-      "url": "https://www.linkedin.com/jobs/view/4395336140",
-      "location": null,
-      "posted_date": "2026-04-02",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Web3 Capital Network & Digital Asset Participation Associate",
       "company": "Bruin Finance Society",
       "url": "https://www.linkedin.com/jobs/view/4391739671",
       "location": null,
       "posted_date": "2026-03-27",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Equity Research Associate - Crypto & Digital Assets",
-      "company": "Jefferies",
-      "url": "https://www.linkedin.com/jobs/view/4377050428",
-      "location": null,
-      "posted_date": "2026-03-17",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -658,65 +532,65 @@
       "snippet": "nan"
     },
     {
-      "title": "Blockchain Engineer",
-      "company": "Harmony",
-      "url": "https://www.linkedin.com/jobs/view/3959571895",
+      "title": "Equity Research Associate - Crypto & Digital Assets",
+      "company": "Jefferies",
+      "url": "https://www.linkedin.com/jobs/view/4377050428",
       "location": null,
-      "posted_date": "2024-06-26",
+      "posted_date": "nan",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Senior Software Engineer",
-      "company": "Fidelity TalentSource",
-      "url": "https://www.indeed.com/viewjob?jk=1db4083ed2ff33a2",
+      "title": "Token Listing Analyst (Crypto Exchange)",
+      "company": "Tafra.io",
+      "url": "https://www.linkedin.com/jobs/view/4396350216",
       "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "Fidelity TalentSource is your destination for discovering your next temporary role at Fidelity Investments. We are currently sourcing for a Senior Software Engineer to work in Durham, NC!\n### **The Role**\n\n\nAs a Senior Software Engineer on the Wallet Blockchain Platform team, you’ll get the opportunity to develop your skills and collaborate with engineers across Fidelity in a lively and dynamic environment. You will work closely with technical leaders and Architects to build a secure crypto plat"
+      "posted_date": "nan",
+      "source": "linkedin",
+      "snippet": "nan"
     },
     {
-      "title": "Senior Principal Software Engineer for Crypto & Cross Domain Solutions",
-      "company": "General Dynamics Mission Systems",
-      "url": "https://www.indeed.com/viewjob?jk=f09850b809562983",
+      "title": "Sourcer - Hybrid (12-Month Contract)",
+      "company": "Ripple",
+      "url": "https://www.indeed.com/viewjob?jk=a6f67f39294fd2ac",
       "location": null,
-      "posted_date": "2026-04-07",
+      "posted_date": "2026-04-09",
       "source": "indeed",
-      "snippet": "Basic Qualifications :\n\nRequires a Bachelor’s degree in Software Engineering, or a related Science, Engineering, Technology or Mathematics field. Also requires 10\\+ years of job\\-related experience, or a Master's degree plus 8 years of job\\-related experience. Agile experience preferred. **CLEARANCE REQUIREMENTS:** Department of Defense Secret security clearance is required at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility"
+      "snippet": "At Ripple, we're building a world where value moves like information does today. It's big, it's bold, and we're already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs.\n\n\n\nIf you're"
     },
     {
-      "title": "Senior Manager, Learning & Development",
-      "company": "ProShares",
-      "url": "https://www.indeed.com/viewjob?jk=d76f64b413b9fd70",
+      "title": "Communications Specialist",
+      "company": "Tactical Engineering & Analysis",
+      "url": "https://www.indeed.com/viewjob?jk=2e903b864fb67079",
       "location": null,
-      "posted_date": "2026-04-07",
+      "posted_date": "2026-04-08",
       "source": "indeed",
-      "snippet": "**About Us:**\n\nProShares now offers one of the largest lineups of ETFs, with approximately $100 billion in assets. The company is a leader in strategies such as crypto, dividend growth, interest rate hedged bond and geared (leveraged and inverse) ETF investing. ProShares continues to innovate with products that provide strategic and tactical opportunities for investors to manage risk and enhance returns.\n\n\n**Position Summary:**\n\n\n\nThe Senior Manager, Talent Management \\& Development, is responsi"
+      "snippet": "The Crypto/COMSEC Specialist is responsible for ensuring compliance with communications security (COMSEC) requirements in support of MIDS JTRS and Tactical Data Link (TDL) systems across both domestic operations and Foreign Military Sales (FMS) activities. The specialist provides subject matter expertise in cryptographic key management, handling, safeguarding, and accountability in accordance with NSA, DoD, and program\\-specific policies and procedures. This role includes traveling to domestic a"
     },
     {
-      "title": "Director, HR Operations & Total Rewards",
-      "company": "ProShares",
-      "url": "https://www.indeed.com/viewjob?jk=be4738157451c30a",
+      "title": "Customer Support Representative (CSR I)",
+      "company": "CoinZoom",
+      "url": "https://www.indeed.com/viewjob?jk=db3ffe1f9eccdbee",
       "location": null,
-      "posted_date": "2026-04-07",
+      "posted_date": "2026-04-08",
       "source": "indeed",
-      "snippet": "**About Us:**\n\nProShares now offers one of the largest lineups of ETFs, with approximately $100 billion in assets. The company is a leader in strategies such as crypto, dividend growth, interest rate hedged bond and geared (leveraged and inverse) ETF investing. ProShares continues to innovate with products that provide strategic and tactical opportunities for investors to manage risk and enhance returns.\n\n\n**Position Summary:**\n\n\n\nThe Director, HR Operations \\& Total Rewards is responsible for l"
+      "snippet": "**Customer Support Representative (CSR I)**  \nHolladay, UT **Hybrid (3 days/week in office)**  Full\\-Time\n\n**About CoinZoom**\n\nCoinZoom is on a mission to deliver a complete digital currency experience for everyday use — from buying groceries and sending funds overseas to trading crypto on a powerful exchange. With a growing customer base spanning 192 countries, we are building a world\\-class platform and a team that’s just as passionate about crypto as our customers are. If you’re excited about"
     },
     {
-      "title": "Derivatives Trader (Crypto Options/Perps)",
-      "company": "Cannon Ventures",
-      "url": "https://www.indeed.com/viewjob?jk=6dbce3a89baf1f5e",
+      "title": "Senior Mechanical Engineer",
+      "company": "Faith Technologies Incorporated",
+      "url": "https://www.indeed.com/viewjob?jk=2d700f1da2a58083",
       "location": null,
-      "posted_date": "2026-04-07",
+      "posted_date": "2026-04-08",
       "source": "indeed",
-      "snippet": "**About Cannon Ventures**\n\nCannon Ventures is a Houston\\-based venture platform and entrepreneurial resource focused on helping startups and small businesses scale through capital access, hands\\-on operational support, and strategic guidance. Through our Investor Network and Venture Studio Suite, we work with founders, operators, and investors building the next generation of high\\-growth companies across the U.S.As digital assets become a more established part of global financial markets, Cannon"
+      "snippet": "**You’ve discovered something special. A company that cares. Cares about leading the way in construction, engineering, manufacturing and renewable energy. Cares about redefining how energy is designed, applied and consumed. Cares about thoughtfully growing to meet market demands. And as “one of the Healthiest 100 Workplaces in America” is focused on the mind/body/soul of team members through our** **Culture of Care** **.**\n\nFTI is searching for a Senior Mechanical Engineer to support the Product"
     },
     {
-      "title": "Crypto Trader (Remote, Full Training Provided)",
-      "company": "FOX GLOBAL ASSETS LTD",
-      "url": "https://www.linkedin.com/jobs/view/4395335835",
+      "title": "DeFi Researcher",
+      "company": "TechChain Talent",
+      "url": "https://www.linkedin.com/jobs/view/4392138705",
       "location": null,
-      "posted_date": "2026-04-02",
+      "posted_date": "2026-03-31",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -730,22 +604,31 @@
       "snippet": "nan"
     },
     {
-      "title": "Institutional BD – DeFi Lending (App: 0-815)",
-      "company": "Referment",
-      "url": "https://www.linkedin.com/jobs/view/4399205563",
+      "title": "Senior Software Engineer, Crypto",
+      "company": "SoFi",
+      "url": "https://www.indeed.com/viewjob?jk=e48b352352d37353",
       "location": null,
-      "posted_date": "nan",
-      "source": "linkedin",
-      "snippet": "nan"
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**Employee Applicant Privacy Notice**\n\n\n**Who we are:**\n\n\n\nShape a brighter financial future with us.\n\n\n\nTogether with our members, we're changing the way people think about and interact with personal finance.\n\n\n\nWe're a next\\-generation financial services company and national bank using innovative, mobile\\-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we're at the forefront. We're proud to come to work ever"
     },
     {
-      "title": "DeFi Business Development Representative",
-      "company": "Gauntlet",
-      "url": "https://www.linkedin.com/jobs/view/4398535863",
+      "title": "Tax Director - Blockchain and Digital Assets - Cryptocurrency",
+      "company": "BPM",
+      "url": "https://www.indeed.com/viewjob?jk=e5f937bd59b4d303",
       "location": null,
-      "posted_date": "nan",
-      "source": "linkedin",
-      "snippet": "nan"
+      "posted_date": "2026-04-07",
+      "source": "indeed",
+      "snippet": "**Overview**\n\nOrganizations across industries are rapidly integrating digital assets into their operations, finance, and technology strategies. As they do so, they confront a complex and evolving tax environment that requires multidisciplinary experience, sophisticated structuring, and ongoing technical guidance.\n\nBPM’s Digital Assets practice offers an opportunity to engage directly with industry\\-defining companies while contributing to market insights, thought leadership, and the advancement"
+    },
+    {
+      "title": "Tax Director - Blockchain and Digital Assets - Cryptocurrency",
+      "company": "BPM",
+      "url": "https://www.indeed.com/viewjob?jk=d1224f9576f0334b",
+      "location": null,
+      "posted_date": "2026-04-07",
+      "source": "indeed",
+      "snippet": "**Overview**\n\nOrganizations across industries are rapidly integrating digital assets into their operations, finance, and technology strategies. As they do so, they confront a complex and evolving tax environment that requires multidisciplinary experience, sophisticated structuring, and ongoing technical guidance.\n\nBPM’s Digital Assets practice offers an opportunity to engage directly with industry\\-defining companies while contributing to market insights, thought leadership, and the advancement"
     },
     {
       "title": "Insurance Manager (Data Center Construction)",
@@ -847,7 +730,7 @@
       "snippet": "**About WishWish**\n\nWishWish is a Series A startup building the gamified blind box collecting platform for 3D digital collectibles, backed by leading crypto VCs. Think Pokémon TCG Pocket — but built for independent artists and the collectors who love them. Our core experience is the unboxing moment: a fluid, satisfying sequence from selecting your box all the way through the 3D collectible reveal.\n\nWe're a small, fast\\-moving team and this role owns the majority of our frontend experience.\n\n**Th"
     },
     {
-      "title": "Senior Communications & PR Manager",
+      "title": "Senior PR & Communications Manager",
       "company": "Offchain Labs",
       "url": "https://www.indeed.com/viewjob?jk=649050920f289fc9",
       "location": null,
@@ -919,65 +802,11 @@
       "snippet": "**About Company**  \nWe are a leading crypto and Web3 marketing agency that helps blockchain projects grow through tailored growth strategies, influencer marketing, community DAO support, and NFT launch campaigns. The team partners with clients across the Web3 ecosystem to build authentic engagement and measurable traction.\n\n**Why We’re Hiring**  \nAs we scale its services and automation tooling for clients, reliable, scalable, and secure infrastructure is critical. We’re seeking a DevOps Engineer"
     },
     {
-      "title": "Founding Team Members – Community, Web3, Media & Storytelling (Commission-Based)",
-      "company": "nan",
-      "url": "https://www.indeed.com/viewjob?jk=9a5a103afc473bfa",
+      "title": "Partnerships Lead - Crypto SaaS",
+      "company": "Revenue3",
+      "url": "https://www.linkedin.com/jobs/view/4395336140",
       "location": null,
-      "posted_date": "2026-03-27",
-      "source": "indeed",
-      "snippet": "**Job Overview**  \nWe are seeking passionate and dynamic Founding Team Members to join our innovative project in the realms of community building, Web3 technology, media, and storytelling. This commission\\-based role offers a unique opportunity to shape the future of a groundbreaking platform by leveraging your expertise in digital marketing, content creation, and community engagement. As a vital part of our founding team, you will drive growth, foster vibrant communities, and craft compelling n"
-    },
-    {
-      "title": "Associate Manager, CX AML Compliance",
-      "company": "Coinbase",
-      "url": "https://www.indeed.com/viewjob?jk=36ea7a95f29da01b",
-      "location": null,
-      "posted_date": "2026-03-27",
-      "source": "indeed",
-      "snippet": "Ready to be pushed beyond what you think you're capable of?\n\n\n\nAt Coinbase, our mission is to increase economic freedom in the world. It's a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.\n\n\n\nTo achieve our mission, we're seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update"
-    },
-    {
-      "title": "Senior Backend Engineer",
-      "company": "mLabs",
-      "url": "https://www.indeed.com/viewjob?jk=fd162baab07aee87",
-      "location": null,
-      "posted_date": "2026-03-27",
-      "source": "indeed",
-      "snippet": "**Location:** Remote \\- **\\+/\\- 3 hours from CET (EST / Europe preferred)**\n\n**Remote \\| Full\\-time**\n\n**Compensation: $90K \\- $150K**\n\n\nWe are hiring on behalf of our client in the high\\-growth Web3 and DeFi sector who is seeking a **Senior Backend Engineer** to join its core Platform team. This organization builds and evolves the distributed backend systems that power its primary products and customer\\-facing solutions.\n\n\nThe successful candidate will design and operate complex systems, manage"
-    },
-    {
-      "title": "Senior Backend Engineer",
-      "company": "mLabs",
-      "url": "https://www.indeed.com/viewjob?jk=2c4cb33b74b3d3a5",
-      "location": null,
-      "posted_date": "2026-03-27",
-      "source": "indeed",
-      "snippet": "**Location:** Remote \\- **\\+/\\- 3 hours from CET (EST / Europe preferred)**\n\n**Remote \\| Full\\-time**\n\n**Compensation: $90K \\- $150K**\n\n\nWe are hiring on behalf of our client in the high\\-growth Web3 and DeFi sector who is seeking a **Senior Backend Engineer** to join its core Platform team. This organization builds and evolves the distributed backend systems that power its primary products and customer\\-facing solutions.\n\n\nThe successful candidate will design and operate complex systems, manage"
-    },
-    {
-      "title": "Cryptocurrency Trading Activity & Market Intelligence Analyst",
-      "company": "NCO Financial Investigative Services",
-      "url": "https://www.linkedin.com/jobs/view/4392950272",
-      "location": null,
-      "posted_date": "2026-04-06",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Blockchain Consultant",
-      "company": "Atlantic Partners Corporation",
-      "url": "https://www.linkedin.com/jobs/view/4388573486",
-      "location": null,
-      "posted_date": "2026-04-06",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Social Media Manager (Crypto/Web3) - Dragonfly Portfolio",
-      "company": "Dragonfly",
-      "url": "https://www.linkedin.com/jobs/view/4375537564",
-      "location": null,
-      "posted_date": "2026-02-26",
+      "posted_date": "2026-04-02",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -998,6 +827,42 @@
       "posted_date": "2025-12-07",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "Brand Designer",
+      "company": "Rumble",
+      "url": "https://www.indeed.com/viewjob?jk=8af46d60809a42c0",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**Rumble** is *the* Freedom\\-First technology platform. We proudly offer a video platform, cloud services, advertising solutions, and a non\\-custodial cryptocurrency wallet.\n\n\nRumble is seeking a **Brand Designer** to create eye\\-catching, innovative designs across the Rumble brand design, marketing creatives, produce content, and more. In this key role you will:\n\n\n* Lead the brand design that is in sync with Rumble's philosophy and objectives across multiple platforms\n* Work with cross\\-functio"
+    },
+    {
+      "title": "Brand Designer",
+      "company": "Rumble",
+      "url": "https://www.indeed.com/viewjob?jk=bd67c02558ec8a9b",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**Rumble** is *the* Freedom\\-First technology platform. We proudly offer a video platform, cloud services, advertising solutions, and a non\\-custodial cryptocurrency wallet.\n\n\nRumble is seeking a **Brand Designer** to create eye\\-catching, innovative designs across the Rumble brand design, marketing creatives, produce content, and more. In this key role you will:\n\n\n* Lead the brand design that is in sync with Rumble's philosophy and objectives across multiple platforms\n* Work with cross\\-functio"
+    },
+    {
+      "title": "Brand Designer",
+      "company": "Rumble",
+      "url": "https://www.indeed.com/viewjob?jk=05a2b96c7f4388fa",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**Rumble** is *the* Freedom\\-First technology platform. We proudly offer a video platform, cloud services, advertising solutions, and a non\\-custodial cryptocurrency wallet.\n\n\nRumble is seeking a **Brand Designer** to create eye\\-catching, innovative designs across the Rumble brand design, marketing creatives, produce content, and more. In this key role you will:\n\n\n* Lead the brand design that is in sync with Rumble's philosophy and objectives across multiple platforms\n* Work with cross\\-functio"
+    },
+    {
+      "title": "Security Ops (Operations (Tech)) : Job Level - Executive Director",
+      "company": "Morgan Stanley",
+      "url": "https://www.indeed.com/viewjob?jk=43337beddd70c570",
+      "location": null,
+      "posted_date": "2026-04-07",
+      "source": "indeed",
+      "snippet": "Digital Assets \\& Crypto Fraud Risk \\| Program Manager \\| Executive Director\n\n\nRole Overview:  \n\n\n\n  \n\nThe Executive Director, Digital Assets \\& Crypto Fraud Risk Program Management is a senior leadership role within Morgan Stanley's Global Fraud organization, responsible for defining, governing, and overseeing the firmwide fraud risk framework for digital assets, including cryptocurrencies, tokenized assets, blockchain based payment rails, wallets, and related third party ecosystems.\n\n\nThis rol"
     },
     {
       "title": "Infrastructure Engineer (Data Center)",
@@ -1054,76 +919,13 @@
       "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
     },
     {
-      "title": "Senior Software Engineer, Data Product",
-      "company": "TRM Labs",
-      "url": "https://www.indeed.com/viewjob?jk=f87b374f5fadc643",
+      "title": "Consultant, Solutions & Implementation",
+      "company": "BitWave",
+      "url": "https://www.indeed.com/viewjob?jk=a7fde129f5be797e",
       "location": null,
-      "posted_date": "2026-04-07",
+      "posted_date": "2026-04-01",
       "source": "indeed",
-      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
-    },
-    {
-      "title": "Senior Software Engineer, Full Stack | Product Engineering",
-      "company": "TRM Labs",
-      "url": "https://www.indeed.com/viewjob?jk=c8a46370c4dcf2c3",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**Build a Safer World.**\n------------------------\n\n\nTRM Labs provides blockchain analytics and AI solutions to help law enforcement and national security agencies, financial institutions, and cryptocurrency businesses detect, investigate, and disrupt crypto\\-related fraud and financial crime. TRM’s blockchain intelligence and AI platforms include solutions to trace the source and destination of funds, identify illicit activity, build cases, and construct an operating picture of threats. TRM is t"
-    },
-    {
-      "title": "Senior Internal Auditor",
-      "company": "Moomoo",
-      "url": "https://www.indeed.com/viewjob?jk=3672a93345f3c550",
-      "location": null,
-      "posted_date": "2026-04-07",
-      "source": "indeed",
-      "snippet": "**About Futu US Inc.:**\n\n\nFutu US Inc. stands at the forefront of financial services, housing two SEC registered broker\\-dealers alongside a cryptocurrency brokerage — all operating under the reputable wing of Futu Holdings Limited (Nasdaq: FUTU).\n\n\nOur core mission revolves around innovating the investing landscape through a digitized brokerage and wealth management platform that's designed to elevate the investment experience.\n\n\nHere's a closer look at our key entities:\n\n* Futu Clearing Inc.:"
-    },
-    {
-      "title": "AML Governance Senior Manager - Anti-Money Laundering Governance & Advisory - Digital Assets",
-      "company": "Citizens",
-      "url": "https://www.indeed.com/viewjob?jk=54bd0b2baab12cb4",
-      "location": null,
-      "posted_date": "2026-04-06",
-      "source": "indeed",
-      "snippet": "**Description**\n\n\n In this role at Citizens, you’re made ready for a fulfilling career with exciting new challenges and opportunities to stretch yourself. You will be positioned for a fulfilling career with meaningful opportunities to grow and take on new challenges. This position offers a unique opportunity to support the continued evolution of the AML \\& Sanctions Program, including shaping governance and advisory capabilities as the bank expands digital asset–related activities.\n\n\n As part of"
-    },
-    {
-      "title": "Digital Assets Trading Manager",
-      "company": "Anytime Fitness",
-      "url": "https://www.indeed.com/viewjob?jk=3139c069d2cd945f",
-      "location": null,
-      "posted_date": "2026-04-06",
-      "source": "indeed",
-      "snippet": "**Job Overview**  \nWe are seeking an energetic and detail\\-oriented Digital Assets Trading Manager to lead our digital asset trading initiatives. This pivotal role involves overseeing the trading activities of cryptocurrencies and other digital assets, ensuring compliance with relevant securities laws, and implementing robust risk management strategies. The ideal candidate will possess a strong financial acumen, exceptional negotiation skills, and a passion for innovative financial technologies."
-    },
-    {
-      "title": "Digital Assets Trading Manager",
-      "company": "Anytime Fitness",
-      "url": "https://www.indeed.com/viewjob?jk=b22ab543dc5fe16a",
-      "location": null,
-      "posted_date": "2026-04-06",
-      "source": "indeed",
-      "snippet": "**Job Overview**  \nWe are seeking an energetic and detail\\-oriented Digital Assets Trading Manager to lead our digital asset trading initiatives. This pivotal role involves overseeing the trading activities of cryptocurrencies and other digital assets, ensuring compliance with relevant securities laws, and implementing robust risk management strategies. The ideal candidate will possess a strong financial acumen, exceptional negotiation skills, and a passion for innovative financial technologies."
-    },
-    {
-      "title": "Cryptocurrency Fraud Controls Specialist",
-      "company": "Morgan Stanley",
-      "url": "https://www.indeed.com/viewjob?jk=939b95b82b01ebba",
-      "location": null,
-      "posted_date": "2026-04-06",
-      "source": "indeed",
-      "snippet": "The Wealth Management (WM) Chief Data Office (CDO) sits within the WM Risk organization and strives to find the right balance between risk management and business enablement. WM CDO’s mission is to: prevent unauthorized access to or misuse of client sensitive data and assets; abide by relevant privacy laws and regulations; effectively retain, retrieve, and protect information and records; and mitigate risks caused by inaccurate, untimely, or incomplete WM data.\n\n\nThe Fraud Risk Team within WM CD"
-    },
-    {
-      "title": "DeFi Community Manager & Social Media Lead",
-      "company": "Coinme",
-      "url": "https://www.linkedin.com/jobs/view/4393987305",
-      "location": null,
-      "posted_date": "2026-03-31",
-      "source": "linkedin",
-      "snippet": "nan"
+      "snippet": "**Context**\n\n\nBitwave is an enterprise software and services company with the mission of bringing digital assets to enterprises.\n\n\n**Software Platform**\n\n\nWe've built an enterprise software platform that enables enterprises to meet their digital asset/cryptocurrency specific accounting, tax, treasury, and management obligations. In most situations our platform is a subledger processing millions of digital asset transactions and producing accounting and tax reporting that integrate with our clien"
     },
     {
       "title": "Crypto Analyst",
@@ -1131,15 +933,6 @@
       "url": "https://www.linkedin.com/jobs/view/4386695216",
       "location": null,
       "posted_date": "2026-03-23",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Blockchain Intelligence Analyst",
-      "company": "TRM Labs",
-      "url": "https://www.linkedin.com/jobs/view/4077506251",
-      "location": null,
-      "posted_date": "2026-03-20",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1153,11 +946,11 @@
       "snippet": "nan"
     },
     {
-      "title": "Account Manager (Institutional Crypto)",
-      "company": "The Tie",
-      "url": "https://www.linkedin.com/jobs/view/4383354387",
+      "title": "Crypto | Trading Infrastructure Technical Writer",
+      "company": "Compose.ly",
+      "url": "https://www.linkedin.com/jobs/view/4377038717",
       "location": null,
-      "posted_date": "2026-03-09",
+      "posted_date": "2026-01-30",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1522,29 +1315,56 @@
       "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance. Learn more at defis"
     },
     {
-      "title": "DeFi Researcher",
-      "company": "TechChain Talent",
-      "url": "https://www.linkedin.com/jobs/view/4392138705",
+      "title": "Institutional BD – DeFi Lending (App: 0-815)",
+      "company": "Referment",
+      "url": "https://www.linkedin.com/jobs/view/4399205563",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "DeFi Business Development Representative",
+      "company": "Gauntlet",
+      "url": "https://www.linkedin.com/jobs/view/4398535863",
+      "location": null,
+      "posted_date": "2026-04-07",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Cryptocurrency Investigator",
+      "company": "Zendr",
+      "url": "https://www.linkedin.com/jobs/view/4398512848",
+      "location": null,
+      "posted_date": "2026-04-07",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Cryptocurrency Trading Activity & Market Intelligence Analyst",
+      "company": "NCO Financial Investigative Services",
+      "url": "https://www.linkedin.com/jobs/view/4392950272",
+      "location": null,
+      "posted_date": "2026-04-06",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "DeFi Community Manager & Social Media Lead",
+      "company": "Coinme",
+      "url": "https://www.linkedin.com/jobs/view/4393987305",
       "location": null,
       "posted_date": "2026-03-31",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "DeFi Risk Analyst",
+      "title": "DeFi Risk Solutions",
       "company": "Morpho",
       "url": "https://www.linkedin.com/jobs/view/4392915767",
       "location": null,
       "posted_date": "2026-03-30",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Strategic Account Executive - Institutional DeFi",
-      "company": "MLabs",
-      "url": "https://www.linkedin.com/jobs/view/4394611323",
-      "location": null,
-      "posted_date": "2026-03-27",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1558,40 +1378,13 @@
       "snippet": "nan"
     },
     {
-      "title": "Crypto Ecosystem Growth Manager",
-      "company": "BSOS",
-      "url": "https://www.linkedin.com/jobs/view/4299012298",
+      "title": "Blockchain Security Analyst",
+      "company": "ITRADE Innovations | STEM",
+      "url": "https://www.linkedin.com/jobs/view/4167230559",
       "location": null,
-      "posted_date": "2025-09-11",
+      "posted_date": "2025-01-30",
       "source": "linkedin",
       "snippet": "nan"
-    },
-    {
-      "title": "Cryptocurrency Investigator",
-      "company": "Zendr",
-      "url": "https://www.linkedin.com/jobs/view/4398512848",
-      "location": null,
-      "posted_date": "nan",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Sr. Digital Program Manager, Localization Enablement & Accessibility Programs (LEAP)",
-      "company": "Amazon.com",
-      "url": "https://www.indeed.com/viewjob?jk=337aa12add04102b",
-      "location": null,
-      "posted_date": "2026-02-24",
-      "source": "indeed",
-      "snippet": "**DESCRIPTION**\n---------------\n\n\nCome build the future of entertainment with us! Are you interested in shaping the future of movies and television? Do you want to define the next generation of how and what Amazon customers are watching?  \n\n  \n\nPrime Video is a premium streaming service that offers customers a vast collection of TV shows, movies and live events \\- all with the ease of finding what they love to watch in one place. We offer customers thousands of popular movies and TV shows includ"
-    },
-    {
-      "title": "Sr. Digital Program Manager, Localization Enablement & Accessibility Programs (LEAP)",
-      "company": "Amazon.com",
-      "url": "https://www.indeed.com/viewjob?jk=aaf83070769a1f39",
-      "location": null,
-      "posted_date": "2026-02-24",
-      "source": "indeed",
-      "snippet": "**DESCRIPTION**\n---------------\n\n\nCome build the future of entertainment with us! Are you interested in shaping the future of movies and television? Do you want to define the next generation of how and what Amazon customers are watching?  \n\n  \n\nPrime Video is a premium streaming service that offers customers a vast collection of TV shows, movies and live events \\- all with the ease of finding what they love to watch in one place. We offer customers thousands of popular movies and TV shows includ"
     },
     {
       "title": "Investment Banking Associate - Fintech/Digital Assets",
@@ -1612,6 +1405,15 @@
       "snippet": "nan"
     },
     {
+      "title": "Director of Business Controls, Digital Assets",
+      "company": "SoFi",
+      "url": "https://www.linkedin.com/jobs/view/4389251582",
+      "location": null,
+      "posted_date": "2026-03-23",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
       "title": "Digital Assets Senior Manager",
       "company": "Accenture",
       "url": "https://www.linkedin.com/jobs/view/4373316233",
@@ -1621,11 +1423,11 @@
       "snippet": "nan"
     },
     {
-      "title": "Digital Assets Consultant",
-      "company": "Accenture",
-      "url": "https://www.linkedin.com/jobs/view/4373325036",
+      "title": "Sr Dir of Digital Assets and AI",
+      "company": "Summit Utilities, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4368637854",
       "location": null,
-      "posted_date": "2026-02-18",
+      "posted_date": "2026-01-09",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1648,22 +1450,76 @@
       "snippet": "nan"
     },
     {
-      "title": "Director, Cyber Security Architect",
-      "company": "BNY",
-      "url": "https://www.indeed.com/viewjob?jk=17cf1c6d0ab08a03",
+      "title": "Enterprise Architect",
+      "company": "Upbound Group",
+      "url": "https://www.indeed.com/viewjob?jk=2756733601d54b64",
       "location": null,
-      "posted_date": "2026-04-07",
+      "posted_date": "2026-04-08",
       "source": "indeed",
-      "snippet": "At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting\\-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.\n\n\nRecognized as a top destination for innovators, BNY"
+      "snippet": "Location:\n5501 Headquarters Dr, Plano, Texas, 75024, United States of America  \n\n**Enterprise Architect**\n\n**Role Summary:**\n\n\nThe Enterprise Architect shapes and governs the enterprise technology landscape of Upbound that involves **Fintech, Specialty Financing, and Retail** business to enable strategy, accelerate product delivery, and reduce complexity and risk. This role defines enterprise\\-wide architecture across **business, application, data, integration, technology, and security**, establ"
     },
     {
-      "title": "Director, Cyber Security Architect",
-      "company": "BNY",
-      "url": "https://www.indeed.com/viewjob?jk=41f13b5339e999d3",
+      "title": "Executive Director Security Infrastructure Engineering Senior Manager (Data at Rest Encryption)",
+      "company": "Wells Fargo",
+      "url": "https://www.indeed.com/viewjob?jk=10ff1deaad543e30",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**About this role**  \n\n  \n\nJoin an exciting, fast\\-paced organization working on cutting edge encryption, tokenization and key management technologies, leveraged to protect information companywide. Wells Fargo is seeking a Senior Engineering Manager to lead and oversee team working with CipherTrust Transparent Data Encryption. This leadership role requires strong Information Technology and Information Security foundational knowledge, as well as experience with and awareness of encryption and key"
+    },
+    {
+      "title": "Lead Information Security Engineer",
+      "company": "Wells Fargo",
+      "url": "https://www.indeed.com/viewjob?jk=402dd14791480bd6",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**In this role, you will:*** Provide technical and professional guidance to less experienced staff. Given the nature of the encryption technologies, the team environment is very fast paced and requires the ability to drive to solutions as an individual and to work effectively with the team as well.\n* Be responsible for infrastructure design, engineering, automation, and day to day management of Crypto infrastructure. This infrastructure consists of Windows and Linux servers, software and hardwar"
+    },
+    {
+      "title": "Lead Infrastructure Security Engineer Data at Rest Encryption",
+      "company": "Wells Fargo",
+      "url": "https://www.indeed.com/viewjob?jk=4d322fe3760c36e7",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**About this role**  \n\n  \n\nJoin an exciting, fast\\-paced organization working on cutting edge encryption, tokenization and key management technologies, leveraged to protect information companywide. Wells Fargo is seeking a Lead Information Security Engineer working with CipherTrust Transparent Data Encryption. This role requires strong Information Technology and Information Security foundational knowledge, as well as experience with and awareness of encryption and key management technologies and"
+    },
+    {
+      "title": "Lead Information Security Engineer",
+      "company": "Wells Fargo",
+      "url": "https://www.indeed.com/viewjob?jk=5ec8fb7ef9b94b68",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**In this role, you will:*** Provide technical and professional guidance to less experienced staff. Given the nature of the encryption technologies, the team environment is very fast paced and requires the ability to drive to solutions as an individual and to work effectively with the team as well.\n* Be responsible for infrastructure design, engineering, automation, and day to day management of Crypto infrastructure. This infrastructure consists of Windows and Linux servers, software and hardwar"
+    },
+    {
+      "title": "Lead Infrastructure Security Engineer Data at Rest Encryption",
+      "company": "Wells Fargo",
+      "url": "https://www.indeed.com/viewjob?jk=9f306965112eac4e",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**About this role**  \n\n  \n\nJoin an exciting, fast\\-paced organization working on cutting edge encryption, tokenization and key management technologies, leveraged to protect information companywide. Wells Fargo is seeking a Lead Information Security Engineer working with CipherTrust Transparent Data Encryption. This role requires strong Information Technology and Information Security foundational knowledge, as well as experience with and awareness of encryption and key management technologies and"
+    },
+    {
+      "title": "Executive Director Security Infrastructure Engineering Senior Manager (Data at Rest Encryption)",
+      "company": "Wells Fargo",
+      "url": "https://www.indeed.com/viewjob?jk=8506edb88de724b3",
+      "location": null,
+      "posted_date": "2026-04-08",
+      "source": "indeed",
+      "snippet": "**About this role**  \n\n  \n\nJoin an exciting, fast\\-paced organization working on cutting edge encryption, tokenization and key management technologies, leveraged to protect information companywide. Wells Fargo is seeking a Senior Engineering Manager to lead and oversee team working with CipherTrust Transparent Data Encryption. This leadership role requires strong Information Technology and Information Security foundational knowledge, as well as experience with and awareness of encryption and key"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Fidelity TalentSource",
+      "url": "https://www.indeed.com/viewjob?jk=1db4083ed2ff33a2",
       "location": null,
       "posted_date": "2026-04-07",
       "source": "indeed",
-      "snippet": "At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting\\-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.\n\n\nRecognized as a top destination for innovators, BNY"
+      "snippet": "Fidelity TalentSource is your destination for discovering your next temporary role at Fidelity Investments. We are currently sourcing for a Senior Software Engineer to work in Durham, NC!\n### **The Role**\n\n\nAs a Senior Software Engineer on the Wallet Blockchain Platform team, you’ll get the opportunity to develop your skills and collaborate with engineers across Fidelity in a lively and dynamic environment. You will work closely with technical leaders and Architects to build a secure crypto plat"
     },
     {
       "title": "Risk Management - Digital Assets Oversight Executive Director",
@@ -1673,24 +1529,6 @@
       "posted_date": "2026-04-07",
       "source": "indeed",
       "snippet": "**JOB DESCRIPTION**  \n\nBring your expertise to JPMorganChase. As part of Risk Management and Compliance, you are at the center of keeping JPMorgan Chase strong and resilient. You help the firm grow its business in a responsible way by anticipating new and emerging risks, and using your expert judgement to solve real\\-world challenges that impact our company, customers and communities. Our culture in Risk Management and Compliance is all about thinking outside the box, challenging the status quo"
-    },
-    {
-      "title": "Director of Compliance - BSA Officer",
-      "company": "Bakkt",
-      "url": "https://www.indeed.com/viewjob?jk=96cd1617ac54cf8f",
-      "location": null,
-      "posted_date": "2026-04-06",
-      "source": "indeed",
-      "snippet": "**About Us**\n\n\nFounded in 2018, Bakkt (NYSE: BKKT) is building the backbone of next\\-generation financial infrastructure. The company provides solutions that enable institutional participation in the digital asset economy \\- spanning Bitcoin, tokenization, stablecoin payments, and AI\\-driven finance. With the scale, security, and regulatory compliance demanded by global institutions, Bakkt is positioned at the center of a generational transformation in what money is, how it moves, and how market"
-    },
-    {
-      "title": "Product Manager, Tokenization - Vice President",
-      "company": "JPMorganChase",
-      "url": "https://www.indeed.com/viewjob?jk=c87bbfa6a6ad3718",
-      "location": null,
-      "posted_date": "2026-04-06",
-      "source": "indeed",
-      "snippet": "**JOB DESCRIPTION**  \n\nThe Payments organization is a motivated, forward\\-thinking team comprised of high talent product managers with a singular focus of delivering innovative payment services via the most important platforms of today and tomorrow. We seek to transform customer experiences, simplify the ways we do business, and tirelessly drive toward product excellence. We value controls, simplicity, and consistency in the capabilities and features we deliver.  \n\nAs a Vice President of Tokeniz"
     },
     {
       "title": "Director, Stock Tokenization Product Manager",
@@ -1707,15 +1545,6 @@
       "url": "https://www.linkedin.com/jobs/view/4393469895",
       "location": null,
       "posted_date": "2026-04-02",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Business Development and Partnerships Director, Digital Assets",
-      "company": "Nasdaq",
-      "url": "https://www.linkedin.com/jobs/view/4372789478",
-      "location": null,
-      "posted_date": "2026-03-28",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1747,15 +1576,6 @@
       "snippet": "nan"
     },
     {
-      "title": "Head of Digital Assets/Tokenization - US",
-      "company": "SS&C Technologies",
-      "url": "https://www.linkedin.com/jobs/view/4304493033",
-      "location": null,
-      "posted_date": "2026-03-19",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Head of Digital Assets Platform Engineering Director",
       "company": "Citi",
       "url": "https://www.linkedin.com/jobs/view/4387155666",
@@ -1781,16 +1601,7 @@
       "posted_date": "2026-03-03",
       "source": "linkedin",
       "snippet": "nan"
-    },
-    {
-      "title": "Vice President, Product & Innovation - Tokenization",
-      "company": "BNY",
-      "url": "https://www.linkedin.com/jobs/view/4398568687",
-      "location": null,
-      "posted_date": "nan",
-      "source": "linkedin",
-      "snippet": "nan"
     }
   ],
-  "count": 199
+  "count": 178
 }
