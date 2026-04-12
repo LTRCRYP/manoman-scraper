@@ -167,7 +167,7 @@
       "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/7470947?t=gh_src=&gh_jid=7470947",
       "location": "Menlo Park, CA; New York, NY",
-      "posted_date": "2026-04-07T20:15:17-04:00",
+      "posted_date": "2026-04-12T03:05:05-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -176,7 +176,7 @@
       "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952",
       "location": "Toronto, Canada",
-      "posted_date": "2026-04-07T20:15:18-04:00",
+      "posted_date": "2026-04-12T03:06:18-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -185,7 +185,7 @@
       "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950",
       "location": "Menlo Park, CA; New York, NY",
-      "posted_date": "2026-04-07T20:15:18-04:00",
+      "posted_date": "2026-04-12T03:06:18-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -264,11 +264,38 @@
     {
       "title": "Blockchain Software Engineer",
       "company": "Craftner INC",
-      "url": "https://www.indeed.com/viewjob?jk=d7645e0c35287a2e",
+      "url": "https://www.indeed.com/viewjob?jk=42e2f9ae4d8c1524",
+      "location": null,
+      "posted_date": "2026-04-12",
+      "source": "indeed",
+      "snippet": "###### **Charlotte, NC \\| Contract To Hire**\n\n\n#### **Preferred Skills**\n\n\nBlockchain  \n\n  \n\n  \n\n  \n\n  \n\n#### **Job Description**\n\n\n**Duties and Responsibilities:**\n\n\n* Design, develop and implement blockchain capabilities\n* Design new methods for implementing blockchain technology for our clients\n* Incorporate usage of digital tokens and smart contract\n* Execute research and development activities for new blockchain deliverables\n\n\n**Requirements:**\n\n\n* Bachelor’s in Computer Science, Informatio"
+    },
+    {
+      "title": "Founding Engineer (Blockchain/Backend Engineer)",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=fa2062fd944692f0",
+      "location": null,
+      "posted_date": "2026-04-12",
+      "source": "indeed",
+      "snippet": "**About ParlayX**\n\nParlayX is an execution platform for sports prediction markets built for betting syndicates. We aggregate liquidity across venues and provide a single interface to execute trades.\n\n**About The Role**\n\nParlayX’s mission is to become the premier execution and brokerage platform for sports prediction markets and the central hub connecting the ecosystem. We are hiring a founding engineer to help build the institutional grade product our syndicate clients rely on.\n\nThis role focuse"
+    },
+    {
+      "title": "Payments & Withdrawals Manager",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=3a40df5a1f886885",
       "location": null,
       "posted_date": "2026-04-11",
       "source": "indeed",
-      "snippet": "###### **Charlotte, NC \\| Contract To Hire**\n\n\n#### **Preferred Skills**\n\n\nBlockchain  \n\n  \n\n  \n\n  \n\n  \n\n#### **Job Description**\n\n\n**Duties and Responsibilities:**\n\n\n* Design, develop and implement blockchain capabilities\n* Design new methods for implementing blockchain technology for our clients\n* Incorporate usage of digital tokens and smart contract\n* Execute research and development activities for new blockchain deliverables\n\n\n**Requirements:**\n\n\n* Bachelor’s in Computer Science, Informatio"
+      "snippet": "### **The Mission**\n\n\nWe are seeking a highly disciplined **Withdrawals Manager** to oversee the movement of assets within our ecosystem. This is a high\\-trust role that requires a blend of technical Web3 knowledge and administrative excellence. You will be responsible for verifying, processing, and auditing user withdrawals through our internal admin panels, ensuring that every transaction is accurate, secure, and timely.\n\n### **Key Responsibilities**\n\n* **Withdrawal Processing:** Manage the en"
+    },
+    {
+      "title": "User Experience & Support Advocate",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=dbfd935a78092aa7",
+      "location": null,
+      "posted_date": "2026-04-11",
+      "source": "indeed",
+      "snippet": "### **The Mission**\n\n\nWe are seeking a dedicated and highly organised Community \\& Support Specialist to serve as the primary point of contact for our users. In the fast\\-moving world of Web3 and digital assets, our community needs support that is accurate, fast, and highly secure. This is a role for someone who prides themselves on being reliable, clear\\-headed, and comfortable operating within the next generation of the digital economy.\n\n### **Key Responsibilities**\n\n* **Daily Support Operatio"
     },
     {
       "title": "Sr ML Engineer",
@@ -278,15 +305,6 @@
       "posted_date": "2026-04-11",
       "source": "indeed",
       "snippet": "**About Us:**  \nLucia Protocol is at the forefront of AI\\-driven data infrastructure, building the future of decentralized ad attribution. We are redefining how brands, publishers, and communities leverage Web3 to accurately track, attribute, and reward digital actions. Our team is innovating where AI, blockchain, and decentralized ecosystems intersect to power transparent and efficient ad measurement solutions.\n\n**Role Summary**\n\nLucia Protocol is looking a **Senior Machine Learning Engineer**"
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Decentral Holding Corporation",
-      "url": "https://www.indeed.com/viewjob?jk=ddf93e7192bd0e79",
-      "location": null,
-      "posted_date": "2026-04-11",
-      "source": "indeed",
-      "snippet": "**About Us:** Lucia Protocol is at the forefront of AI\\-driven data infrastructure, building the future of decentralized ad attribution. We are redefining how brands, publishers, and communities leverage Web3 to accurately track, attribute, and reward digital actions. Our team is innovating where AI, blockchain, and decentralized ecosystems intersect to power transparent and efficient ad measurement solutions.\n\n**Role Summary:**\n\nLucia Protocol is looking for an **Executive Assistant** to work d"
     },
     {
       "title": "Senior Audit Project Manager – Digital Assets, Money Movement, and AI",
@@ -415,24 +433,6 @@
       "snippet": "**Who Are We?**\n\n\nDecentralized Masters is at the forefront of DeFi education globally. In just two years, we have grown from a pioneering pair of co\\-founders to over 140 dedicated professionals. Today, we are recognized as one of the fastest\\-growing enterprises in the sector, with industry insiders predicting our evolution into a unicorn company by 2030\\. Operating on a bootstrapped model, we are on track to achieve an impressive $50 million in revenue this year alone.\n\n **Our** **Impact**"
     },
     {
-      "title": "Sr. Engineer - DevOps (Puerto Rico) (Hybrid)",
-      "company": "Collins Aerospace",
-      "url": "https://www.indeed.com/viewjob?jk=62bfacf1787733c0",
-      "location": null,
-      "posted_date": "2026-04-09",
-      "source": "indeed",
-      "snippet": "**Date Posted:**\n\n\n2026\\-02\\-19**Country:**\n\n\nUnited States of America**Location:**\n\n\nUS\\-PR\\-SANTA ISABEL\\-B1 \\~ Felicia Industrial Park \\- St B1 \\~ BLDG 1**Position Role Type:**\n\n\nHybrid**U.S. Citizen, U.S. Person, or Immigration Status Requirements:**\n\n\nU.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract.**Security Clearance:**\n\nNone/Not Required\nAt Collins Aerospace, we are redefining aerospace with innovative solutions that co"
-    },
-    {
-      "title": "Director, AI Enablement",
-      "company": "BULLISH GLOBAL",
-      "url": "https://www.indeed.com/viewjob?jk=8e7b081f6b29bbfe",
-      "location": null,
-      "posted_date": "2026-04-09",
-      "source": "indeed",
-      "snippet": "**About Bullish**\n-----------------\n\n**Bullish is an institutionally focused global digital asset platform that provides market infrastructure and information services. These include:****Bullish****Exchange****– a regulated and institutionally focused digital assets spot and derivatives exchange, integrating a high\\-performance central limit order book matching engine with automated market making to provide deep and predictable liquidity. Bullish Exchange is regulated in Germany, Hong Kong, and"
-    },
-    {
       "title": "Media Buyer",
       "company": "Decentralized Masters",
       "url": "https://www.indeed.com/viewjob?jk=be649cd5857b5e50",
@@ -460,15 +460,6 @@
       "snippet": "nan"
     },
     {
-      "title": "Cryptocurrency Trading Activity & Market Intelligence Analyst",
-      "company": "NCO Financial Investigative Services",
-      "url": "https://www.linkedin.com/jobs/view/4392950272",
-      "location": null,
-      "posted_date": "2026-04-06",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Web3 Capital Network & Digital Asset Participation Associate",
       "company": "FalconX",
       "url": "https://www.linkedin.com/jobs/view/4396589021",
@@ -478,11 +469,11 @@
       "snippet": "nan"
     },
     {
-      "title": "Web3 Capital Network & Digital Asset Participation Associate",
-      "company": "Bruin Finance Society",
-      "url": "https://www.linkedin.com/jobs/view/4391739671",
+      "title": "Crypto Analyst",
+      "company": "Weiss Ratings",
+      "url": "https://www.linkedin.com/jobs/view/4386695216",
       "location": null,
-      "posted_date": "2026-03-27",
+      "posted_date": "2026-03-23",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -523,6 +514,15 @@
       "snippet": "nan"
     },
     {
+      "title": "Blockchain Associate",
+      "company": "The People Of: Professional Services",
+      "url": "https://www.linkedin.com/jobs/view/4368574832",
+      "location": null,
+      "posted_date": "2026-02-04",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
       "title": "Corporate Associate – Crypto / Blockchain",
       "company": "The People Of: Professional Services",
       "url": "https://www.linkedin.com/jobs/view/4326163915",
@@ -550,6 +550,15 @@
       "snippet": "nan"
     },
     {
+      "title": "VIP Experience & Retention Manager",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=201cc1771d365d18",
+      "location": null,
+      "posted_date": "2026-04-11",
+      "source": "indeed",
+      "snippet": "### **The Mission**\n\n\nWe are looking for a **VIP Relationship Manager** to oversee the experience of our most valued users. You aren't just answering tickets; you are building a community of high\\-tier stakeholders. You will act as a dedicated concierge, ensuring that our \"whales\" and power users have a seamless, premium experience. This is a high\\-availability, high\\-trust role that requires a sophisticated touch and a deep understanding of the Web3 ecosystem.\n\n### **Key Responsibilities**\n\n* *"
+    },
+    {
       "title": "Sales Executive ATM Crypto Kiosk",
       "company": "Cash Depot",
       "url": "https://www.indeed.com/viewjob?jk=b529e7e6dc5062b1",
@@ -557,15 +566,6 @@
       "posted_date": "2026-04-10",
       "source": "indeed",
       "snippet": "**Sales Executive ATM, Crypto Kiosk \\& Cash Recycler Solutions**\n\n\n**Location:** Remote (U.S. based preferred)\n\n\n**Compensation:**\n\n\n* **Base Salary:** $120,000 plus commissions\n* **Potential Earnings:** $220,000 by Year 2\n\n**Position Summary**\n\n\nWe are seeking a **high performing Senior Sales Executive** with deep experience in the **ATM, cash recycler, and or crypto kiosk industry** to drive revenue growth and expand our footprint in financial technology and cash automation solutions.\n\n\nThis r"
-    },
-    {
-      "title": "Capital Markets & Crypto Risk Director",
-      "company": "Morgan Stanley",
-      "url": "https://www.indeed.com/viewjob?jk=3f69ec25e014549e",
-      "location": null,
-      "posted_date": "2026-04-10",
-      "source": "indeed",
-      "snippet": "We're seeking someone to join our team as a Director in WM Operations to be part of the CMCPR Risk Team which ensures that our operations run smoothly, compliantly, and efficiently by managing risk and maintaining control over various processes.\n  \n\n  \n\nIn the Operations division, we partner with business units across the Firm to support financial transactions, devise and implement effective controls and develop client relationships. This is a Team Specialist position at Director level within ou"
     },
     {
       "title": "Operations Manager",
@@ -613,47 +613,29 @@
       "snippet": "At Apple, we strive to do our life's best work by building a seamless ecosystem across tightly integrated hardware, software, and services. The Platform Architecture group is at the forefront of defining, designing and connecting this ecosystem. PA\\-Security group is a team of engineers who are dedicated to securing the world’s most advanced consumer devices that are trusted for protecting individual privacy and storing personal data, while providing the highest quality user experience. We're lo"
     },
     {
-      "title": "Platform Engineer - Security",
-      "company": "Apple",
-      "url": "https://www.indeed.com/viewjob?jk=158c167e67d9b49d",
+      "title": "CONCESSIONS STAFFING SUPERVISOR-CRYPTO.COM ARENA",
+      "company": "Levy",
+      "url": "https://www.indeed.com/viewjob?jk=02c24e522d4c55a1",
       "location": null,
-      "posted_date": "2026-04-09",
+      "posted_date": "2026-02-11",
       "source": "indeed",
-      "snippet": "At Apple, we strive to do our life's best work by building a seamless ecosystem across tightly integrated hardware, software, and services. The Platform Architecture group is at the forefront of defining, designing and connecting this ecosystem. PA\\-Security group is a team of engineers who are dedicated to securing the world’s most advanced consumer devices that are trusted for protecting individual privacy and storing personal data, while providing the highest quality user experience. We're lo"
+      "snippet": "**Position Title: CONCESSIONS STAFFING SUPERVISOR**\n\n**Pay Range**: $23\n\n**We Make Applying Easy!** Want to apply to this job via text messaging? Text **JOB** to **75000** and search **requisition ID number** **1453680****.**\n\n\nThe advertised program is an AI recruiting assistant that helps you apply to jobs with Compass Group. Message frequency varies. Message and data rates may apply. Text STOP to opt out or HELP for help. Terms and conditions: http://olivia.paradox.ai/moSkg\n\n **Diversity of t"
     },
     {
-      "title": "Platform Engineer - Security",
-      "company": "Apple",
-      "url": "https://www.indeed.com/viewjob?jk=1c703eebca351146",
+      "title": "Institutional BD – DeFi Lending (App: -4220)",
+      "company": "Referment",
+      "url": "https://www.linkedin.com/jobs/view/4400688501",
       "location": null,
-      "posted_date": "2026-04-09",
-      "source": "indeed",
-      "snippet": "At Apple, we strive to do our life's best work by building a seamless ecosystem across tightly integrated hardware, software, and services. The Platform Architecture group is at the forefront of defining, designing and connecting this ecosystem. PA\\-Security group is a team of engineers who are dedicated to securing the world’s most advanced consumer devices that are trusted for protecting individual privacy and storing personal data, while providing the highest quality user experience. We're lo"
+      "posted_date": "2026-04-11",
+      "source": "linkedin",
+      "snippet": "nan"
     },
     {
-      "title": "Platform Architect - Security",
-      "company": "Apple",
-      "url": "https://www.indeed.com/viewjob?jk=4409c59ae4d35a99",
+      "title": "Account Executive (Institutional Crypto)",
+      "company": "The Tie",
+      "url": "https://www.linkedin.com/jobs/view/4383358046",
       "location": null,
-      "posted_date": "2026-04-09",
-      "source": "indeed",
-      "snippet": "At Apple, we strive to do our life's best work by building a seamless ecosystem across tightly integrated hardware, software, and services. The Platform Architecture group is at the forefront of defining, designing and connecting this ecosystem. PA\\-Security group is a team of engineers who are dedicated to securing the world’s most advanced consumer devices that are trusted for protecting individual privacy and storing personal data, while providing the highest quality user experience. We're lo"
-    },
-    {
-      "title": "PKI Engineer - Crypto Services, Enterprise Technology Services",
-      "company": "Apple",
-      "url": "https://www.indeed.com/viewjob?jk=dabcf88a795149c0",
-      "location": null,
-      "posted_date": "2026-04-09",
-      "source": "indeed",
-      "snippet": "Apple is where individual imaginations gather together, contributing to the values that lead to  \n\n  \n\nphenomenal work. Every new product we build, services we create, or Apple Store experience we deliver, is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that encourages the innovation that"
-    },
-    {
-      "title": "Portfolio Manager - Crypto",
-      "company": "Alexander Chapman",
-      "url": "https://www.linkedin.com/jobs/view/4400538704",
-      "location": null,
-      "posted_date": "nan",
+      "posted_date": "2026-03-09",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -802,15 +784,6 @@
       "snippet": "**Job Position: Growth Marketing Manager**\n**Location: Texas, USA (Remote Acceptable)**\n**Company:** **https://infstones.com/**\n**Contact:** **recruiter\\-usa@infstones.com**\n\n**About Company**\nInfStones is an advanced, enterprise\\-grade Platform as a Service (PaaS) blockchain infrastructure provider trusted by the top blockchain companies in the world. InfStones’ AI\\-based infrastructure provides developers worldwide with a rugged, powerful node management platform alongside an easy\\-to\\-use API"
     },
     {
-      "title": "Wealth Technology - Digital Assets & Emerging Technology Lead, Senior Vice President",
-      "company": "Citi",
-      "url": "https://www.indeed.com/viewjob?jk=23cc2c1803f50eb9",
-      "location": null,
-      "posted_date": "2026-04-03",
-      "source": "indeed",
-      "snippet": "Job Req Id:\n26950567\nLocation(s):\nJersey City, New Jersey, United States\nJob Type:\nHybrid\nPosted:\nApr. 03, 2026\n  \n**Discover your future at Citi**\n--------------------------------\n\n\nWorking at Citi is far more than just a job. A career with us means joining a team of more than 230,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.\n\n\n**Job Overview**\n----------------\n\n\n**Overview of the Role:**"
-    },
-    {
       "title": "Senior PR & Communications Manager",
       "company": "Offchain Labs",
       "url": "https://www.indeed.com/viewjob?jk=649050920f289fc9",
@@ -883,11 +856,29 @@
       "snippet": "nan"
     },
     {
+      "title": "Social Media Manager (Crypto/Web3) - Dragonfly Portfolio",
+      "company": "Dragonfly",
+      "url": "https://www.linkedin.com/jobs/view/4375537564",
+      "location": null,
+      "posted_date": "2026-02-26",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
       "title": "Web3 / Full-stack Software Engineer",
       "company": "stakefish",
       "url": "https://www.linkedin.com/jobs/view/4354644743",
       "location": null,
       "posted_date": "2026-01-05",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Front-End Developer (Web3/AI)",
+      "company": "Mavik Labs",
+      "url": "https://www.linkedin.com/jobs/view/4283683528",
+      "location": null,
+      "posted_date": "2025-08-16",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -928,11 +919,11 @@
       "snippet": "**About the Role**  \n\nSimple Mining operates large\\-scale cryptocurrency mining sites, and we’re looking for someone who can keep up in a hands\\-on, fast\\-paced environment.\n\n\nThis is a full\\-time, on\\-site position in **Algona, IA**. No remote work. You must be able to commute daily. Relocation is not provided.  \n\n**Starting pay: $18/hour**\n\n**What You'll Be Doing**\n------------------------\n\n**Keep Operations Running**\n\n* Track and close work tickets quickly\n* Prioritize machines that need atte"
     },
     {
-      "title": "Crypto Analyst",
-      "company": "Weiss Ratings",
-      "url": "https://www.linkedin.com/jobs/view/4386695216",
+      "title": "Equity Research Associate – Cryptocurrency & Blockchain",
+      "company": "Wedbush",
+      "url": "https://www.linkedin.com/jobs/view/4370119000",
       "location": null,
-      "posted_date": "2026-03-23",
+      "posted_date": "2026-02-07",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -941,25 +932,7 @@
       "company": "TRM Labs",
       "url": "https://www.linkedin.com/jobs/view/4077506251",
       "location": null,
-      "posted_date": "2026-03-20",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Blockchain Associate",
-      "company": "The People Of: Professional Services",
-      "url": "https://www.linkedin.com/jobs/view/4368574832",
-      "location": null,
-      "posted_date": "2026-02-04",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Crypto | Trading Infrastructure Technical Writer",
-      "company": "Compose.ly",
-      "url": "https://www.linkedin.com/jobs/view/4377038717",
-      "location": null,
-      "posted_date": "2026-01-30",
+      "posted_date": "nan",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1333,20 +1306,20 @@
       "snippet": "nan"
     },
     {
-      "title": "DeFi Risk Solutions",
-      "company": "Morpho",
-      "url": "https://www.linkedin.com/jobs/view/4392915767",
+      "title": "DeFi Community Manager & Social Media Lead",
+      "company": "Coinme",
+      "url": "https://www.linkedin.com/jobs/view/4393987305",
       "location": null,
-      "posted_date": "2026-03-30",
+      "posted_date": "2026-03-31",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Partnerships Lead, Defi",
-      "company": "OP Labs PBC",
-      "url": "https://www.linkedin.com/jobs/view/4372157835",
+      "title": "PM/Trader, Market Neutral Crypto",
+      "company": "G-20 Group",
+      "url": "https://www.linkedin.com/jobs/view/4390013867",
       "location": null,
-      "posted_date": "2026-03-28",
+      "posted_date": "2026-03-25",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1360,6 +1333,24 @@
       "snippet": "nan"
     },
     {
+      "title": "Sr. Digital Program Manager, Localization Enablement & Accessibility Programs (LEAP)",
+      "company": "Amazon.com",
+      "url": "https://www.indeed.com/viewjob?jk=403cd877427f94a8",
+      "location": null,
+      "posted_date": "2026-02-24",
+      "source": "indeed",
+      "snippet": "**DESCRIPTION**\n---------------\n\n\nCome build the future of entertainment with us! Are you interested in shaping the future of movies and television? Do you want to define the next generation of how and what Amazon customers are watching?  \n\n  \n\nPrime Video is a premium streaming service that offers customers a vast collection of TV shows, movies and live events \\- all with the ease of finding what they love to watch in one place. We offer customers thousands of popular movies and TV shows includ"
+    },
+    {
+      "title": "Sr. Digital Program Manager, Localization Enablement & Accessibility Programs (LEAP)",
+      "company": "Amazon.com",
+      "url": "https://www.indeed.com/viewjob?jk=7457fe2d403d4406",
+      "location": null,
+      "posted_date": "2026-02-24",
+      "source": "indeed",
+      "snippet": "**DESCRIPTION**\n---------------\n\n\nCome build the future of entertainment with us! Are you interested in shaping the future of movies and television? Do you want to define the next generation of how and what Amazon customers are watching?  \n\n  \n\nPrime Video is a premium streaming service that offers customers a vast collection of TV shows, movies and live events \\- all with the ease of finding what they love to watch in one place. We offer customers thousands of popular movies and TV shows includ"
+    },
+    {
       "title": "Digital Assets Strategy - Fixed Income Division - Associate",
       "company": "Morgan Stanley",
       "url": "https://www.linkedin.com/jobs/view/4393472935",
@@ -1369,29 +1360,38 @@
       "snippet": "nan"
     },
     {
-      "title": "Digital Assets Manager",
+      "title": "Digital Assets Strategy - Fixed Income Division - Vice President",
+      "company": "Morgan Stanley",
+      "url": "https://www.linkedin.com/jobs/view/4393469895",
+      "location": null,
+      "posted_date": "2026-04-02",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Digital Assets Consultant",
       "company": "Accenture",
-      "url": "https://www.linkedin.com/jobs/view/4373322103",
+      "url": "https://www.linkedin.com/jobs/view/4373325036",
       "location": null,
       "posted_date": "2026-02-18",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Sr Dir of Digital Assets and AI",
-      "company": "Summit Utilities, Inc.",
-      "url": "https://www.linkedin.com/jobs/view/4368626911",
+      "title": "Digital Assets Senior Manager",
+      "company": "Accenture",
+      "url": "https://www.linkedin.com/jobs/view/4373316233",
       "location": null,
-      "posted_date": "2026-01-09",
+      "posted_date": "2026-02-18",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Sr Dir of Digital Assets and AI",
-      "company": "Summit Utilities, Inc.",
-      "url": "https://www.linkedin.com/jobs/view/4368637854",
+      "title": "Digital Assets Strategy Director, Wealth Management Operations",
+      "company": "Morgan Stanley",
+      "url": "https://www.linkedin.com/jobs/view/4318359668",
       "location": null,
-      "posted_date": "2026-01-09",
+      "posted_date": "2025-11-14",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1504,6 +1504,15 @@
       "snippet": "**Director, Strategic Investments (SPIN)**\n\n\nAt BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting\\-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.\n\n\nRecogni"
     },
     {
+      "title": "Head of Digital Assets/Tokenization - US",
+      "company": "SS&C Technologies",
+      "url": "https://www.linkedin.com/jobs/view/4304490085",
+      "location": null,
+      "posted_date": "2026-04-10",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
       "title": "Managing Director, Digital Assets",
       "company": "BlackRock",
       "url": "https://www.linkedin.com/jobs/view/4387849321",
@@ -1513,11 +1522,20 @@
       "snippet": "nan"
     },
     {
-      "title": "Digital Assets Strategy - Fixed Income Division - Vice President",
-      "company": "Morgan Stanley",
-      "url": "https://www.linkedin.com/jobs/view/4393469895",
+      "title": "Business Development- Digital Assets & Private Markets Infrastructure",
+      "company": "Knack Group",
+      "url": "https://www.linkedin.com/jobs/view/4397609925",
       "location": null,
-      "posted_date": "2026-04-02",
+      "posted_date": "2026-04-09",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Head of Digital Assets/Tokenization - US",
+      "company": "SS&C Technologies",
+      "url": "https://www.linkedin.com/jobs/view/4304469987",
+      "location": null,
+      "posted_date": "2026-04-09",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1527,6 +1545,15 @@
       "url": "https://www.linkedin.com/jobs/view/4391212684",
       "location": null,
       "posted_date": "2026-03-27",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "VP, Innovation & Tokenization",
+      "company": "American Bankers Association",
+      "url": "https://www.linkedin.com/jobs/view/4390022651",
+      "location": null,
+      "posted_date": "2026-03-25",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1549,14 +1576,14 @@
       "snippet": "nan"
     },
     {
-      "title": "VP - Product Management (Tokenization & Digital Assets) (Hybrid - Flexible Options)",
-      "company": "Broadridge",
-      "url": "https://www.linkedin.com/jobs/view/4369291671",
+      "title": "Head of Digital Assets/Tokenization - US",
+      "company": "SS&C Technologies",
+      "url": "https://www.linkedin.com/jobs/view/4304490084",
       "location": null,
       "posted_date": "nan",
       "source": "linkedin",
       "snippet": "nan"
     }
   ],
-  "count": 173
+  "count": 176
 }
