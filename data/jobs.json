@@ -1,11 +1,29 @@
 {
   "jobs": [
     {
+      "title": "Crypto Inventory Operations Intern",
+      "company": "Coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435",
+      "location": "Hybrid - New York, NY",
+      "posted_date": "2026-09-09T10:44:40-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
       "title": "Senior Software Engineer - Blockchain Network",
       "company": "Coinbase",
       "url": "https://www.coinbase.com/careers/positions/7967649?gh_jid=7967649",
       "location": "Remote - USA",
       "posted_date": "2026-09-02T22:18:25-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
+      "title": "Senior Software Engineer- Blockchain Network",
+      "company": "Coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8094196?gh_jid=8094196",
+      "location": "Remote - USA",
+      "posted_date": "2026-09-09T15:48:23-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -181,11 +199,47 @@
       "snippet": null
     },
     {
+      "title": "Senior Software Engineer, Tokenization",
+      "company": "Robinhood",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8189059?t=gh_src=&gh_jid=8189059",
+      "location": "Toronto, Canada",
+      "posted_date": "2026-09-10T07:07:05-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
+      "title": "Senior Software Engineer, Tokenization",
+      "company": "Robinhood",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8189057?t=gh_src=&gh_jid=8189057",
+      "location": "Menlo Park, CA; New York, NY",
+      "posted_date": "2026-09-10T07:05:13-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
       "title": "Software Engineer, Cryptography",
       "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370",
       "location": "Bellevue, WA; Menlo Park, CA",
       "posted_date": "2026-08-25T14:51:29-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
+      "title": "Software Engineer, Tokenization",
+      "company": "Robinhood",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8189007?t=gh_src=&gh_jid=8189007",
+      "location": "Toronto, Canada",
+      "posted_date": "2026-09-10T06:57:53-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
+      "title": "Software Engineer, Tokenization",
+      "company": "Robinhood",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8189005?t=gh_src=&gh_jid=8189005",
+      "location": "Menlo Park, CA; New York, NY",
+      "posted_date": "2026-09-10T06:58:18-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -226,119 +280,29 @@
       "snippet": null
     },
     {
-      "title": "Staff Cryptography Engineer",
-      "company": "SoFi",
-      "url": "https://sofi.com/careers/job/7818422003?gh_jid=7818422003",
-      "location": "WA - Seattle; UT - Cottonwood Heights; CA - San Francisco; NY - New York City; TX - Frisco",
-      "posted_date": "2026-08-18T19:29:18-04:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
-      "title": "Senior Marketing Manager, ABM",
-      "company": "Figure",
-      "url": "https://www.indeed.com/viewjob?jk=396cadd4279198c8",
+      "title": "Blockchain Solutions Architect",
+      "company": "OP Labs PBC",
+      "url": "https://www.linkedin.com/jobs/view/4409097712",
       "location": null,
-      "posted_date": "2026-09-09",
-      "source": "indeed",
-      "snippet": "**About Figure**\n\n\n\nFigure (NASDAQ: FIGR) is transforming capital markets through blockchain. We're proving that blockchain isn't just theory \\- it's powering real products used by hundreds of thousands of consumers and institutions.\n\n\n\nBy combining blockchain's transparency and efficiency with AI\\-driven automation, we've reimagined how loans are originated, funded, and traded in secondary markets. From faster processing times to lower costs and reduced bias, our technology is helping borrowers"
-    },
-    {
-      "title": "Tech Governance - Security Compliance & Governance Engineer (Mandarin Bilingual Required)",
-      "company": "OKG",
-      "url": "https://www.indeed.com/viewjob?jk=a78cf0cb5ce8ceaa",
-      "location": null,
-      "posted_date": "2026-09-09",
-      "source": "indeed",
-      "snippet": "**Who We Are**\n--------------\n\n\nAt OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom.\nOKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets. We are safe and reliable, backed by our Proof of Reserves.\nAcross our multiple offices globally,"
-    },
-    {
-      "title": "Senior Accountant",
-      "company": "Polygon Labs",
-      "url": "https://www.indeed.com/viewjob?jk=3a49d5a59add91e5",
-      "location": null,
-      "posted_date": "2026-09-08",
-      "source": "indeed",
-      "snippet": "**About Polygon Labs**\n----------------------\n\n\nPolygon Labs is a global blockchain payments company building and operating infrastructure to move money instantly, reliably, and at internet scale, with the mission to move all money onchain. It is building the Polygon Open Money Stack, an open and integrated stack of services and technologies to instantly and reliably move money anywhere, and put it to work. Its infrastructure has facilitated trillions of dollars in onchain value transfer and sup"
-    },
-    {
-      "title": "Principal Software Engineer - Kinexys",
-      "company": "JPMorganChase",
-      "url": "https://www.indeed.com/viewjob?jk=fc0f31437d9a5f17",
-      "location": null,
-      "posted_date": "2026-09-08",
-      "source": "indeed",
-      "snippet": "**JOB DESCRIPTION**  \n\n  \n\n  \n\nWe're seeking a Principal Software Engineer to lead technical strategy and hands\\-on delivery of Kinexys integrations and products across the public blockchain ecosystem. Promote secure, scalable blockchain solutions that connect enterprise systems with public networks and digital asset platforms.\n\n**Job Responsibilities**\n\n* As a Principal Software Engineer at JPMorgan Chase within Payments \\& Global Banking Technology, you will own end\\-to\\-end architecture for p"
-    },
-    {
-      "title": "UNPAID VOLUNTEER - Technical Officer - Standards Specialist",
-      "company": "nan",
-      "url": "https://www.indeed.com/viewjob?jk=6bbf97ce5ce654f8",
-      "location": null,
-      "posted_date": "2026-09-08",
-      "source": "indeed",
-      "snippet": "**Role Title:** Technical Officer – Standards Specialist  \n\n**Role Type:** Unpaid Volunteer  \n\n**Number of Positions:** 1  \n\n**Location:** Home\\-based / Remote  \n\n**Reporting To:** Chief Technology Officer / Senior Technology Leadership\n\n**THIS IS AN UNPAID VOLUNTEER ROLE.**\n\n\nAbout DTID\n\n\nThe **Digital Technology Institute for Development (DTID)** is an international non\\-profit institute advancing the responsible use of artificial intelligence, blockchain and emerging digital technologies to s"
-    },
-    {
-      "title": "UNPAID VOLUNTEER - Technology Officer -Quantum Computing",
-      "company": "nan",
-      "url": "https://www.indeed.com/viewjob?jk=0bc6472cd90aa074",
-      "location": null,
-      "posted_date": "2026-09-08",
-      "source": "indeed",
-      "snippet": "**Role Title:** Technology Officer – Quantum Computing  \n\n**Role Type:** Unpaid Volunteer  \n\n**Number of Positions:** 2  \n\n**Location:** Home\\-based / Remote  \n\n**Reporting To:** Chief Technology Officer (CTO)\n\n**THIS IS AN UNPAID VOLUNTEER ROLE.**\n\n\nAbout DTID\n\n\nThe **Digital Technology Institute for Development (DTID)** is an international non\\-profit institute advancing the responsible use of artificial intelligence, blockchain and emerging digital technologies to support sustainable developm"
-    },
-    {
-      "title": "UNPAID VOLUNTEER - Technology Officer -Internet of Things (IoT) & Data Analysis",
-      "company": "nan",
-      "url": "https://www.indeed.com/viewjob?jk=27edab07cb4786a6",
-      "location": null,
-      "posted_date": "2026-09-08",
-      "source": "indeed",
-      "snippet": "**Role Title:** Technology Officer – Internet of Things (IoT) \\& Data Analysis  \n\n**Role Type:** Unpaid Volunteer  \n\n**Number of Positions:** 2  \n\n**Location:** Home\\-based / Remote  \n\n**Reporting To:** Chief Technology Officer (CTO)\n\n**THIS IS AN UNPAID VOLUNTEER ROLE.**\n\n\nAbout DTID\n\n\nThe **Digital Technology Institute for Development (DTID)** is an international non\\-profit institute advancing the responsible use of artificial intelligence, blockchain and emerging digital technologies to supp"
-    },
-    {
-      "title": "UNPAID VOLUNTEER - Technology Officer -Artificial Intelligence (AI)",
-      "company": "nan",
-      "url": "https://www.indeed.com/viewjob?jk=f6f656474ed675b3",
-      "location": null,
-      "posted_date": "2026-09-08",
-      "source": "indeed",
-      "snippet": "**Role Title:** Technology Officer – Artificial Intelligence  \n\n**Role Type:** Unpaid Volunteer  \n\n**Number of Positions:** 2  \n\n**Location:** Home\\-based / Remote  \n\n**Reporting To:** Chief Technology Officer / Senior Technology Leadership\n\n**THIS IS AN UNPAID VOLUNTEER ROLE.**\n\n\nAbout DTID\n\n\nThe **Digital Technology Institute for Development (DTID)** is an international non\\-profit institute advancing the responsible use of artificial intelligence, blockchain and emerging digital technologies"
-    },
-    {
-      "title": "UNPAID VOLUNTEER - General Counsel",
-      "company": "nan",
-      "url": "https://www.indeed.com/viewjob?jk=8889d274bc6b8eec",
-      "location": null,
-      "posted_date": "2026-09-08",
-      "source": "indeed",
-      "snippet": "**Role Title:** General Counsel  \n\n**Role Type:** Unpaid Volunteer  \n\n**Number of Positions:** 1  \n\n**Location:** Home\\-based / Remote  \n\n**Reporting To:** Director\\-General\n\n**THIS IS AN UNPAID VOLUNTEER ROLE.**\n\n\nAbout DTID\n\n\nThe **Digital Technology Institute for Development (DTID)** is an international non\\-profit institute advancing the responsible use of artificial intelligence, blockchain and emerging digital technologies to support sustainable development and policy implementation.\n\n\nDTI"
-    },
-    {
-      "title": "Blockchain Software Developer",
-      "company": "RedBalloon",
-      "url": "https://www.linkedin.com/jobs/view/4439618149",
-      "location": null,
-      "posted_date": "2026-09-03",
+      "posted_date": "2026-09-07",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Digital Assets Crypto/Blockchain Senior Associate",
-      "company": "PwC",
-      "url": "https://www.linkedin.com/jobs/view/4462446173",
+      "title": "Blockchain Developer",
+      "company": "Swift",
+      "url": "https://www.linkedin.com/jobs/view/4418037332",
       "location": null,
-      "posted_date": "2026-09-02",
+      "posted_date": "2026-09-06",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Digital Assets Crypto/Blockchain Director",
-      "company": "PwC",
-      "url": "https://www.linkedin.com/jobs/view/4462444172",
+      "title": "Solidity / Go Developer - Director / VP",
+      "company": "Morgan Stanley",
+      "url": "https://www.linkedin.com/jobs/view/4446945316",
       "location": null,
-      "posted_date": "2026-09-02",
+      "posted_date": "2026-08-27",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -352,18 +316,9 @@
       "snippet": "nan"
     },
     {
-      "title": "Senior Blockchain Engineer VP – Digital Assets",
-      "company": "Barclays",
-      "url": "https://www.linkedin.com/jobs/view/4456582103",
-      "location": null,
-      "posted_date": "2026-08-26",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Crypto Currency Senior Investigative Analyst",
-      "company": "XLA",
-      "url": "https://www.linkedin.com/jobs/view/4459377428",
+      "title": "Head of Tokenization",
+      "company": "The Equus Group",
+      "url": "https://www.linkedin.com/jobs/view/4459365117",
       "location": null,
       "posted_date": "2026-08-26",
       "source": "linkedin",
@@ -379,29 +334,20 @@
       "snippet": "nan"
     },
     {
-      "title": "Digital Assets Compliance",
-      "company": "Column",
-      "url": "https://www.linkedin.com/jobs/view/4438366292",
+      "title": "Director, Technical Product Manager - Digital Assets",
+      "company": "BNY",
+      "url": "https://www.linkedin.com/jobs/view/4448681140",
       "location": null,
-      "posted_date": "2026-08-23",
+      "posted_date": "2026-08-25",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Senior Staff Software Engineer - Blockchain Platform",
-      "company": "Coinbase",
-      "url": "https://www.linkedin.com/jobs/view/4430155435",
+      "title": "Director, Technical Product Manager - Digital Assets",
+      "company": "BNY",
+      "url": "https://www.linkedin.com/jobs/view/4459008799",
       "location": null,
-      "posted_date": "2026-08-22",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Senior Blockchain Consultant",
-      "company": "BRG",
-      "url": "https://www.linkedin.com/jobs/view/4436885717",
-      "location": null,
-      "posted_date": "2026-08-19",
+      "posted_date": "2026-08-25",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -424,85 +370,49 @@
       "snippet": "nan"
     },
     {
+      "title": "Crypto Product Manager - Dragonfly Portfolio",
+      "company": "Dragonfly",
+      "url": "https://www.linkedin.com/jobs/view/4375548280",
+      "location": null,
+      "posted_date": "2026-02-26",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Smart Contract Auditors",
+      "company": "Cryptosec",
+      "url": "https://www.linkedin.com/jobs/view/4325852931",
+      "location": null,
+      "posted_date": "2025-12-04",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
       "title": "Blockchain Developer",
-      "company": "Altimetrik",
-      "url": "https://www.linkedin.com/jobs/view/4455130592",
+      "company": "Mundy Buddy Publishing LLC.",
+      "url": "https://www.linkedin.com/jobs/view/4157396251",
       "location": null,
-      "posted_date": "2026-08-15",
+      "posted_date": "2025-02-17",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Cryptography and Systems Researcher",
-      "company": "Char Network Labs",
-      "url": "https://www.linkedin.com/jobs/view/4400588296",
+      "title": "Director, Blockchain and Crypto",
+      "company": "Mastercard",
+      "url": "https://www.indeed.com/viewjob?jk=988079e035028e49",
       "location": null,
-      "posted_date": "2026-04-10",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "DeFi Engineer",
-      "company": "Flow",
-      "url": "https://www.linkedin.com/jobs/view/4252737418",
-      "location": null,
-      "posted_date": "2026-02-18",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Smart Contract Lead",
-      "company": "ether.fi",
-      "url": "https://www.linkedin.com/jobs/view/4339219812",
-      "location": null,
-      "posted_date": "2025-11-28",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Senior Blockchain Engineer",
-      "company": "Orion Valley",
-      "url": "https://www.linkedin.com/jobs/view/4227201162",
-      "location": null,
-      "posted_date": "2025-05-14",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Quantitative Analyst Intern",
-      "company": "Talos Global",
-      "url": "https://www.indeed.com/viewjob?jk=d5d2b7f11ee324aa",
-      "location": null,
-      "posted_date": "2026-09-08",
+      "posted_date": "2026-09-09",
       "source": "indeed",
-      "snippet": "**Location**\n------------\n\n\nNew York\n\n\n**Employment Type**\n-------------------\n\n\nIntern\n\n\n**Department**\n--------------\n\n\nInternships\n\n\n**Compensation**\n----------------\n\n\n* Compensation $50 per hour\n\n**Institutional Fabric for the Digital Asset Market**\n=====================================================\n\n\nFounded in 2018, Talos provides institutional\\-grade trading technology for the global digital asset market, powering many of the major players in the crypto ecosystem. Our mission is clear"
+      "snippet": "**Our Purpose**\n\n*Mastercard powers economies and empowers people in 200\\+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their great"
     },
     {
-      "title": "Staff Software Engineer - Data",
-      "company": "dune",
-      "url": "https://www.indeed.com/viewjob?jk=a7c4fb9cbf6387ab",
+      "title": "Product Manager, Blockchain and Crypto",
+      "company": "Mastercard",
+      "url": "https://www.indeed.com/viewjob?jk=03e466013a6691ad",
       "location": null,
-      "posted_date": "2026-09-08",
+      "posted_date": "2026-09-09",
       "source": "indeed",
-      "snippet": "**About Dune**\n\n\nDune is on a mission to make crypto data accessible. We’re a collaborative multi\\-chain analytics platform used by thousands of developers, analysts, \\& investors to understand the on\\-chain world and the frontiers of finance. We’re a team of \\~60 employees, working together across Europe and eastern US timezones ️. We believe in our mission, and in building a powerful, open product that allows individuals and communities to do deep research into important ecosystems like Bitcoi"
-    },
-    {
-      "title": "Trading Operations Associate - West Coast",
-      "company": "Alpaca",
-      "url": "https://www.indeed.com/viewjob?jk=97a48faec55aa909",
-      "location": null,
-      "posted_date": "2026-09-08",
-      "source": "indeed",
-      "snippet": "**Who We Are:**\n\n\n**Alpaca is a US\\-headquartered, global leader in agent\\-first brokerage infrastructure** for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.  \n\n  \n\nAmongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional\\-grade APIs. This includes broker\\-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerag"
-    },
-    {
-      "title": "Trading Operations Associate - West Coast",
-      "company": "Alpaca",
-      "url": "https://www.indeed.com/viewjob?jk=698acea96b62d70c",
-      "location": null,
-      "posted_date": "2026-09-08",
-      "source": "indeed",
-      "snippet": "**Who We Are:**\n\n\n**Alpaca is a US\\-headquartered, global leader in agent\\-first brokerage infrastructure** for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.  \n\n  \n\nAmongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional\\-grade APIs. This includes broker\\-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerag"
+      "snippet": "**Our Purpose**\n\n*Mastercard powers economies and empowers people in 200\\+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their great"
     },
     {
       "title": "Trading Operations Associate - West Coast",
@@ -514,13 +424,247 @@
       "snippet": "**Who We Are:**\n\n\n**Alpaca is a US\\-headquartered, global leader in agent\\-first brokerage infrastructure** for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.  \n\n  \n\nAmongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional\\-grade APIs. This includes broker\\-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerag"
     },
     {
-      "title": "Trading Operations Associate - West Coast",
-      "company": "Alpaca",
-      "url": "https://www.indeed.com/viewjob?jk=a3a0e8ecdac3e825",
+      "title": "Sales Engineer - Partnerships",
+      "company": "Prove",
+      "url": "https://www.indeed.com/viewjob?jk=a9e20d483f2c716a",
+      "location": null,
+      "posted_date": "2026-09-04",
+      "source": "indeed",
+      "snippet": "United States (Remote)\n**About Prove**\n===============\n\n\nAs the world moves to a mobile\\-first economy, businesses need to modernize how they acquire, engage with and enable consumers. Prove’s phone\\-centric identity tokenization and passive cryptographic authentication solutions reduce friction, enhance security and privacy across all digital channels, and accelerate revenues while reducing operating expenses and fraud losses. Over 1,000 enterprise customers use Prove’s platform to process 20 b"
+    },
+    {
+      "title": "Director, Communications – Strategic Initiatives & DeFi",
+      "company": "S&P Global",
+      "url": "https://www.indeed.com/viewjob?jk=72212e5b9cdd5617",
+      "location": null,
+      "posted_date": "2026-09-04",
+      "source": "indeed",
+      "snippet": "**Director, Communications – Strategic Initiatives \\& DeFi**\n============================================================\n\n\nJOB\\_DESCRIPTION.SHARE.HTML\nCAROUSEL\\_PARAGRAPH\n\n\nJOB\\_DESCRIPTION.SHARE.HTML\n* New York, New York\n* Communications/Corporate Affairs\n* 331130\n**Job Description**\n-------------------\n\n  \n\n  \n\n**About the Role:**\n===================\n\n\n**Grade Level (for internal use):**\n\n\n12\n**The Role: Director, Communications – Strategic Initiatives \\& DeFi**\n\n\nThis role will help define h"
+    },
+    {
+      "title": "Lead Writer, Live Markets",
+      "company": "News Corp",
+      "url": "https://www.indeed.com/viewjob?jk=5fc781f4676cdec5",
+      "location": null,
+      "posted_date": "2026-09-03",
+      "source": "indeed",
+      "snippet": "Lead Writer, Live Markets (New York)\n\n\nThe Wall Street Journal is seeking a dynamic journalist to serve as the lead writer for our Live Markets blog, based in the New York headquarters at the heart of global finance.\n\n\nThe ideal candidate is fluent in stocks, bonds, commodities, currencies, and crypto, with the skills to translate complex Wall Street lingo into plain English for our highly educated audience. In this high\\-visibility role, you will anchor real\\-time coverage of the biggest shifts"
+    },
+    {
+      "title": "Sr. Associate, Corporate Development",
+      "company": "Offchain Labs",
+      "url": "https://www.indeed.com/viewjob?jk=a5c4e25b7d730b53",
+      "location": null,
+      "posted_date": "2026-09-03",
+      "source": "indeed",
+      "snippet": "At Offchain Labs, we aren’t just building products: we’re leading a movement.\n\nAs pioneers in blockchain scalability and security, we're at the forefront of transforming how the world interacts with decentralized applications. We're laying the foundation that will define the next generation of digital commerce, governance, and human interaction. This involves tackling real\\-world challenges that come with scaling blockchain technology, without compromising on its core principles: decentralizatio"
+    },
+    {
+      "title": "Technical Writer – Blockchain & Web3",
+      "company": "Blockchain council",
+      "url": "https://www.indeed.com/viewjob?jk=f452257f0fbb6b3b",
+      "location": null,
+      "posted_date": "2026-09-01",
+      "source": "indeed",
+      "snippet": "Join Our Team\n**Shape the Future of**\n**Technology Education**\n================================================\n\n\nAt Blockchain Council, we are on a mission to educate over a million professionals worldwide in blockchain, AI, and emerging technologies. Join a passionate, remote\\-first team that values innovation, autonomy, and impact.\n\n  \n\n**145\\+**\n\n\nCountries Reached\n\n\n**100%**\n\n\nRemote\\-Friendly\n\n\n  \n**Why Work With Us**\n\n\n**Perks \\& Benefits**\n---------------------\n\n\n**Remote\\-First**\n\n\nWork"
+    },
+    {
+      "title": "Social Media & Community Manager",
+      "company": "Blockchain council",
+      "url": "https://www.indeed.com/viewjob?jk=0184b5808ad035aa",
+      "location": null,
+      "posted_date": "2026-09-01",
+      "source": "indeed",
+      "snippet": "Join Our Team\n**Shape the Future of**\n**Technology Education**\n================================================\n\n\nAt Blockchain Council, we are on a mission to educate over a million professionals worldwide in blockchain, AI, and emerging technologies. Join a passionate, remote\\-first team that values innovation, autonomy, and impact.\n\n  \n\n**145\\+**\n\n\nCountries Reached\n\n\n**100%**\n\n\nRemote\\-Friendly\n\n\n  \n**Why Work With Us**\n\n\n**Perks \\& Benefits**\n---------------------\n\n\n**Remote\\-First**\n\n\nWork"
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "Hummingbird",
+      "url": "https://www.indeed.com/viewjob?jk=31111415ede7cd7d",
+      "location": null,
+      "posted_date": "2026-08-31",
+      "source": "indeed",
+      "snippet": "Hummingbird is a remote\\-first, fully distributed team united by the shared mission of helping fight financial crime. Since our launch in 2017, we’ve helped major financial institutions and tech\\-savvy trailblazers alike (e.g. Plaid, Raymond James, Crypto.com etc.) orchestrate their compliance programs through our thoughtfully designed, intuitive, AI powered compliance tools. We believe finding and stopping financial crime is a problem rooted in code, language and design, so we built the product"
+    },
+    {
+      "title": "Partner 20, Social Media Lead, Crypto",
+      "company": "Andreessen Horowitz",
+      "url": "https://www.indeed.com/viewjob?jk=015e0357003a5f3d",
+      "location": null,
+      "posted_date": "2026-08-20",
+      "source": "indeed",
+      "snippet": "Founded in Silicon Valley in 2009 by Marc Andreessen and Ben Horowitz, Andreessen Horowitz (aka a16z) is a venture capital firm that backs bold entrepreneurs building the future through technology. We are stage agnostic. We invest in seed to venture to growth\\-stage technology companies, across AI, bio \\+ healthcare, consumer, crypto, enterprise, fintech, games, and companies building toward American dynamism. a16z has $100B\\+ under management across multiple funds.\n\n\n\nWe’ve established a team t"
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Cluster Protocol",
+      "url": "https://www.indeed.com/viewjob?jk=6ba415d17faa6d31",
+      "location": null,
+      "posted_date": "2026-07-22",
+      "source": "indeed",
+      "snippet": "Build beautiful, responsive user interfaces for our Web3 platform. Work with React, TypeScript, and modern web technologies to create seamless user experiences.\n  \n**WHY WORK WITH US (SERIOUSLY THO)**\n------------------------------------\n\n\nJoin a team that's basically building the Matrix but for money (and we promise it's not a pyramid scheme)\n\n\n### **Innovation First**\n\n\nWe're basically the cool kids of Web3\\. You'll be working on tech so cutting\\-edge, your mom will think you're a hacker (you"
+    },
+    {
+      "title": "Product Manager",
+      "company": "Cluster Protocol",
+      "url": "https://www.indeed.com/viewjob?jk=7ceb9290f7443109",
+      "location": null,
+      "posted_date": "2026-07-22",
+      "source": "indeed",
+      "snippet": "Drive product strategy and execution for our core platform. Work closely with engineering, design, and business teams to deliver exceptional user experiences.\n  \n**WHY WORK WITH US (SERIOUSLY THO)**\n------------------------------------\n\n\nJoin a team that's basically building the Matrix but for money (and we promise it's not a pyramid scheme)\n\n\n### **Innovation First**\n\n\nWe're basically the cool kids of Web3\\. You'll be working on tech so cutting\\-edge, your mom will think you're a hacker (you ki"
+    },
+    {
+      "title": "Community Manager",
+      "company": "Cluster Protocol",
+      "url": "https://www.indeed.com/viewjob?jk=ec5c426c822853c7",
+      "location": null,
+      "posted_date": "2026-07-22",
+      "source": "indeed",
+      "snippet": "Build and engage our community across social platforms. Create content, manage events, and foster relationships with our users and partners.\n  \n**WHY WORK WITH US (SERIOUSLY THO)**\n------------------------------------\n\n\nJoin a team that's basically building the Matrix but for money (and we promise it's not a pyramid scheme)\n\n\n### **Innovation First**\n\n\nWe're basically the cool kids of Web3\\. You'll be working on tech so cutting\\-edge, your mom will think you're a hacker (you kind of are)\n\n\n### *"
+    },
+    {
+      "title": "Junior Data Analyst",
+      "company": "Morgan Stanley",
+      "url": "https://www.indeed.com/viewjob?jk=8e27f3e489b92fca",
+      "location": null,
+      "posted_date": "2026-07-13",
+      "source": "indeed",
+      "snippet": "We're seeking someone to join our team as a Junior Data Analyst in NFR Data \\& Analytics to support data wrangling, reconciliation, and reporting workflows for Crypto\\-related investigative analytics within our Financial Crime Risk program.\n  \n\n  \n\nIn the Legal \\& Compliance division, we assist the Firm in achieving its business objectives by facilitating and overseeing the Firm's management of legal, regulatory and franchise risk. This is an Analyst level position within the NFR Data \\& Analyti"
+    },
+    {
+      "title": "Finance Expert — Trading, Derivatives & Crypto",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=b5c2d36626953527",
+      "location": null,
+      "posted_date": "2026-06-16",
+      "source": "indeed",
+      "snippet": "Finance Expert — Trading, Derivatives \\& Crypto is a remote review track for evaluating AI outputs across finance and risk workflows. Reviewers grade calculations, narrative reasoning, and policy adherence; flag compliance and reconciliation issues; and document the correct treatment so the modeling team can train on it.\n\n**Why this role matters**\n-------------------------\n\n\nFinance and risk workflows leave no room for fuzzy reasoning. AuraOne uses experienced finance\\-and\\-risk professionals to"
+    },
+    {
+      "title": "Customer Support Specialist",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=f9c49c5cc1467487",
+      "location": null,
+      "posted_date": "2026-05-26",
+      "source": "indeed",
+      "snippet": "**Join the Team at The Digi Chain Exchange**\n============================================\n\n\nAre you passionate about cryptocurrency, blockchain technology, and digital finance? The Digi Chain Exchange offers exciting career opportunities for talented and motivated individuals like you.\n\n  \n\n\n**Why Work with Us?**\n---------------------\n\n\n* **Innovative Culture:** Work on cutting\\-edge projects shaping the future of digital finance.\n* **Professional Growth:** We offer training programs and opportu"
+    },
+    {
+      "title": "Blockchain Developer",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=0fd60093b8342292",
+      "location": null,
+      "posted_date": "2026-05-26",
+      "source": "indeed",
+      "snippet": "**Join the Team at The Digi Chain Exchange**\n============================================\n\n\nAre you passionate about cryptocurrency, blockchain technology, and digital finance? The Digi Chain Exchange offers exciting career opportunities for talented and motivated individuals like you.\n\n  \n\n\n**Why Work with Us?**\n---------------------\n\n\n* **Innovative Culture:** Work on cutting\\-edge projects shaping the future of digital finance.\n* **Professional Growth:** We offer training programs and opportu"
+    },
+    {
+      "title": "Crypto Market Analyst",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=4029a20b3a2893db",
+      "location": null,
+      "posted_date": "2026-05-26",
+      "source": "indeed",
+      "snippet": "**Join the Team at The Digi Chain Exchange**\n============================================\n\n\nAre you passionate about cryptocurrency, blockchain technology, and digital finance? The Digi Chain Exchange offers exciting career opportunities for talented and motivated individuals like you.\n\n  \n\n\n**Why Work with Us?**\n---------------------\n\n\n* **Innovative Culture:** Work on cutting\\-edge projects shaping the future of digital finance.\n* **Professional Growth:** We offer training programs and opportu"
+    },
+    {
+      "title": "Datacenter Operations",
+      "company": "XTX Markets",
+      "url": "https://www.indeed.com/viewjob?jk=ec181649e366cff2",
+      "location": null,
+      "posted_date": "2026-05-20",
+      "source": "indeed",
+      "snippet": "**The Firm**\n\n\n\nXTX Markets is a leading algorithmic trading firm which uses state\\-of\\-the\\-art machine learning technology to produce price forecasts for over 50,000 financial instruments across equities, fixed income, currencies, commodities, and crypto. It uses those forecasts to trade on exchanges and alternative trading venues, and to offer differentiated liquidity directly to clients worldwide. The firm trades over $250bn a day across 35 countries and has over 250 employees based in Londo"
+    },
+    {
+      "title": "Associate, Venture Investor",
+      "company": "GALAXY",
+      "url": "https://www.indeed.com/viewjob?jk=4418bedbf80803e4",
+      "location": null,
+      "posted_date": "2026-05-05",
+      "source": "indeed",
+      "snippet": "**Who We Are:**\n\n  \n\n\nGalaxy Digital Inc. (Nasdaq: GLXY) is a global leader in digital assets and data center infrastructure, growing the economy that runs on code. Galaxy delivers the onchain infrastructure that connects institutions to digital assets, including trading, advisory, asset management, staking, self\\-custody, and tokenization. Galaxy also develops and operates data center infrastructure to power AI and HPC workloads. Anchored by its Helios campus in Texas, Galaxy is building a mult"
+    },
+    {
+      "title": "Product Manager",
+      "company": "21Shares",
+      "url": "https://www.indeed.com/viewjob?jk=699c1eaa49ccda0f",
+      "location": null,
+      "posted_date": "2026-03-10",
+      "source": "indeed",
+      "snippet": "### **About 21Shares**\n\n\n\n21Shares makes investing in digital assets as easy as buying shares using your conventional broker or bank. Investors can purchase our crypto ETPs easily, safely and securely in a regulated framework on the SIX Swiss Exchange in USD, Euros and GBP, on BX Swiss in CHF, on Boerse Stuttgart in Euros, on DB Xetra as well as Wiener Boerse ( Vienna Exchange) in Euros. We offer the most expansive suite of crypto ETPs available on regulated European exchanges.\n\n\n\nFounded in 201"
+    },
+    {
+      "title": "Associate Product Manager",
+      "company": "Talos Global",
+      "url": "https://www.indeed.com/viewjob?jk=dd8c1a197dc8bdff",
+      "location": null,
+      "posted_date": "2026-02-26",
+      "source": "indeed",
+      "snippet": "**Location**\n------------\n\n\nNew York\n\n\n**Employment Type**\n-------------------\n\n\nFull time\n\n\n**Department**\n--------------\n\n\nProduct\n\n\n**Compensation**\n----------------\n\n\n* $160K – $190K • Offers Equity • Offers Bonus\n\n**Institutional Fabric for the Digital Asset Market**\n=====================================================\n\n\nFounded in 2018, Talos provides institutional\\-grade trading technology for the global digital asset market, powering many of the major players in the crypto ecosystem. Ou"
+    },
+    {
+      "title": "Equity Research Associate - Crypto & Digital Assets",
+      "company": "Jefferies LLC",
+      "url": "https://www.indeed.com/viewjob?jk=bde28800034bd064",
+      "location": null,
+      "posted_date": "2026-02-23",
+      "source": "indeed",
+      "snippet": "The candidate will support the lead analyst in delivering comprehensive digital assets research, building detailed financial models and communicating written research recommendations to clients and salespeople.\n\n\n**Responsibilities will include:**\n\n* Producing in\\-depth written research on tokens, blockchain\\-native companies, industry trends and tokenization implications across sectors\n* Creating and maintaining detailed token, company and industry models that leverage both traditional and onch"
+    },
+    {
+      "title": "Crypto Software Instructor - Remote Job",
+      "company": "EnthuZiastic",
+      "url": "https://www.indeed.com/viewjob?jk=5baaedee7bed0c49",
+      "location": null,
+      "posted_date": "2025-10-16",
+      "source": "indeed",
+      "snippet": "### **Job Information**\n\n\n* Industry Education\n* Date Opened 10/16/2025\n* Job Type Freelance\n* Work Experience 2\\+ Years\n* Remote Job\n### **About Us**\n\n\n\\<div\\>Our mission is to bring people together and connect them into a\n community to nurture each other. We aim to share a conducive\n environment, a joyous space to grow and excel; a world brimming with\n selfless love and enough kindness. We strive to enrich each of our\n lives with kaleidoscopic memories we make here \\- vibrant, lively, of\n all"
+    },
+    {
+      "title": "Twitter Spaces Producer",
+      "company": "Coinbound",
+      "url": "https://www.indeed.com/viewjob?jk=ba272c9174679940",
+      "location": null,
+      "posted_date": "2025-03-05",
+      "source": "indeed",
+      "snippet": "Produce 2\\-4 Web3 Marketing\\-focused twitter spaces per month for leading Web3 agency\n\n\n### **About Coinbound**\n\n\nCoinbound is an agency built for today's most innovative Web3 companies. We help crypto and blockchain\\-industry companies kick their growth into overdrive through influencer marketing, PR, social media management, paid advertising, media buying, SEO, and community management. Our client list includes trusted brands such as eToro, Nexo, Gala, Tron, Litecoin, Cosmos, OKX, Sui, CoinSta"
+    },
+    {
+      "title": "Web3 Events Producer",
+      "company": "Coinbound",
+      "url": "https://www.indeed.com/viewjob?jk=827a9137297e5d83",
+      "location": null,
+      "posted_date": "2025-03-04",
+      "source": "indeed",
+      "snippet": "Hiring Web3 Event Rockstars\n\n\n### **About Coinbound**\n\n\nCoinbound is an agency built for today's most innovative Web3 companies. We help crypto and blockchain\\-industry companies kick their growth into overdrive through influencer marketing, PR, social media management, paid advertising, media buying, SEO, and community management. Our client list includes trusted brands such as eToro, Nexo, Gala, Tron, Litecoin, Cosmos, OKX, Sui, CoinStats, Immutable, Consensys, and many more.\n### **Description"
+    },
+    {
+      "title": "Machine Learning Senior Quantitative Researcher (Fully Remote)",
+      "company": "JK Barnes",
+      "url": "https://www.indeed.com/viewjob?jk=19bd5d472c47f35a",
+      "location": null,
+      "posted_date": "2024-08-05",
+      "source": "indeed",
+      "snippet": "* Chicago/New York\n* Compensation $250k – 600k total\nSuccessful Crypto HFT prop trading firm that established itself as one of the top 10 by volume in crypto markets is expanding into traditional markets. The is moving really fast into predictive alpha trading utilizing DL and ML techniques, while utilizing its top\\-notch technology and experience in latency\\-sensitive trading. What makes this opportunity unique is the chance to be at the early stages of research platform build\\-out and have tre"
+    },
+    {
+      "title": "Quant Trader | Crypto Options Market Making",
+      "company": "Selby Jennings",
+      "url": "https://www.linkedin.com/jobs/view/4464678457",
       "location": null,
       "posted_date": "2026-09-08",
-      "source": "indeed",
-      "snippet": "**Who We Are:**\n\n\n**Alpaca is a US\\-headquartered, global leader in agent\\-first brokerage infrastructure** for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.  \n\n  \n\nAmongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional\\-grade APIs. This includes broker\\-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerag"
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "DeFi Quant Trader",
+      "company": "Joseph Anthony Group",
+      "url": "https://www.linkedin.com/jobs/view/4462235749",
+      "location": null,
+      "posted_date": "2026-09-07",
+      "source": "linkedin",
+      "snippet": "nan"
     },
     {
       "title": "Senior Crypto Threat Analyst - Sanctions",
@@ -528,6 +672,51 @@
       "url": "https://www.linkedin.com/jobs/view/4449209632",
       "location": null,
       "posted_date": "2026-09-04",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Digital Assets Product Specialist",
+      "company": "Tradeweb",
+      "url": "https://www.linkedin.com/jobs/view/4454077781",
+      "location": null,
+      "posted_date": "2026-09-04",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Crypto Associate Relationship Manager - Electronic Trading",
+      "company": "DRW",
+      "url": "https://www.linkedin.com/jobs/view/4435359719",
+      "location": null,
+      "posted_date": "2026-09-04",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Specialist Solutions Architect, Crypto & Stablecoins",
+      "company": "Stripe",
+      "url": "https://www.linkedin.com/jobs/view/4454534501",
+      "location": null,
+      "posted_date": "2026-09-04",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Kinexys Digital Assets - Product Manager - Vice President",
+      "company": "JPMorganChase",
+      "url": "https://www.linkedin.com/jobs/view/4440525172",
+      "location": null,
+      "posted_date": "2026-08-25",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Senior Product Manager, Crypto Wallet",
+      "company": "Robinhood",
+      "url": "https://www.linkedin.com/jobs/view/4445058389",
+      "location": null,
+      "posted_date": "2026-08-21",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -541,13 +730,85 @@
       "snippet": "nan"
     },
     {
+      "title": "Cryptocurrency Subject Matter Expert",
+      "company": "Ruchman and Associates, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4455567543",
+      "location": null,
+      "posted_date": "2026-08-18",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Bitcoin Security Director",
+      "company": "Strategy",
+      "url": "https://www.linkedin.com/jobs/view/4452855529",
+      "location": null,
+      "posted_date": "2026-08-18",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Dark Web/Crypto Currency Analyst",
+      "company": "KACE Company",
+      "url": "https://www.linkedin.com/jobs/view/4441833647",
+      "location": null,
+      "posted_date": "2026-08-07",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
       "title": "Product Counsel, Crypto",
       "company": "Figure",
       "url": "https://www.linkedin.com/jobs/view/4410297175",
       "location": null,
-      "posted_date": "2026-08-19",
+      "posted_date": "nan",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "Product Manager, Blockchain and Crypto",
+      "company": "Mastercard",
+      "url": "https://www.linkedin.com/jobs/view/4463051323",
+      "location": null,
+      "posted_date": "nan",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Tax Director - Cryptocurrency & Digital Assets Experience Required",
+      "company": "BPM",
+      "url": "https://www.indeed.com/viewjob?jk=bd2931d6747da617",
+      "location": null,
+      "posted_date": "2026-09-09",
+      "source": "indeed",
+      "snippet": "BPM – where caring and community is in our company DNA; we are always striving to be our best selves; and we’re compelled to ask the questions that lead to innovation. As a **Tax Director within BPM's Corporate Tax practice focused on Cryptocurrency and Digital Assets**, you will help shape the future of taxation in one of the most dynamic and rapidly evolving sectors of the economy. Serving as a trusted advisor to innovative companies, funds, and investors, you will guide clients through comple"
+    },
+    {
+      "title": "Financial Analyst",
+      "company": "Binance",
+      "url": "https://www.indeed.com/viewjob?jk=ceb4b7b16a6d585e",
+      "location": null,
+      "posted_date": "2026-09-09",
+      "source": "indeed",
+      "snippet": "**About Us:**\n\nBinance is the global leader in blockchain and cryptocurrency, with over $100 trillion in cumulative trading volume. We're building the future of finance — and we need top talent to get there.\n\n**Who We're Looking For:**\n\nWe are seeking a sharp, detail\\-oriented Financial Analyst who thrives in a fast\\-paced, high\\-growth environment. You are not just a number\\-cruncher — you are a strategic thinker who can translate complex data into actionable business insights. You take ownersh"
+    },
+    {
+      "title": "Senior CPA / Accounting Lead",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=683d7f3d170289ca",
+      "location": null,
+      "posted_date": "2026-09-09",
+      "source": "indeed",
+      "snippet": "Ornate is a boutique accounting and financial services firm that helps visionary founders gain clarity, confidence, and control over their businesses. We support growing companies in medical aesthetics, healthcare, e\\-commerce, Web3, and other innovative industries. We believe accounting should be more than a compliance requirement. When done well, it is a strategic tool, helping business owners understand performance, identify opportunities, manage risk, and make better decisions. We are seekin"
+    },
+    {
+      "title": "Events Strategist",
+      "company": "OtterSec",
+      "url": "https://www.indeed.com/viewjob?jk=9204241247769b23",
+      "location": null,
+      "posted_date": "2026-09-09",
+      "source": "indeed",
+      "snippet": "OtterSec is looking for an experienced Events Strategist. In this role you will be responsible for planning, coordinating, and executing our industry and internal events. These include major conferences as well as smaller side events, meetups, and partner events. You will be the main owner of our events calendar, support the company’s brand and visibility, and design an outstanding experience.\n  \n  \n\n\\#\\# About OtterSec\n  \n  \n\nOtterSec is a blockchain security company founded in 2022\\. Built by"
     },
     {
       "title": "Senior Product Designer – Web3 & Consumer Apps",
@@ -613,15 +874,6 @@
       "snippet": "The Mission\nWe aren’t looking for a traditional corporate product designer who spends their days building basic administrative dashboards or running endless user research sprints. We need an **elite Visual \\& UI Designer** with high\\-end aesthetic judgment, dark\\-mode visual mastery, and a solid product design foundation to define the visual universe of **Pack.com**.\n\n**Pack.com is a gamified shopping platform for mystery packs and physical goods.** Your primary mission is to create a sleek, hig"
     },
     {
-      "title": "Sr. Associate, Corporate Development",
-      "company": "Offchain Labs",
-      "url": "https://www.indeed.com/viewjob?jk=a5c4e25b7d730b53",
-      "location": null,
-      "posted_date": "2026-09-03",
-      "source": "indeed",
-      "snippet": "At Offchain Labs, we aren’t just building products: we’re leading a movement.\n\nAs pioneers in blockchain scalability and security, we're at the forefront of transforming how the world interacts with decentralized applications. We're laying the foundation that will define the next generation of digital commerce, governance, and human interaction. This involves tackling real\\-world challenges that come with scaling blockchain technology, without compromising on its core principles: decentralizatio"
-    },
-    {
       "title": "Technical Lead, Blockchain & Application Development",
       "company": "eClerx",
       "url": "https://www.indeed.com/viewjob?jk=00f53c9323618fb0",
@@ -656,15 +908,6 @@
       "posted_date": "2026-09-02",
       "source": "indeed",
       "snippet": "**Job Overview**\n\nWe are seeking a passionate and dedicated Web3 Volunteer to join our innovative community\\-driven initiative. This role offers a unique opportunity to contribute to the development and promotion of decentralized technologies, blockchain applications, and digital assets within diverse communities. As a Web3 Volunteer, you will play a vital part in fostering engagement, educating others about blockchain concepts, and supporting community resource coordination. This paid volunteer"
-    },
-    {
-      "title": "Technical Writer – Blockchain & Web3",
-      "company": "Blockchain council",
-      "url": "https://www.indeed.com/viewjob?jk=f452257f0fbb6b3b",
-      "location": null,
-      "posted_date": "2026-09-01",
-      "source": "indeed",
-      "snippet": "Join Our Team\n**Shape the Future of**\n**Technology Education**\n================================================\n\n\nAt Blockchain Council, we are on a mission to educate over a million professionals worldwide in blockchain, AI, and emerging technologies. Join a passionate, remote\\-first team that values innovation, autonomy, and impact.\n\n  \n\n**145\\+**\n\n\nCountries Reached\n\n\n**100%**\n\n\nRemote\\-Friendly\n\n\n  \n**Why Work With Us**\n\n\n**Perks \\& Benefits**\n---------------------\n\n\n**Remote\\-First**\n\n\nWork"
     },
     {
       "title": "Content Marketing Manager",
@@ -748,24 +991,6 @@
       "snippet": "At Coinme, we're redefining access to financial services in a digital world. By combining the cutting\\-edge power of blockchain technology with everyday simplicity, we make digital currencies accessible and usable for all.\n\n\n\nAs the world's largest network of cryptocurrency kiosks with over 40,000 locations nationwide, we're breaking down barriers to crypto adoption through our seamless mobile app, secure digital wallet, and DeFi integrations. Beyond our consumer offerings, we're also the infras"
     },
     {
-      "title": "Technical Solutions Engineer",
-      "company": "Coinme",
-      "url": "https://www.indeed.com/viewjob?jk=1955e3f91d9d1862",
-      "location": null,
-      "posted_date": "2026-08-28",
-      "source": "indeed",
-      "snippet": "At Coinme, we're redefining access to financial services in a digital world. By combining the cutting\\-edge power of blockchain technology with everyday simplicity, we make digital currencies accessible and usable for all.\n\n\n\nAs the world's largest network of cryptocurrency kiosks with over 40,000 locations nationwide, we're breaking down barriers to crypto adoption through our seamless mobile app, secure digital wallet, and DeFi integrations. Beyond our consumer offerings, we're also the infras"
-    },
-    {
-      "title": "Technical Solutions Engineer",
-      "company": "Coinme",
-      "url": "https://www.indeed.com/viewjob?jk=669ab81f7427a2d5",
-      "location": null,
-      "posted_date": "2026-08-28",
-      "source": "indeed",
-      "snippet": "At Coinme, we're redefining access to financial services in a digital world. By combining the cutting\\-edge power of blockchain technology with everyday simplicity, we make digital currencies accessible and usable for all.\n\n\n\nAs the world's largest network of cryptocurrency kiosks with over 40,000 locations nationwide, we're breaking down barriers to crypto adoption through our seamless mobile app, secure digital wallet, and DeFi integrations. Beyond our consumer offerings, we're also the infras"
-    },
-    {
       "title": "Enterprise Digital Assets & Web3 Business Development Lead",
       "company": "CompoSecure",
       "url": "https://www.indeed.com/viewjob?jk=5ea76f9efdfd291c",
@@ -784,20 +1009,11 @@
       "snippet": "**About the Company**\n\n\n\nBorn from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting\\-edge security research, formal verification, and AI\\-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end\\-to\\-end security solutions including smart contract audits, penetration testing, on\\-chain monitoring,"
     },
     {
-      "title": "Senior Crypto Threat Analyst - Terrorism",
-      "company": "Elliptic",
-      "url": "https://www.linkedin.com/jobs/view/4449211448",
+      "title": "Lead Generation Specialist (Web3)",
+      "company": "Partnerverse",
+      "url": "https://www.linkedin.com/jobs/view/4459501213",
       "location": null,
-      "posted_date": "2026-09-04",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Senior Product Manager, Crypto Wallet",
-      "company": "Robinhood",
-      "url": "https://www.linkedin.com/jobs/view/4445058389",
-      "location": null,
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-09-01",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -811,38 +1027,83 @@
       "snippet": "nan"
     },
     {
-      "title": "Crypto Product Manager - Dragonfly Portfolio",
-      "company": "Dragonfly",
-      "url": "https://www.linkedin.com/jobs/view/4375548280",
+      "title": "OG.com - Legal Counsel - Capital and Prediction Markets",
+      "company": "CRYPTO.com",
+      "url": "https://www.indeed.com/viewjob?jk=40ba7549104c2949",
       "location": null,
-      "posted_date": "2026-02-26",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Head of Business Development",
-      "company": "BitPay",
-      "url": "https://www.indeed.com/viewjob?jk=2d7f8ab4a867baa7",
-      "location": null,
-      "posted_date": "2026-09-04",
+      "posted_date": "2026-09-09",
       "source": "indeed",
-      "snippet": "BitPay is looking for a high\\-performing **Head of Business Development** in California to drive growth and support strategic initiatives in the rapidly evolving crypto space. Reporting to our Chief Marketing Officer, this role is ideal for a proven business development leader with experience in crypto or payments, who can leverage their senior\\-level network to source and initiate enterprise partnerships and deals.\n\n\nAs part of our revenue\\-facing team, you’ll play a key role in expanding BitPa"
+      "snippet": "About Us\n\nOG.com is a fast\\-growing, CFTC\\-regulated Prediction Market platform powered by cutting\\-edge technology. We’re building an engaging marketplace where users trade on real\\-world outcomes \\- from major sports and elections to cultural and financial events. With a sleek mobile\\-first app and a passionate community, we’re redefining how people interact with news, probabilities, and financial markets. OG.com runs on the rails of North American Derivatives Exchange, Inc. (NADEX), a CFTC\\-r"
     },
     {
-      "title": "Digital Assets Product Specialist",
-      "company": "Tradeweb",
-      "url": "https://www.linkedin.com/jobs/view/4454077781",
+      "title": "OG.com - Legal Counsel - Capital and Prediction Markets",
+      "company": "CRYPTO.com",
+      "url": "https://www.indeed.com/viewjob?jk=b532cdbcac8964dc",
       "location": null,
-      "posted_date": "2026-09-04",
+      "posted_date": "2026-09-09",
+      "source": "indeed",
+      "snippet": "About Us\n\nOG.com is a fast\\-growing, CFTC\\-regulated Prediction Market platform powered by cutting\\-edge technology. We’re building an engaging marketplace where users trade on real\\-world outcomes \\- from major sports and elections to cultural and financial events. With a sleek mobile\\-first app and a passionate community, we’re redefining how people interact with news, probabilities, and financial markets. OG.com runs on the rails of North American Derivatives Exchange, Inc. (NADEX), a CFTC\\-r"
+    },
+    {
+      "title": "OG.com - Legal Counsel - Capital and Prediction Markets",
+      "company": "CRYPTO.com",
+      "url": "https://www.indeed.com/viewjob?jk=b752890bc64c2ac4",
+      "location": null,
+      "posted_date": "2026-09-09",
+      "source": "indeed",
+      "snippet": "About Us\n\nOG.com is a fast\\-growing, CFTC\\-regulated Prediction Market platform powered by cutting\\-edge technology. We’re building an engaging marketplace where users trade on real\\-world outcomes \\- from major sports and elections to cultural and financial events. With a sleek mobile\\-first app and a passionate community, we’re redefining how people interact with news, probabilities, and financial markets. OG.com runs on the rails of North American Derivatives Exchange, Inc. (NADEX), a CFTC\\-r"
+    },
+    {
+      "title": "Software Engineer (L2), Identity",
+      "company": "Twilio",
+      "url": "https://www.indeed.com/viewjob?jk=c4ced68ff9dda856",
+      "location": null,
+      "posted_date": "2026-09-09",
+      "source": "indeed",
+      "snippet": "**Who we are**\n\n\n\nAt Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n\n\n\nOur dedication to remote\\-first work, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continu"
+    },
+    {
+      "title": "crypto payments product manager",
+      "company": "Guild Mortgage Company LLC",
+      "url": "https://www.indeed.com/viewjob?jk=c48fe402c634bc35",
+      "location": null,
+      "posted_date": "2026-09-09",
+      "source": "indeed",
+      "snippet": "Job Overview  \nWe are seeking an energetic and strategic Crypto Payments Product Manager to lead the development and management of innovative cryptocurrency payment solutions. In this role, you will drive the product strategy, oversee cross\\-functional teams, and collaborate closely with stakeholders to deliver seamless, secure, and scalable crypto payment platforms. Your expertise will shape the future of digital currency transactions, ensuring our offerings meet market demands and regulatory s"
+    },
+    {
+      "title": "Summer Associate Internship (Payments AI Engineer)",
+      "company": "Navy Federal Credit Union",
+      "url": "https://www.indeed.com/viewjob?jk=f75dcf1dc15dd2c8",
+      "location": null,
+      "posted_date": "2026-09-09",
+      "source": "indeed",
+      "snippet": "The Enterprise Technology Services (ETS) Payments team is responsible for evaluating and advancing innovative technologies that can enhance payment capabilities, operational efficiency, and member experiences. The team works across strategic initiatives involving artificial intelligence (AI), digital assets, stablecoin, payment modernization, and emerging technologies to identify opportunities and develop solutions that support the future of financial services.\n\n\nThe Payments AI Engineer Summer"
+    },
+    {
+      "title": "Blockchain Intelligence Analyst",
+      "company": "TRM Labs",
+      "url": "https://www.linkedin.com/jobs/view/4077506251",
+      "location": null,
+      "posted_date": "2026-09-08",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Crypto Associate Relationship Manager - Electronic Trading",
-      "company": "DRW",
-      "url": "https://www.linkedin.com/jobs/view/4435359719",
+      "title": "Enterprise Account Executive, Crypto",
+      "company": "SentiLink",
+      "url": "https://www.linkedin.com/jobs/view/4425961646",
       "location": null,
-      "posted_date": "2026-09-04",
+      "posted_date": "2026-09-03",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Global Research - Crypto Analyst - Vice President",
+      "company": "JPMorganChase",
+      "url": "https://www.linkedin.com/jobs/view/4411414395",
+      "location": null,
+      "posted_date": "2026-09-02",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -874,6 +1135,15 @@
       "snippet": "nan"
     },
     {
+      "title": "Treasury Digital Assets Associate",
+      "company": "The Depository Trust & Clearing Corporation (DTCC)",
+      "url": "https://www.linkedin.com/jobs/view/4434751180",
+      "location": null,
+      "posted_date": "2026-09-01",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
       "title": "Crypto Wallet Operations Specialist",
       "company": "moomoo",
       "url": "https://www.linkedin.com/jobs/view/4372626591",
@@ -883,9 +1153,9 @@
       "snippet": "nan"
     },
     {
-      "title": "Head of Tokenization",
-      "company": "The Equus Group",
-      "url": "https://www.linkedin.com/jobs/view/4459365117",
+      "title": "Crypto Currency Senior Investigative Analyst",
+      "company": "XLA",
+      "url": "https://www.linkedin.com/jobs/view/4459377428",
       "location": null,
       "posted_date": "2026-08-26",
       "source": "linkedin",
@@ -910,13 +1180,13 @@
       "snippet": "nan"
     },
     {
-      "title": "Blockchain Intelligence Analyst",
-      "company": "TRM Labs",
-      "url": "https://www.linkedin.com/jobs/view/4077506251",
+      "title": "Customer Service Specialist",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=856e147ff8ad35a5",
       "location": null,
-      "posted_date": "nan",
-      "source": "linkedin",
-      "snippet": "nan"
+      "posted_date": "2026-09-03",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n**What is in it for You?**\n\n* Paid Training\n* Up to four"
     },
     {
       "title": "Customer Service Specialist",
@@ -943,7 +1213,7 @@
       "location": null,
       "posted_date": "2026-09-03",
       "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n**What is in it for You?**\n\n* Paid Training\n* Up to four"
+      "snippet": "About defi SOLUTIONS:  \n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.  \n\n\nWhat is in it for You?  \n\n\nPaid Training  \nUp to four we"
     },
     {
       "title": "Customer Service Specialist",
@@ -1092,15 +1362,6 @@
     {
       "title": "Customer Service Specialist",
       "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=856e147ff8ad35a5",
-      "location": null,
-      "posted_date": "2026-09-03",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n**What is in it for You?**\n\n* Paid Training\n* Up to four"
-    },
-    {
-      "title": "Customer Service Specialist",
-      "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=b7c0f52a23590827",
       "location": null,
       "posted_date": "2026-09-03",
@@ -1173,6 +1434,15 @@
     {
       "title": "Revenue Planning & Intelligence",
       "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=7fa7a4f51928590a",
+      "location": null,
+      "posted_date": "2026-08-27",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
+    },
+    {
+      "title": "Revenue Planning & Intelligence",
+      "company": "defi SOLUTIONS",
       "url": "https://www.indeed.com/viewjob?jk=fd61e31a2bbc978f",
       "location": null,
       "posted_date": "2026-08-27",
@@ -1225,58 +1495,58 @@
       "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
     },
     {
-      "title": "Revenue Planning & Intelligence",
+      "title": "ITSM Specialist",
       "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=fc81fbb66c7f5950",
+      "url": "https://www.indeed.com/viewjob?jk=2c4f4aed96788d49",
       "location": null,
-      "posted_date": "2026-08-27",
+      "posted_date": "2026-08-21",
       "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
+      "snippet": "**It’s an exciting time to join defi!!**\ndefi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to allow lenders to focus and transform their operations. The company’s comprehensive suite of originations, servicing, and analytics solutions together with technology\\-enabled processing services creates a flexible, configurable, and scalable platform that addresses lenders and borrowers ever\\-evolving needs. **Job Overview: ITSM Specialist**\nThe IT"
     },
     {
-      "title": "Revenue Planning & Intelligence",
+      "title": "Cash Management Manager",
       "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=5394c1d352e1add0",
+      "url": "https://www.indeed.com/viewjob?jk=c43cb8258390d43c",
       "location": null,
-      "posted_date": "2026-08-27",
+      "posted_date": "2026-08-20",
       "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to allow lenders to focus and transform their operations. The company’s comprehensive suite of originations, servicing, and analytics solutions together with technology\\-enabled processing services creates a flexible, configurable, and scalable platform that addresses lenders and borrowers ever\\-evolving needs. defi SOLUTIONS c"
     },
     {
-      "title": "Revenue Planning & Intelligence",
+      "title": "Title Specialist - Onsite",
       "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=b09032c6f010eb58",
+      "url": "https://www.indeed.com/viewjob?jk=569cb1b29a7e6ef4",
       "location": null,
-      "posted_date": "2026-08-27",
+      "posted_date": "2026-08-20",
       "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
+      "snippet": "**\\*\\*This position will be location ONSITE at 6400 Main St., Amherst, NY 14221\\*\\***  \n\n**About defi SOLUTIONS:** defi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to allow lenders to focus and transform their operations. The company's comprehensive suite of originations, servicing, and analytics solutions, together with technology\\-enabled processing services, creates a flexible, configurable, and scalable platform that addresses lenders'"
     },
     {
-      "title": "Revenue Planning & Intelligence",
+      "title": "Titles Specialist - Call Team - Hybrid",
       "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=b487deec7a51abae",
+      "url": "https://www.indeed.com/viewjob?jk=fc47138c0b6d7f32",
       "location": null,
-      "posted_date": "2026-08-27",
+      "posted_date": "2026-08-20",
       "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
+      "snippet": "**About defi SOLUTIONS:** defi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to allow lenders to focus and transform their operations. The company's comprehensive suite of originations, servicing, and analytics solutions, together with technology\\-enabled processing services, creates a flexible, configurable, and scalable platform that addresses lenders' and borrowers' ever\\-evolving needs. defi SOLUTIONS combines the expertise of defi SOLUT"
     },
     {
-      "title": "Revenue Planning & Intelligence",
+      "title": "Senior Client Executive",
       "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=36626bb913bef527",
+      "url": "https://www.indeed.com/viewjob?jk=53c69bf289ba6d11",
       "location": null,
-      "posted_date": "2026-08-27",
+      "posted_date": "2025-08-08",
       "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
+      "snippet": "**About defi SOLUTIONS:**  \n\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS partners with captives, banks, credit unions, and finance companies of all types and sizes to allow lenders to focus and transform their operations. The company’s comprehensive suite of originations, servicing, and managed servicing solutions together with technology\\-enabled processing services creates a flexible, configurable, and scalable platform that addresses lenders and borrowers ever\\-evolving needs. defi"
     },
     {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=8d6eb4ee560a2835",
+      "title": "Head of Blockchain Security",
+      "company": "CoinDesk",
+      "url": "https://www.linkedin.com/jobs/view/4465032377",
       "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
+      "posted_date": "2026-09-09",
+      "source": "linkedin",
+      "snippet": "nan"
     },
     {
       "title": "Crypto Intelligence Engineer (Full Stack)",
@@ -1297,42 +1567,6 @@
       "snippet": "nan"
     },
     {
-      "title": "FinTech / Blockchain /Crypto Business Development Specialist",
-      "company": "Financial Technology Partners / FT Partners",
-      "url": "https://www.linkedin.com/jobs/view/4418799213",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "DeFi Business Development Associate",
-      "company": "TechChain Talent",
-      "url": "https://www.linkedin.com/jobs/view/4455449456",
-      "location": null,
-      "posted_date": "2026-08-19",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Cryptocurrency Subject Matter Expert (SME)",
-      "company": "Ruchman and Associates, Inc.",
-      "url": "https://www.linkedin.com/jobs/view/4426592950",
-      "location": null,
-      "posted_date": "2026-06-10",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Head of Blockchain Security",
-      "company": "CoinDesk",
-      "url": "https://www.linkedin.com/jobs/view/4465032377",
-      "location": null,
-      "posted_date": "nan",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Director, Digital Assets",
       "company": "BlackRock",
       "url": "https://www.linkedin.com/jobs/view/4387849321",
@@ -1342,11 +1576,11 @@
       "snippet": "nan"
     },
     {
-      "title": "Digital Assets Manager",
-      "company": "Accenture",
-      "url": "https://www.linkedin.com/jobs/view/4462366733",
+      "title": "Digital Assets Crypto/Blockchain Senior Associate",
+      "company": "PwC",
+      "url": "https://www.linkedin.com/jobs/view/4462446173",
       "location": null,
-      "posted_date": "2026-09-05",
+      "posted_date": "2026-09-02",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1360,45 +1594,9 @@
       "snippet": "nan"
     },
     {
-      "title": "Product Owner with Digital Assets Blockchain",
-      "company": "Smart IT Frame LLC",
-      "url": "https://www.linkedin.com/jobs/view/4461330887",
-      "location": null,
-      "posted_date": "2026-09-02",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Treasury Digital Assets Associate",
-      "company": "The Depository Trust & Clearing Corporation (DTCC)",
-      "url": "https://www.linkedin.com/jobs/view/4434751180",
-      "location": null,
-      "posted_date": "2026-09-01",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Senior Innovation Strategist, Tokenization",
-      "company": "Vanguard",
-      "url": "https://www.linkedin.com/jobs/view/4459388208",
-      "location": null,
-      "posted_date": "2026-09-01",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Digital Assets Program Management, Associate Director",
       "company": "The Depository Trust & Clearing Corporation (DTCC)",
       "url": "https://www.linkedin.com/jobs/view/4450746405",
-      "location": null,
-      "posted_date": "2026-08-29",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Manager, Digital Assets Business Strategy",
-      "company": "Charles Schwab",
-      "url": "https://www.linkedin.com/jobs/view/4458816121",
       "location": null,
       "posted_date": "2026-08-29",
       "source": "linkedin",
@@ -1410,6 +1608,15 @@
       "url": "https://www.linkedin.com/jobs/view/4441281360",
       "location": null,
       "posted_date": "2026-08-28",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Senior Release Train Engineer VP – Digital Assets",
+      "company": "Barclays",
+      "url": "https://www.linkedin.com/jobs/view/4458013721",
+      "location": null,
+      "posted_date": "2026-08-27",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1432,38 +1639,20 @@
       "snippet": "nan"
     },
     {
-      "title": "Americas Product Director, Digital Assets",
-      "company": "Invesco",
-      "url": "https://www.linkedin.com/jobs/view/4379994040",
+      "title": "Senior Staff Software Engineer - Blockchain Platform",
+      "company": "Coinbase",
+      "url": "https://www.linkedin.com/jobs/view/4430155435",
       "location": null,
-      "posted_date": "2026-08-25",
+      "posted_date": "2026-08-22",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Kinexys Digital Assets - Product Manager - Vice President",
-      "company": "JPMorganChase",
-      "url": "https://www.linkedin.com/jobs/view/4440525172",
+      "title": "Lead Product Manager, Tokenization",
+      "company": "CoinDesk",
+      "url": "https://www.linkedin.com/jobs/view/4415283468",
       "location": null,
-      "posted_date": "2026-08-25",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Full Stack Architect, Digital Assets & Tokenization",
-      "company": "TD",
-      "url": "https://www.linkedin.com/jobs/view/4456759808",
-      "location": null,
-      "posted_date": "2026-08-20",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Director, Digital Assets Product Manager",
-      "company": "Selby Jennings",
-      "url": "https://www.linkedin.com/jobs/view/4456326072",
-      "location": null,
-      "posted_date": "2026-08-19",
+      "posted_date": "2026-08-22",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1486,6 +1675,33 @@
       "snippet": "nan"
     },
     {
+      "title": "Senior Technology Architect - Hybrid Infrastructure & Cloud",
+      "company": "The Clearing House Payments Company",
+      "url": "https://www.indeed.com/viewjob?jk=382c90c4d8fc31d2",
+      "location": null,
+      "posted_date": "2026-09-09",
+      "source": "indeed",
+      "snippet": "**Position Summary:** The Senior Technology Architect will provide technical and architectural leadership across a complex enterprise environment spanning on\\-premises infrastructure and AWS cloud services. The role will define technology direction, evaluate solutions, guide modernization and cloud adoption, and ensure architectures meet requirements for security, resiliency, scalability, performance, and operational supportability. Preference will be given to candidates with experience in the f"
+    },
+    {
+      "title": "Markets Digital Assets - Executive Director",
+      "company": "JPMorganChase",
+      "url": "https://www.indeed.com/viewjob?jk=89ebf5985727b9e7",
+      "location": null,
+      "posted_date": "2026-09-09",
+      "source": "indeed",
+      "snippet": "**JOB DESCRIPTION**  \n\n  \n\n  \n\nJoin the Markets Digital Assets team within CIB Digital Markets, where you will focus on leveraging blockchain technology to build innovative financial products for JPM's global client franchise. You will help develop and operate proprietary blockchain applications across private permissioned and public blockchains, launch cutting\\-edge products, and help grow wallet share in a fast\\-expanding client segment. This is an entrepreneurial, trading\\-floor role which re"
+    },
+    {
+      "title": "Bitcoin Security Engineer",
+      "company": "Strategy Inc",
+      "url": "https://www.indeed.com/viewjob?jk=17f1c9dbc5ce8e7d",
+      "location": null,
+      "posted_date": "2026-09-09",
+      "source": "indeed",
+      "snippet": "**Company Description** **Strategy (Nasdaq: MSTR)** is at the forefront of transforming organizations into intelligent enterprises through data\\-driven innovation. We don't just follow trends—we set them and drive change. As a market leader in enterprise analytics and AI software, we've pioneered the BI and analytics space, empowering people to make better decisions and revolutionizing how businesses operate. We are now also at the forefront of AI disruption, providing data via our enterprise se"
+    },
+    {
       "title": "Senior AI Engineer",
       "company": "Leidos",
       "url": "https://www.indeed.com/viewjob?jk=5203d9af586041a3",
@@ -1504,45 +1720,18 @@
       "snippet": "***Join Tether and Shape the Future of Digital Finance***\n\n\nAt Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting\\-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve\\-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cos"
     },
     {
-      "title": "Tokenization Product, Senior Associate",
+      "title": "Product Manager - Digital Collateral and Tokenization - Vice President",
       "company": "JPMorganChase",
-      "url": "https://www.indeed.com/viewjob?jk=88d86015ebd52dee",
+      "url": "https://www.linkedin.com/jobs/view/4437735011",
       "location": null,
-      "posted_date": "2026-09-07",
-      "source": "indeed",
-      "snippet": "**JOB DESCRIPTION**  \n\n  \n\n  \n\nThe Payments organization is a motivated, forward\\-thinking team comprised of high talent product managers with a singular focus of delivering innovative payment services via the most important platforms of today and tomorrow. We seek to transform customer experiences, simplify the ways we do business, and aim for product excellence. We value controls, simplicity, and consistency in the capabilities and features we deliver.\n\n\nAs a Senior Product Associate in Connec"
-    },
-    {
-      "title": "Head of Enterprise Digital Assets & Tokenization",
-      "company": "S&P Global",
-      "url": "https://www.indeed.com/viewjob?jk=274f459e7ce89d09",
-      "location": null,
-      "posted_date": "2026-09-07",
-      "source": "indeed",
-      "snippet": "**Head of Enterprise Digital Assets \\& Tokenization**\n=====================================================\n\n\nJOB\\_DESCRIPTION.SHARE.HTML\nCAROUSEL\\_PARAGRAPH\n\n\nJOB\\_DESCRIPTION.SHARE.HTML\n* New York, New York\n* Product Management \\& Development Group\n* 331697\n**Job Description**\n-------------------\n\n  \n\n  \n\n**About the Role:**\n===================\n\n\n**Grade Level (for internal use):**\n\n\n14\n**The Team**\n\n\nThe **Head of Enterprise Digital Assets \\& Tokenization** leads S\\&P Global's central Digital"
-    },
-    {
-      "title": "Sales Engineer - Partnerships",
-      "company": "Prove",
-      "url": "https://www.indeed.com/viewjob?jk=a9e20d483f2c716a",
-      "location": null,
-      "posted_date": "2026-09-04",
-      "source": "indeed",
-      "snippet": "United States (Remote)\n**About Prove**\n===============\n\n\nAs the world moves to a mobile\\-first economy, businesses need to modernize how they acquire, engage with and enable consumers. Prove’s phone\\-centric identity tokenization and passive cryptographic authentication solutions reduce friction, enhance security and privacy across all digital channels, and accelerate revenues while reducing operating expenses and fraud losses. Over 1,000 enterprise customers use Prove’s platform to process 20 b"
-    },
-    {
-      "title": "AIML Data Engineer",
-      "company": "Apple",
-      "url": "https://www.indeed.com/viewjob?jk=c2202fe7bc60ddee",
-      "location": null,
-      "posted_date": "2026-09-01",
-      "source": "indeed",
-      "snippet": "Are you passionate about building the data infrastructure that powers AI\\-driven customer experience measurement \\- and using that data to uncover the \"why\" behind the numbers? The AppleCare Customer Insights (ACCI) team is redefining how Apple measures and improves generative support experiences. Our AIML initiatives use large language models to evaluate support conversations across multiple quality dimensions, providing real\\-time signal to leadership on how our AI\\-powered support is performi"
+      "posted_date": "2026-09-09",
+      "source": "linkedin",
+      "snippet": "nan"
     },
     {
       "title": "Fund Connect Digital Assets and Tokenization Product Lead, Vice President",
       "company": "State Street",
-      "url": "https://www.linkedin.com/jobs/view/4462867635",
+      "url": "https://www.linkedin.com/jobs/view/4462870638",
       "location": null,
       "posted_date": "2026-09-03",
       "source": "linkedin",
@@ -1551,81 +1740,45 @@
     {
       "title": "Fund Connect Digital Assets and Tokenization Product Lead, Vice President",
       "company": "State Street",
-      "url": "https://www.linkedin.com/jobs/view/4462864703",
+      "url": "https://www.linkedin.com/jobs/view/4462863691",
       "location": null,
       "posted_date": "2026-09-03",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Digital Assets Crypto/Blockchain Senior Associate",
-      "company": "PwC",
-      "url": "https://www.linkedin.com/jobs/view/4462449129",
+      "title": "Lead Product Manager, Tokenization",
+      "company": "Bullish",
+      "url": "https://www.linkedin.com/jobs/view/4425947308",
       "location": null,
       "posted_date": "2026-09-02",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Digital Assets Crypto/Blockchain Senior Manager",
-      "company": "PwC",
-      "url": "https://www.linkedin.com/jobs/view/4462450138",
+      "title": "Product Manager, Digital Assets — Tokenization",
+      "company": "Nasdaq",
+      "url": "https://www.linkedin.com/jobs/view/4374162121",
       "location": null,
-      "posted_date": "2026-09-02",
+      "posted_date": "2026-08-30",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Digital Assets Crypto/Blockchain Manager",
-      "company": "PwC",
-      "url": "https://www.linkedin.com/jobs/view/4462440482",
-      "location": null,
-      "posted_date": "2026-09-02",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Digital Assets Crypto/Blockchain Senior Associate",
-      "company": "PwC",
-      "url": "https://www.linkedin.com/jobs/view/4462432828",
-      "location": null,
-      "posted_date": "2026-09-02",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Managing Consultant – Digital Assets Strategy & Transformation",
-      "company": "Guidehouse",
-      "url": "https://www.linkedin.com/jobs/view/4440848600",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Head of Digital Assets Operations Enablement",
-      "company": "Citi",
-      "url": "https://www.linkedin.com/jobs/view/4458313412",
-      "location": null,
-      "posted_date": "2026-08-26",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Vice President, DeFi Product Manager",
-      "company": "Fidelity Investments",
-      "url": "https://www.linkedin.com/jobs/view/4365528948",
-      "location": null,
-      "posted_date": "2026-08-26",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Specialist Solutions Architect, Crypto & Stablecoins",
-      "company": "Stripe",
-      "url": "https://www.linkedin.com/jobs/view/4457003847",
+      "title": "Full Stack Architect, Digital Assets & Tokenization",
+      "company": "TD",
+      "url": "https://www.linkedin.com/jobs/view/4456759808",
       "location": null,
       "posted_date": "2026-08-20",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Sr Technical Program Manager, Treasury Digital Assets",
+      "company": "Visa",
+      "url": "https://www.linkedin.com/jobs/view/4427104964",
+      "location": null,
+      "posted_date": "2026-07-14",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1637,7 +1790,16 @@
       "posted_date": "2026-07-13",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "Markets Digital Assets - Executive Director",
+      "company": "JPMorganChase",
+      "url": "https://www.linkedin.com/jobs/view/4465377986",
+      "location": null,
+      "posted_date": "nan",
+      "source": "linkedin",
+      "snippet": "nan"
     }
   ],
-  "count": 182
+  "count": 200
 }
