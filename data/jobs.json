@@ -57,18 +57,18 @@
     {
       "title": "Associate General Counsel, Crypto Services",
       "company": "Fireblocks",
-      "url": "https://www.fireblocks.com/careers/position?gh_jid=4686667006",
-      "location": "United States",
-      "posted_date": "2026-09-08T14:18:15-04:00",
+      "url": "https://www.fireblocks.com/careers/position?gh_jid=4658959006",
+      "location": "Washington, District of Columbia, United States",
+      "posted_date": "2026-09-10T17:10:04-04:00",
       "source": "greenhouse",
       "snippet": null
     },
     {
       "title": "Associate General Counsel, Crypto Services",
       "company": "Fireblocks",
-      "url": "https://www.fireblocks.com/careers/position?gh_jid=4658959006",
-      "location": "Washington, District of Columbia, United States",
-      "posted_date": "2026-09-10T17:10:04-04:00",
+      "url": "https://www.fireblocks.com/careers/position?gh_jid=4686667006",
+      "location": "United States",
+      "posted_date": "2026-09-08T14:18:15-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -228,15 +228,6 @@
     {
       "title": "Software Engineer, Tokenization",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8189005?t=gh_src=&gh_jid=8189005",
-      "location": "Menlo Park, CA; New York, NY",
-      "posted_date": "2026-09-11T03:03:06-04:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
-      "title": "Software Engineer, Tokenization",
-      "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8189007?t=gh_src=&gh_jid=8189007",
       "location": "Toronto, Canada",
       "posted_date": "2026-09-11T03:03:06-04:00",
@@ -244,11 +235,11 @@
       "snippet": null
     },
     {
-      "title": "Staff Software Engineer, Web3",
+      "title": "Software Engineer, Tokenization",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952",
-      "location": "Toronto, Canada",
-      "posted_date": "2026-09-10T11:17:36-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8189005?t=gh_src=&gh_jid=8189005",
+      "location": "Menlo Park, CA; New York, NY",
+      "posted_date": "2026-09-11T03:03:06-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -257,6 +248,15 @@
       "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950",
       "location": "Menlo Park, CA; New York, NY",
+      "posted_date": "2026-09-10T11:17:36-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
+      "title": "Staff Software Engineer, Web3",
+      "company": "Robinhood",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952",
+      "location": "Toronto, Canada",
       "posted_date": "2026-09-10T11:17:36-04:00",
       "source": "greenhouse",
       "snippet": null
@@ -280,6 +280,105 @@
       "snippet": null
     },
     {
+      "title": "Crypto Infrastructure & Site Development Project Manager",
+      "company": "kentino s.r.o",
+      "url": "https://www.indeed.com/viewjob?jk=c8378962c5ff4f7f",
+      "location": null,
+      "posted_date": "2026-09-16",
+      "source": "indeed",
+      "snippet": "Overview  \nWe are seeking a dynamic and highly skilled Crypto Infrastructure \\& Site Development Project Manager to lead the planning, execution, and delivery of complex infrastructure projects within the cryptocurrency and blockchain space. This role offers an exciting opportunity to oversee the development of cutting\\-edge crypto facilities, ensuring seamless integration of technical infrastructure with site development activities. The ideal candidate will possess a strong background in constr"
+    },
+    {
+      "title": "Blockchain Software Engineer",
+      "company": "Craftner INC",
+      "url": "https://www.indeed.com/viewjob?jk=bbb5ab2d33db49bb",
+      "location": null,
+      "posted_date": "2026-09-16",
+      "source": "indeed",
+      "snippet": "###### **Charlotte, NC \\| Contract To Hire**\n\n\n#### **Preferred Skills**\n\n\nBlockchain  \n\n  \n\n  \n\n  \n\n  \n\n#### **Job Description**\n\n\n**Duties and Responsibilities:**\n\n\n* Design, develop and implement blockchain capabilities\n* Design new methods for implementing blockchain technology for our clients\n* Incorporate usage of digital tokens and smart contract\n* Execute research and development activities for new blockchain deliverables\n\n\n**Requirements:**\n\n\n* Bachelor’s in Computer Science, Informatio"
+    },
+    {
+      "title": "Smart Contract Developer",
+      "company": "Robinhood Markets",
+      "url": "https://www.indeed.com/viewjob?jk=b81c1bb6dac9e2db",
+      "location": null,
+      "posted_date": "2026-09-16",
+      "source": "indeed",
+      "snippet": "Smart Contract DeveloperBuild the on\\-chain layer of modern financial products\n\nRobinhood builds technology that gives users access to investing and trading through a unified digital experience. Across its products, customers can interact with stocks, ETFs, options, crypto, futures, portfolio tools, market data, and other financial services.\n\nAs blockchain becomes a larger part of modern financial infrastructure, we’re looking for a **Smart Contract Developer** to work on secure, production\\-gra"
+    },
+    {
+      "title": "EC Senior Business Analyst - Digital Assets",
+      "company": "Western Alliance Bank",
+      "url": "https://www.indeed.com/viewjob?jk=ada8cf85bdccb3a4",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**Job Title:**\n\n\nEC Senior Business Analyst \\- Digital Assets**Location:**\n\n\nCityScape**What you'll do:**\n\n\nThe Senior Business Analyst \\- Digital Assets serves as a key contributor to the Bank's digital asset strategy, supporting the development, implementation, and continuous enhancement of digital asset products and services. This role partners closely with Product Management, Operations, Technology, Compliance, Risk, and external vendors to translate business objectives into detailed require"
+    },
+    {
+      "title": "Consumer & Community Bank Digital Assets and Blockchain Solutions, Strategy & Partnerships Associate",
+      "company": "JPMorganChase",
+      "url": "https://www.indeed.com/viewjob?jk=df7e9991b484ed0b",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**JOB DESCRIPTION**  \n\n  \n\n  \n\nThe Chase Digital Assets and Blockchain Solutions team is responsible for delivering next generation banking solutions to Chase customers. Since the organization is new, you will have a chance to help shape the vision, execute the strategy and wear many hats. The team has three primary functions, 1\\) working with the lines of business on digital asset strategy, 2\\) building connections to the external ecosystem of startups and established companies in the crypto ec"
+    },
+    {
+      "title": "Blockchain Developer",
+      "company": "BV Teck",
+      "url": "https://www.indeed.com/viewjob?jk=788fc3c0ac9b4619",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**Blockchain Developer – Remote**  \n\n  \n\n**Bright Vision Technologies** is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.  \n\n  \n\nThis is a fantastic opportunity to join an established and well\\-respected organization offering tremendous career growth potential.  \n\n  \n\n**Job Title:** Blockchain Developer  \n\n**Location:** 100% Remote (U.S.)  \n\n**Position Type:** Full\\-time, Direct W2  \n\n**Salary Range:** $140,"
+    },
+    {
+      "title": "Director - Digital Assets Technology Incubation (PL)",
+      "company": "Charles Schwab",
+      "url": "https://www.indeed.com/viewjob?jk=8488e0121593e629",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "San Francisco, CA ; Austin, TX ; Southlake, TX ; Ann Arbor, MI ; Chicago, IL\n**Requisition ID** 2026\\-126836 **Category** Engineering \\& Software Development **Position type** Regular **Pay range** USD $255,000\\.00 \\- $325,000\\.00 / Year **Application deadline** 2026\\-09\\-29\n  \n**Your opportunity**\n--------------------\n\n  \n\nAt Schwab, you’re empowered to make an impact on your career. Here, innovative thought meets creative problem solving, helping us “challenge the status quo” and transform the"
+    },
+    {
+      "title": "Data Analyst / Chief of Staff",
+      "company": "Inca Digital",
+      "url": "https://www.indeed.com/viewjob?jk=51f80269c2ecc29b",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About Us:** Inca Digital is a veteran\\-owned data and intelligence company specializing in digital\\-asset analytics for exchanges, financial institutions, regulators, and government partners. By fusing data across blockchains, exchanges, social networks, and traditional markets, our platforms deliver market surveillance, ecosystem monitoring, and counter–illicit finance intelligence to help clients identify risk and solve complex global challenges. We bring together top\\-tier intelligence anal"
+    },
+    {
+      "title": "Blockchain Engineer",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=73978870e50dc854",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "Blockchain Engineer sought by Infinity Stones Inc. (DBA: InfStones) in Plano, TX. Duties include: Design and develop a high\\-performance backend software system for cross\\-chain data collection, processing, and analysis, ensuring scalability and reliability. Conduct independent research to identify, analyze, and implement software solutions for cross\\-chain data challenges. Collaborate with team members to deliver effective, efficient backend software systems that meet specific business and tech"
+    },
+    {
+      "title": "Systems Administrator - Government Deployments (Maryland)",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=6e60c399910cc52f",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**Location:** Maryland (On\\-site)\n\n**Clearance Requirement:** Active TS/SCI with Full\\-Scope Polygraph\n\n**About Chainalysis Government Solutions**\n\n\nChainalysis Government Solutions (CGS) is a wholly\\-owned Chainalysis subsidiary that provides blockchain intelligence solutions, including technology, training, and services to law enforcement, defense, intelligence, and regulatory customers across the U.S. Government.\n\n\nBlockchain technology is powering a growing wave of innovation. Businesses and"
+    },
+    {
+      "title": "Operations | Trading Operations Analyst | New-York",
+      "company": "Flowdesk",
+      "url": "https://www.indeed.com/viewjob?jk=a33c109ba4bd0bdb",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "At Flowdesk, we are building the infrastructure powering the next era of global finance. As a full\\-service digital asset trading and technology firm, we provide liquidity solutions, OTC trading, and market infrastructure that connect digital assets to global markets with institutional\\-grade precision, transparency, and scale. Flowdesk combines expertise from traditional finance, algorithmic trading, and blockchain technology to deliver always\\-on trading capabilities across the digital asset e"
+    },
+    {
       "title": "Senior Material Handling Associate",
       "company": "General Dynamics Mission Systems",
       "url": "https://www.indeed.com/viewjob?jk=db44a03b16b6117a",
@@ -287,6 +386,15 @@
       "posted_date": "2026-09-14",
       "source": "indeed",
       "snippet": "Basic Qualifications :\n\nHigh School Diploma or equivalent is required plus a minimum of 2 years of related experience\n\n **CLEARANCE REQUIREMENTS:**  \n\nApplicants selected may be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.\nResponsibilities for this Position:\n\nThe responsibility is career\\-defining. So is the opportunity. At G"
+    },
+    {
+      "title": "Staff Software Engineer - Curated Data",
+      "company": "dune",
+      "url": "https://www.indeed.com/viewjob?jk=bdf1f49ae2e28659",
+      "location": null,
+      "posted_date": "2026-09-14",
+      "source": "indeed",
+      "snippet": "**About Dune**\n\n\nDune's mission is to make onchain finance observable. We're the industry standard for onchain data: a blockchain data and intelligence provider that institutions, protocols, and analysts trust to understand the onchain world and the frontiers of finance. We deliver structured datasets, spanning stablecoins, RWAs, tokens, lending, trading, and more, from 130\\+ chains and counting, to 1,000\\+ industry leaders including Visa, WisdomTree, FINRA, the IMF, Bloomberg, Standard Chartere"
     },
     {
       "title": "Senior Data Scientist",
@@ -316,135 +424,18 @@
       "snippet": "At Broadridge, we've built a culture where the highest goal is to empower others to accomplish more. If you’re passionate about developing your career, while helping others along the way, come join the Broadridge team.\n\n\nBroadridge is seeking a strategic, commercially minded, and execution\\-oriented VP, Product Management – Digital Assets Proxy to lead the strategy, development, delivery and ongoing management of Broadridge’s Digital Assets Proxy capabilities. This highly visible leadership role"
     },
     {
-      "title": "Principal Cryptography Engineer – Blockchain Specialist",
-      "company": "MITRE",
-      "url": "https://www.indeed.com/viewjob?jk=6d1f21e443ee3084",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "At MITRE, your passion fuels work that impacts our nation and improves lives. This is where your skills strengthen national security, cybersecurity, health, transportation, and citizen services. We’re a nonprofit engineering, applied research, and advanced technology organization working in the public interest. With objectivity and integrity at our core, we lead federally funded research and development centers for U.S. government agencies – collaborating with industry and academia to deliver in"
-    },
-    {
-      "title": "Global Financial Crimes Digital Assets Sanctions Screening Director (AVP)",
-      "company": "Morgan Stanley",
-      "url": "https://www.indeed.com/viewjob?jk=563d360a0e64e9c2",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "We're seeking someone to join our team as a Director in Global Financial Crimes (GFC) Sanctions Screening Controls Team.\n  \n\n  \n\nIn the Legal \\& Compliance division, we assist the Firm in achieving its business objectives by facilitating and overseeing the Firm's management of legal, regulatory and franchise risk. This is a Director level position within the Global Financial Crimes Sanctions Screening Controls team which is responsible for the design, implementation, and ongoing governance of th"
-    },
-    {
-      "title": "Senior Product Manager",
-      "company": "Helius",
-      "url": "https://www.indeed.com/viewjob?jk=925de2898185682f",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**About Helius**\n================\n\n\nHelius is building the core infrastructure for Solana \\- empowering developers to create the next generation of crypto\\-powered applications. Our mission is to accelerate the development of internet capital markets by making it easier, faster, and more intuitive to build on\\-chain.\n\n\nThousands of teams \\- from early\\-stage startups to industry leaders like Coinbase, Phantom, and Jupiter \\- rely on Helius APIs, webhooks, and indexing tools to power their produc"
-    },
-    {
-      "title": "Director of AML & Virtual Asset Compliance",
-      "company": "CertiK",
-      "url": "https://www.indeed.com/viewjob?jk=d02cf07151d73ecb",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**About the Company**\nBorn from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting\\-edge security research, formal verification, and AI\\-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end\\-to\\-end security solutions including smart contract audits, penetration testing, on\\-chain monitoring, in"
-    },
-    {
-      "title": "Technology Operational Risk Management Lead (Blockchain / Cryptocurrency) - Vice President",
-      "company": "JPMorganChase",
-      "url": "https://www.indeed.com/viewjob?jk=5a554a697a83f7bf",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**JOB DESCRIPTION**  \n\n  \n\n  \n\nBring your expertise to JPMorgan Chase. As part of Risk Management and Compliance, you are at the center of keeping JPMorgan Chase strong and resilient. You help the firm grow its business in a responsible way by anticipating new and emerging risks, and using your expert judgement to solve real\\-world challenges that impact our company, customers and communities. Our culture in Risk Management and Compliance is all about thinking outside the box, challenging the st"
-    },
-    {
-      "title": "USAT Institutional Associate",
-      "company": "Tether Operations Limited",
-      "url": "https://www.indeed.com/viewjob?jk=2fed37bcb552dca6",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "***Join Tether and Shape the Future of Digital Finance***\n\n\nAt Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting\\-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve\\-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cos"
-    },
-    {
-      "title": "USAT Institutional Associate",
-      "company": "Tether Operations Limited",
-      "url": "https://www.indeed.com/viewjob?jk=705120c3f90871e7",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "***Join Tether and Shape the Future of Digital Finance***\n\n\nAt Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting\\-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve\\-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cos"
-    },
-    {
-      "title": "Business Execution Manager- Digital Assets and Core Services",
-      "company": "Wells Fargo",
-      "url": "https://www.indeed.com/viewjob?jk=8eb61874dd0cf99b",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**About this role:**\n\n\nWells Fargo is seeking a Business Execution Manager to be part of our Product and Strategic Delivery Team (Change Management) within Corporate Investment Banking (CIB) Operations.\n\n\nThis role will provide senior operational leadership and governance for the Core Services, Payments, Digital Assets Product and Strategy teams – ensuring delivery of business growth, operational risk, and automation objectives. This manager will serve as the primary coach and subject matter exp"
-    },
-    {
-      "title": "Senior Infrastructure Engineer, Core Systems",
-      "company": "QuickNode",
-      "url": "https://www.indeed.com/viewjob?jk=44dbc0a1e62ab6b6",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "Quicknode is a cloud\\-based infrastructure company that powers the blockchain ecosystem.\n\n\nOur mission is to be the indispensable utility that empowers companies and innovators globally to build next\\-generation, Web3 enabled businesses \\& applications using blockchain technology. Quicknode is backed by some of the world's best investors including Tiger Global, Y Combinator, SoftBank, and the Seven Seven Six Fund. The Quicknode team has over 110 people maintaining high performance global data in"
-    },
-    {
-      "title": "Lead Compliance Officer - Digital Assets and Cryptocurrency Compliance",
-      "company": "Wells Fargo",
-      "url": "https://www.indeed.com/viewjob?jk=b5374f3d0411ef6f",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**About this role:**\n\n\nWells Fargo is seeking a **Lead Compliance Officer** to join the Broker Dealer Operations Compliance team. This role provides compliance oversight and risk management support across both Wealth \\& Investment Management (WIM) and Corporate \\& Investment Banking (CIB) Operations. The position will serve as a key compliance partner supporting operational processes, regulatory change management, monitoring activities, and business initiatives involving traditional and emerging"
-    },
-    {
-      "title": "Global Payments Product Control - Associate",
-      "company": "JPMorganChase",
-      "url": "https://www.indeed.com/viewjob?jk=dbfe7fb9f8201d48",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**JOB DESCRIPTION**  \n\n  \n\n  \n\nYou will work at the heart of a modern payments environment where finance, technology, and control converge to shape the future of banking. Join a fast\\-paced team as an Associate, a key member of Payments Product Control, delivering the future of “always on” payments. The role also has a clear growth dimension: building Kinexys Blockchain product knowledge, strengthening leadership and stakeholder management skills, and helping shape process and tooling improvemen"
-    },
-    {
-      "title": "AML & Transaction Monitoring Investigator",
-      "company": "Tential",
-      "url": "https://www.indeed.com/viewjob?jk=7e05c6c9d4c71aaa",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**HITL SAM Investigator (Analyst / Senior Analyst)**\n\n**Financial Crimes \\& AI\\-Assisted Investigations \\| 3 year contract \\| Columbia, SC**\n\nAbout the Role\n\nJoin a team supporting suspicious activity monitoring (SAM) investigations for a leading crypto exchange client, working through a Big 4 professional services engagement. This role combines traditional transaction\\-monitoring investigative skill with oversight of AI\\-generated investigations — you'll assess whether automated analysis is acc"
-    },
-    {
-      "title": "Crypto Partnership Intern (Summer 2027)",
-      "company": "Robinhood",
-      "url": "https://www.indeed.com/viewjob?jk=2d3b290b1008ed4c",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**Join us in building the future of finance.**\n----------------------------------------------\n\n\n\nOur mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you're ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n\n**About the team \\+ role**\n--------------------------\n\n\n\nWe are building an elite team, applying fronti"
-    },
-    {
-      "title": "Crypto Operations Intern (Summer 2027)",
-      "company": "Robinhood",
-      "url": "https://www.indeed.com/viewjob?jk=df9d9b1dd2060616",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**Join us in building the future of finance.**\n----------------------------------------------\n\n\n\nOur mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you're ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n\n**About the team \\+ role**\n--------------------------\n\n\n\nWe are building an elite team, applying fronti"
-    },
-    {
       "title": "Digital Assets Compliance",
       "company": "Column",
       "url": "https://www.linkedin.com/jobs/view/4438366292",
+      "location": null,
+      "posted_date": "2026-09-14",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Senior Crypto Treasury Operations Specialist",
+      "company": "Climate",
+      "url": "https://www.linkedin.com/jobs/view/4465256019",
       "location": null,
       "posted_date": "2026-09-14",
       "source": "linkedin",
@@ -487,18 +478,18 @@
       "snippet": "nan"
     },
     {
-      "title": "Crypto Currency Senior Investigative Analyst",
-      "company": "XLA",
-      "url": "https://www.linkedin.com/jobs/view/4459377428",
+      "title": "Director, Technical Product Manager - Digital Assets",
+      "company": "BNY",
+      "url": "https://www.linkedin.com/jobs/view/4448681140",
       "location": null,
-      "posted_date": "2026-08-26",
+      "posted_date": "2026-08-25",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
       "title": "Director, Technical Product Manager - Digital Assets",
       "company": "BNY",
-      "url": "https://www.linkedin.com/jobs/view/4448681140",
+      "url": "https://www.linkedin.com/jobs/view/4459008799",
       "location": null,
       "posted_date": "2026-08-25",
       "source": "linkedin",
@@ -514,175 +505,94 @@
       "snippet": "nan"
     },
     {
-      "title": "Senior Crypto Treasury Operations Specialist",
-      "company": "Climate",
-      "url": "https://www.linkedin.com/jobs/view/4465256019",
+      "title": "Crypto Infrastructure & Site Development Project Manager",
+      "company": "kentino s.r.o",
+      "url": "https://www.indeed.com/viewjob?jk=df9e682cc516245f",
       "location": null,
-      "posted_date": "nan",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Senior Software Engineer, Applied AI",
-      "company": "tldr",
-      "url": "https://www.indeed.com/viewjob?jk=f0b7233a349c32e9",
-      "location": null,
-      "posted_date": "2026-09-14",
+      "posted_date": "2026-09-16",
       "source": "indeed",
-      "snippet": "**Who We Are**\n==============\n\n**Product:** TLDR’s mission is to increase tech's signal\\-to\\-noise ratio.\n\n\nToday that means the largest network of tech newsletters in the world, with over 8M subscribers covering startups, software engineering, AI, cybersecurity, product, and more. What makes it work is who writes it. Every issue comes from people building in tech, not reporters covering it. Our writers keep their day jobs: two engineers at Coinbase write TLDR Crypto, engineers at DeepMind and M"
+      "snippet": "**Company:** OneMiners (CircleHash LLC) – oneminers.com\n\n**Location:** Hybrid Remote (Texas\\-based preferred; frequent travel to project sites across Texas and other US states)\n\n**Job Type:** Full\\-time\n\n**Salary:** $95,000\\.00 – $120,000\\.00 per year \\+ performance bonuses \\& travel stipends\n\n**About OneMiners \\& CircleHash LLC**\n\nOneMiners, operated by CircleHash LLC, is an expanding global provider of enterprise ASIC hardware, hosting, and high\\-density computing infrastructure. We acquire, b"
     },
     {
-      "title": "Strategic Sales Director",
-      "company": "Prove",
-      "url": "https://www.indeed.com/viewjob?jk=4d1a47ca65b52323",
+      "title": "RETAIL SUPERVISOR-CRYPTO.COM ARENA",
+      "company": "Levy",
+      "url": "https://www.indeed.com/viewjob?jk=d67464d6f4ade1eb",
       "location": null,
-      "posted_date": "2026-09-14",
+      "posted_date": "2026-09-15",
       "source": "indeed",
-      "snippet": "United States (Remote)\n**About Prove**\n===============\n\n\nAs the world moves to a mobile\\-first economy, businesses need to modernize how they acquire, engage with and enable consumers. Prove’s phone\\-centric identity tokenization and passive cryptographic authentication solutions reduce friction, enhance security and privacy across all digital channels, and accelerate revenues while reducing operating expenses and fraud losses. Over 1,000 enterprise customers use Prove’s platform to process 20 b"
+      "snippet": "**Position Title:** \\[\\[title]]\n\n**Pay Range**: $24\\.00 to $24\\.00\n\n**We Make Applying Easy!** Want to apply to this job via text messaging? Text **JOB** to **75000** and search **requisition ID number** **1572705****.**\n\n\nThe advertised program is an AI recruiting assistant that helps you apply to jobs with Compass Group. Message frequency varies. Message and data rates may apply. Text STOP to opt out or HELP for help. Terms and conditions: http://olivia.paradox.ai/moSkg\n\n **Diversity of though"
     },
     {
-      "title": "Content Marketing Manager, Crypto",
-      "company": "Alpaca",
-      "url": "https://www.indeed.com/viewjob?jk=7a746f6fc56c0282",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**Who We Are:**\n\n\n**Alpaca is a US\\-headquartered, global leader in agent\\-first brokerage infrastructure** for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.  \n\n  \n\nAmongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional\\-grade APIs. This includes broker\\-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerag"
-    },
-    {
-      "title": "Information Systems Security Engineer (ISSE) - Navy Key Management Infrastructure",
-      "company": "CACI International",
-      "url": "https://www.indeed.com/viewjob?jk=7fb722219cdea2d5",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "Job Title: Information Systems Security Engineer (ISSE) \\- Navy Key Management Infrastructure\nJob Category: Information Technology\nTime Type: Full time\nMinimum Clearance Required to Start: Secret\nEmployee Type: Regular\nPercentage of Travel Required: Up to 10%\nType of Travel: Continental US\n\\* \\* \\*  \n\n  \n\n**The Opportunity:**  \n\nCACI is seeking an Information Systems Security Engineer Team Member who will support the head of a mid\\-size to large Crypto and Key Management Program for the CACI org"
-    },
-    {
-      "title": "Build Your Cybersecurity Career in Cryptographic Assurance",
+      "title": "Associate, Real Estate and Office Services",
       "company": "nan",
-      "url": "https://www.indeed.com/viewjob?jk=f765e21291008d19",
+      "url": "https://www.indeed.com/viewjob?jk=e68c4e90a3713cea",
       "location": null,
-      "posted_date": "2026-09-14",
+      "posted_date": "2026-09-15",
       "source": "indeed",
-      "snippet": "October 26–27, 2026 \\| UT Austin \\| Austin, Texas\n\nCybersecurity is entering a period of extraordinary change. The transition to post\\-quantum cryptography (PQC) is underway, AI is reshaping cyberattack and cyberdefense, and new standards are changing how cryptographic technology is tested and trusted.\n\nThat creates growing opportunities in cryptographic assurance—making sure cryptography works securely in real\\-world products and systems.\n\nFIPS ’n’ Chips 2026, organized by the nonprofit Crypto\\"
+      "snippet": "**About the Company**\n\n\n\nGemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create grea"
     },
     {
-      "title": "HR Manager",
-      "company": "Fidelity Investments",
-      "url": "https://www.indeed.com/viewjob?jk=0f142d8d6293bc43",
+      "title": "Head of Consumer and Lending Compliance",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=27f7c86af8ddb9e5",
       "location": null,
-      "posted_date": "2026-09-14",
+      "posted_date": "2026-09-15",
       "source": "indeed",
-      "snippet": "### **Job Description:**\n\n **Note: Fidelity will not provide immigration sponsorship for this position.**\n\n**The Role:**\n\nThe **HR Manager** will coordinate and lead initiatives in support of the Fidelity Institutional HR strategy with direction from the HR team. This exciting opportunity will work with the FI Technology, Wealth Advisory Management Solutions, and FundsNetwork and Alts/Crypto teams in FI and be involved in all aspects of the human capital strategy, including staffing, compensatio"
+      "snippet": "**About the Company**\n\n\n\nGemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create grea"
     },
     {
-      "title": "Partner 18, Marketing Operations Partner",
-      "company": "Andreessen Horowitz",
-      "url": "https://www.indeed.com/viewjob?jk=73696e0afd99bad7",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "Founded in Silicon Valley in 2009 by Marc Andreessen and Ben Horowitz, Andreessen Horowitz (aka a16z) is a venture capital firm that backs bold entrepreneurs building the future through technology. We are stage agnostic. We invest in seed to venture to growth\\-stage technology companies, across AI, bio \\+ healthcare, consumer, crypto, enterprise, fintech, games, and companies building toward American dynamism. a16z has $100B\\+ under management across multiple funds.\n\n\n\nWe’ve established a team t"
-    },
-    {
-      "title": "Short Term Labor/Packer (Job Moving Computer)",
-      "company": "NEXANODE DATA SERVICES",
-      "url": "https://www.indeed.com/viewjob?jk=aea6b5876e4545d6",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**About us**\n\nNEXANODE DATA SERVICES is a nation wide operation and repair service provider for the crypto mining industry. We constantly hire and operate for crypto mining facilities around the country. Employees are hired and managed by NEXANODE DATA SERVICES.\n\n**Job Responsibilities:**\n\n\\- this is a Temporary/Seasonal moving computers out of a facility.\n\n\\- removing equipment off shelf. May involve constant ladder climbing and weight carrying (40lb)\n\n\\- put computers on pallets with scanning"
-    },
-    {
-      "title": "Manager / Senior Manager, Total Rewards & Key Projects",
+      "title": "Head of Tax",
       "company": "Alpaca",
-      "url": "https://www.indeed.com/viewjob?jk=15fcf47797a3346c",
+      "url": "https://www.indeed.com/viewjob?jk=84d8ca0597b4e268",
       "location": null,
-      "posted_date": "2026-09-14",
+      "posted_date": "2026-09-15",
       "source": "indeed",
       "snippet": "**Who We Are:**\n\n\n**Alpaca is a US\\-headquartered, global leader in agent\\-first brokerage infrastructure** for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.  \n\n  \n\nAmongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional\\-grade APIs. This includes broker\\-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerag"
     },
     {
-      "title": "Business Development Representative",
-      "company": "Turnkey Innovative Engineering",
-      "url": "https://www.indeed.com/viewjob?jk=4649a76cbdf65438",
+      "title": "Senior Product Manager",
+      "company": "BlockWorks",
+      "url": "https://www.indeed.com/viewjob?jk=8629cca44a79ed4b",
       "location": null,
-      "posted_date": "2026-09-14",
+      "posted_date": "2026-09-15",
       "source": "indeed",
-      "snippet": "**About Us**  \n\nMachines will make decisions, move value, and coordinate on behalf of organizations, instantly, autonomously, and at unprecedented scale. But the systems that govern today's economy weren't designed for that world. Turnkey is building the infrastructure for this future: programmable guardrails that enable autonomy without sacrificing control.\n\n\n\nFounded by the team who scaled Coinbase Custody to $100M\\+ ARR and secured over $100B in crypto assets, we know what it means to protect"
+      "snippet": "**About Us:**\n=============\n\n\nBlockworks is an information platform that sits at the center of the crypto industry. We transform raw, complex data and facts into actionable research, trusted alpha\\-driven insights, and world\\-class events. The result is transparency and confidence. Blockworks connects investors and businesses in onchain capital markets. We give businesses a platform to earn trust and provide investors with the information they need to underwrite the asset class.\n\n**Who You Are**"
     },
     {
-      "title": "Partner 18, Marketing Operations Partner",
-      "company": "a16z",
-      "url": "https://www.indeed.com/viewjob?jk=221946710a54e640",
+      "title": "Guest Services Supervisor (Crypto.com Arena)",
+      "company": "AEG Worldwide",
+      "url": "https://www.indeed.com/viewjob?jk=86df1eab404e6666",
       "location": null,
-      "posted_date": "2026-09-14",
+      "posted_date": "2026-09-15",
       "source": "indeed",
-      "snippet": "Founded in Silicon Valley in 2009 by Marc Andreessen and Ben Horowitz, Andreessen Horowitz (aka a16z) is a venture capital firm that backs bold entrepreneurs building the future through technology. We are stage agnostic. We invest in seed to venture to growth\\-stage technology companies, across AI, bio \\+ healthcare, consumer, crypto, enterprise, fintech, games, and companies building toward American dynamism. a16z has $100B\\+ under management across multiple funds.\n\n\n\nWe've established a team t"
+      "snippet": "For more than 20 years, **AEG** has played a pivotal role in transforming sports and live entertainment. Annually, we host more than 160 million guests, promote more than 10,000 shows and present more than 22,000 events around the world. We are committed to innovation, artistry, and community, and leverage the power of our 300\\+ venues, leading sports franchises, marquee music brands, integrated entertainment districts, premier ticketing platform and global sponsorship activations, to create mem"
     },
     {
-      "title": "Partner 18, Marketing Operations Partner",
-      "company": "a16z",
-      "url": "https://www.indeed.com/viewjob?jk=43849d478fa5aede",
+      "title": "Interim Privacy Counsel",
+      "company": "In House Privacy",
+      "url": "https://www.indeed.com/viewjob?jk=bb52f469f2e03d06",
       "location": null,
-      "posted_date": "2026-09-14",
+      "posted_date": "2026-09-15",
       "source": "indeed",
-      "snippet": "Founded in Silicon Valley in 2009 by Marc Andreessen and Ben Horowitz, Andreessen Horowitz (aka a16z) is a venture capital firm that backs bold entrepreneurs building the future through technology. We are stage agnostic. We invest in seed to venture to growth\\-stage technology companies, across AI, bio \\+ healthcare, consumer, crypto, enterprise, fintech, games, and companies building toward American dynamism. a16z has $100B\\+ under management across multiple funds.\n\n\n\nWe've established a team t"
+      "snippet": "**Company Description** In\\-House Privacy, Inc. (\"IHP\") is a tech\\-focused law firm that provides fractional privacy officer and on\\-demand privacy counsel support services to a diverse client base. IHP has deep industry expertise across Adtech/Martech, data brokering/licensing, crypto, ecommerce, AI and early stage data\\-centric product\\-development needs.\n\n**Role Description** The Interim Privacy Counsel is to support PTO coverage from October through mid\\-January as a remote role supporting c"
     },
     {
-      "title": "Lead Mechanical Engineer",
+      "title": "Electrical Designer",
       "company": "Faith Technologies Incorporated",
-      "url": "https://www.indeed.com/viewjob?jk=611286935c63629b",
+      "url": "https://www.indeed.com/viewjob?jk=036829ac6310edb5",
       "location": null,
-      "posted_date": "2026-09-14",
+      "posted_date": "2026-09-15",
       "source": "indeed",
-      "snippet": "**You’ve discovered something special. A company that cares. Cares about leading the way in construction, engineering, manufacturing and renewable energy. Cares about redefining how energy is designed, applied and consumed. Cares about thoughtfully growing to meet market demands. And as “one of the Healthiest 100 Workplaces in America” is focused on the mind/body/soul of team members through our** **Culture of Care** **.**\n\nThis Lead Mechanical Engineer will be responsible for designing and lead"
+      "snippet": "**You’ve discovered something special. A company that cares. Cares about leading the way in construction, engineering, manufacturing and renewable energy. Cares about redefining how energy is designed, applied and consumed. Cares about thoughtfully growing to meet market demands. And as “one of the Healthiest 100 Workplaces in America” is focused on the mind/body/soul of team members through our** **Culture of Care** **.**\n\nThe Electrical Designer will be responsible for creating electro\\-mechan"
     },
     {
-      "title": "Business Development Executive",
-      "company": "Anytime Bitcoin",
-      "url": "https://www.indeed.com/viewjob?jk=16669ab1b244f47b",
+      "title": "Analyst, Credit Business Operations",
+      "company": "FalconX",
+      "url": "https://www.indeed.com/viewjob?jk=9c70ba19e4c2b20d",
       "location": null,
-      "posted_date": "2026-09-14",
+      "posted_date": "2026-09-15",
       "source": "indeed",
-      "snippet": "Anytime Capital doesn't have a branch in Denver yet — that's where you come in. We're looking for someone to open our first Denver location and build it into both a neighborhood crypto and banking branch and a local sales base for our fastest\\-growing product lines.\n\n**About Anytime Capital**\n\nAnytime Capital is a licensed, FinCEN\\-registered money services business built on a simple bet: people trust financial services more when there's a real person and a real address behind them. We run a pro"
-    },
-    {
-      "title": "Business Development Executive",
-      "company": "Anytime Bitcoin",
-      "url": "https://www.indeed.com/viewjob?jk=7c06987ef2839159",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "Anytime Capital doesn't have a branch in Phoenix yet — that's where you come in. We're looking for someone to open our first Phoenix location and build it into both a neighborhood crypto and banking branch and a local sales base for our fastest\\-growing product line.\n\n**About Anytime Capital**\n\nAnytime Capital is a licensed, FinCEN\\-registered money services business built on a simple bet: people trust financial services more when there's a real person and a real address behind them. We run a pr"
-    },
-    {
-      "title": "Senior Sales Engineer",
-      "company": "Alpaca",
-      "url": "https://www.indeed.com/viewjob?jk=01f9c04df285fb55",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**Who We Are:**\n\n\n**Alpaca is a US\\-headquartered, global leader in agent\\-first brokerage infrastructure** for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.  \n\n  \n\nAmongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional\\-grade APIs. This includes broker\\-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerag"
-    },
-    {
-      "title": "Global Research - Crypto Analyst - Vice President",
-      "company": "JPMorganChase",
-      "url": "https://www.indeed.com/viewjob?jk=c0fe981e30a2b3f2",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**JOB DESCRIPTION**  \n\n  \n\n  \n\nHelp clients navigate fast\\-moving digital asset markets with sharp, data\\-driven views that challenge consensus.\n\n\nJob summary:\nOur FX strategy team delivers actionable insights to guide clients through rapidly evolving currency markets. We are seeking a highly analytical Crypto Analyst (4–7 years' experience) with deep knowledge of digital assets and market structure, strong writing skills, and the ability to pressure\\-test prevailing narratives. Knowledge of der"
-    },
-    {
-      "title": "Primary Care Physician",
-      "company": "TEEMA Group",
-      "url": "https://www.indeed.com/viewjob?jk=e7f17d3f4e1a0769",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**Primary Care Physician (Family Medicine / Med\\-Peds)**\n--------------------------------------------------------\n\n### **Role Summary**\n\n\nAre you an impactful physician leader looking to redefine healthcare delivery in an underserved, vibrant urban setting? MLK Community Medical Group (MLK CMG) is expanding its clinical footprint with a brand\\-new, premium outpatient clinic located in the heart of Downtown Los Angeles. We are actively seeking a dedicated, board\\-certified **Family Medicine or Me"
+      "snippet": "**Who are we?**\n\n\n\nFalconX is a pioneering team of operators, investors, and builders committed to revolutionizing institutional access to the crypto markets. Operating at the intersection of traditional finance and cutting\\-edge technology, FalconX addresses the industry's foremost challenges: Navigating the digital asset market can be complex and fragmented, with limited products and services that support trading strategies, structures, and liquidity found in conventional financial markets. As"
     },
     {
       "title": "Senior Staff Software Engineer - Blockchain Platform",
@@ -694,7 +604,7 @@
       "snippet": "nan"
     },
     {
-      "title": "Product Counsel, Crypto",
+      "title": "Senior Product Counsel, Crypto",
       "company": "Figure",
       "url": "https://www.linkedin.com/jobs/view/4410282467",
       "location": null,
@@ -703,13 +613,58 @@
       "snippet": "nan"
     },
     {
-      "title": "Product Counsel, Crypto",
-      "company": "Figure",
-      "url": "https://www.linkedin.com/jobs/view/4410297175",
+      "title": "Associate General Counsel, Crypto Services",
+      "company": "Fireblocks",
+      "url": "https://www.linkedin.com/jobs/view/4380972124",
       "location": null,
-      "posted_date": "2026-09-10",
+      "posted_date": "2026-08-25",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "Content Marketing Manager, Crypto",
+      "company": "Alpaca",
+      "url": "https://www.indeed.com/viewjob?jk=7a746f6fc56c0282",
+      "location": null,
+      "posted_date": "2026-09-14",
+      "source": "indeed",
+      "snippet": "**Who We Are:**\n\n\n**Alpaca is a US\\-headquartered, global leader in agent\\-first brokerage infrastructure** for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.  \n\n  \n\nAmongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional\\-grade APIs. This includes broker\\-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerag"
+    },
+    {
+      "title": "Principal Cryptography Engineer – Blockchain Specialist",
+      "company": "MITRE",
+      "url": "https://www.indeed.com/viewjob?jk=6d1f21e443ee3084",
+      "location": null,
+      "posted_date": "2026-09-14",
+      "source": "indeed",
+      "snippet": "At MITRE, your passion fuels work that impacts our nation and improves lives. This is where your skills strengthen national security, cybersecurity, health, transportation, and citizen services. We’re a nonprofit engineering, applied research, and advanced technology organization working in the public interest. With objectivity and integrity at our core, we lead federally funded research and development centers for U.S. government agencies – collaborating with industry and academia to deliver in"
+    },
+    {
+      "title": "Director of AML & Virtual Asset Compliance",
+      "company": "CertiK",
+      "url": "https://www.indeed.com/viewjob?jk=d02cf07151d73ecb",
+      "location": null,
+      "posted_date": "2026-09-14",
+      "source": "indeed",
+      "snippet": "**About the Company**\nBorn from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting\\-edge security research, formal verification, and AI\\-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end\\-to\\-end security solutions including smart contract audits, penetration testing, on\\-chain monitoring, in"
+    },
+    {
+      "title": "Senior Infrastructure Engineer, Core Systems",
+      "company": "QuickNode",
+      "url": "https://www.indeed.com/viewjob?jk=44dbc0a1e62ab6b6",
+      "location": null,
+      "posted_date": "2026-09-14",
+      "source": "indeed",
+      "snippet": "Quicknode is a cloud\\-based infrastructure company that powers the blockchain ecosystem.\n\n\nOur mission is to be the indispensable utility that empowers companies and innovators globally to build next\\-generation, Web3 enabled businesses \\& applications using blockchain technology. Quicknode is backed by some of the world's best investors including Tiger Global, Y Combinator, SoftBank, and the Seven Seven Six Fund. The Quicknode team has over 110 people maintaining high performance global data in"
+    },
+    {
+      "title": "Crypto Partnership Intern (Summer 2027)",
+      "company": "Robinhood",
+      "url": "https://www.indeed.com/viewjob?jk=2d3b290b1008ed4c",
+      "location": null,
+      "posted_date": "2026-09-14",
+      "source": "indeed",
+      "snippet": "**Join us in building the future of finance.**\n----------------------------------------------\n\n\n\nOur mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you're ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n\n**About the team \\+ role**\n--------------------------\n\n\n\nWe are building an elite team, applying fronti"
     },
     {
       "title": "Kinexys Digital Assets - Product Manager - Vice President",
@@ -910,33 +865,6 @@
       "snippet": "**Job Overview**\n\nWe are seeking a passionate and dedicated Web3 Volunteer to join our innovative community\\-driven initiative. This role offers a unique opportunity to contribute to the development and promotion of decentralized technologies, blockchain applications, and digital assets within diverse communities. As a Web3 Volunteer, you will play a vital part in fostering engagement, educating others about blockchain concepts, and supporting community resource coordination. This paid volunteer"
     },
     {
-      "title": "Technical Writer – Blockchain & Web3",
-      "company": "Blockchain council",
-      "url": "https://www.indeed.com/viewjob?jk=f452257f0fbb6b3b",
-      "location": null,
-      "posted_date": "2026-09-01",
-      "source": "indeed",
-      "snippet": "Join Our Team\n**Shape the Future of**\n**Technology Education**\n================================================\n\n\nAt Blockchain Council, we are on a mission to educate over a million professionals worldwide in blockchain, AI, and emerging technologies. Join a passionate, remote\\-first team that values innovation, autonomy, and impact.\n\n  \n\n**145\\+**\n\n\nCountries Reached\n\n\n**100%**\n\n\nRemote\\-Friendly\n\n\n  \n**Why Work With Us**\n\n\n**Perks \\& Benefits**\n---------------------\n\n\n**Remote\\-First**\n\n\nWork"
-    },
-    {
-      "title": "Content Marketing Manager",
-      "company": "Blockchain council",
-      "url": "https://www.indeed.com/viewjob?jk=a9ff037f87414261",
-      "location": null,
-      "posted_date": "2026-09-01",
-      "source": "indeed",
-      "snippet": "Join Our Team\n**Shape the Future of**\n**Technology Education**\n================================================\n\n\nAt Blockchain Council, we are on a mission to educate over a million professionals worldwide in blockchain, AI, and emerging technologies. Join a passionate, remote\\-first team that values innovation, autonomy, and impact.\n\n  \n\n**145\\+**\n\n\nCountries Reached\n\n\n**100%**\n\n\nRemote\\-Friendly\n\n\n  \n**Why Work With Us**\n\n\n**Perks \\& Benefits**\n---------------------\n\n\n**Remote\\-First**\n\n\nWork"
-    },
-    {
-      "title": "Lead, Technical Compliance",
-      "company": "nan",
-      "url": "https://www.indeed.com/viewjob?jk=bc0e7d18c1e2fd40",
-      "location": null,
-      "posted_date": "2026-09-01",
-      "source": "indeed",
-      "snippet": "**About the Company**\n\n\n\nGemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create grea"
-    },
-    {
       "title": "Director of Product, AML & Digital Asset Compliance",
       "company": "CertiK",
       "url": "https://www.indeed.com/viewjob?jk=e2ac1a14b0ee2430",
@@ -964,11 +892,11 @@
       "snippet": "nan"
     },
     {
-      "title": "Cryptography and Systems Researcher",
-      "company": "Char Network Labs",
-      "url": "https://www.linkedin.com/jobs/view/4400588296",
+      "title": "Crypto Currency Senior Investigative Analyst",
+      "company": "XLA",
+      "url": "https://www.linkedin.com/jobs/view/4459377428",
       "location": null,
-      "posted_date": "2026-04-10",
+      "posted_date": "2026-08-26",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -982,164 +910,11 @@
       "snippet": "nan"
     },
     {
-      "title": "Blockchain Engineer",
-      "company": "Cari Network",
-      "url": "https://www.linkedin.com/jobs/view/4467702938",
-      "location": null,
-      "posted_date": "nan",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Customer Support Representative",
-      "company": "TELUS Digital",
-      "url": "https://www.indeed.com/viewjob?jk=d09a0d69483e78b5",
-      "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**Description**\n\n\nPosition Overview:\n\n\nAs a Customer Support Representative, you'll be on the front lines of interaction with customers of a leading financial technology company that has revolutionized investing by offering commission\\-free trading through an intuitive mobile platform. Our client has democratized access to the stock market, making it easy for first\\-time and everyday investors to buy and sell stocks, ETFs, options, and cryptocurrency. We are looking for personable and tech\\-savv"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=dae9a51f74b96859",
-      "location": null,
-      "posted_date": "2026-09-11",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well\\-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80\\-year history, delivering excellent service through innovation has been a core part of our DNA across our audit,"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=787b6f39052cba4b",
-      "location": null,
-      "posted_date": "2026-09-11",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well\\-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80\\-year history, delivering excellent service through innovation has been a core part of our DNA across our audit,"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=fd1792103c80b7f0",
-      "location": null,
-      "posted_date": "2026-09-11",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well\\-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80\\-year history, delivering excellent service through innovation has been a core part of our DNA across our audit,"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=5ffe470fb8d871f4",
-      "location": null,
-      "posted_date": "2026-09-11",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well\\-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80\\-year history, delivering excellent service through innovation has been a core part of our DNA across our audit,"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=4f471fdc43bee122",
-      "location": null,
-      "posted_date": "2026-09-11",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well\\-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80\\-year history, delivering excellent service through innovation has been a core part of our DNA across our audit,"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=a5f4701adfeb7248",
-      "location": null,
-      "posted_date": "2026-09-11",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well\\-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80\\-year history, delivering excellent service through innovation has been a core part of our DNA across our audit,"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=f1f1d095ddb19abd",
-      "location": null,
-      "posted_date": "2026-09-11",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well\\-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80\\-year history, delivering excellent service through innovation has been a core part of our DNA across our audit,"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=02037869390ec681",
-      "location": null,
-      "posted_date": "2026-09-11",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well\\-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80\\-year history, delivering excellent service through innovation has been a core part of our DNA across our audit,"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=060da2e652a94b30",
-      "location": null,
-      "posted_date": "2026-09-11",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well\\-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80\\-year history, delivering excellent service through innovation has been a core part of our DNA across our audit,"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=d48662b3ee881fc8",
-      "location": null,
-      "posted_date": "2026-09-11",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well\\-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80\\-year history, delivering excellent service through innovation has been a core part of our DNA across our audit,"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=9ddf5f1b2fae221f",
-      "location": null,
-      "posted_date": "2026-09-11",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well\\-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80\\-year history, delivering excellent service through innovation has been a core part of our DNA across our audit,"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=6c38c0b5ea525ee7",
-      "location": null,
-      "posted_date": "2026-09-11",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well\\-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80\\-year history, delivering excellent service through innovation has been a core part of our DNA across our audit,"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=f569ee345c57de42",
-      "location": null,
-      "posted_date": "2026-09-11",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well\\-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80\\-year history, delivering excellent service through innovation has been a core part of our DNA across our audit,"
-    },
-    {
-      "title": "Head of US Sales, Fidelity Digital Assets®",
-      "company": "Fidelity Investments",
-      "url": "https://www.indeed.com/viewjob?jk=068699a5c0d00725",
-      "location": null,
-      "posted_date": "2026-09-03",
-      "source": "indeed",
-      "snippet": "### **Job Description:**\n\n**Head of US Sales, Fidelity Digital Assets®**\n\n\n**Note: Fidelity is not providing immigration sponsorship for this position**\n\n**Job Description**\n\n\nFidelity Digital Assets® is seeking a Vice President of Sales to achieve bold business growth goals in onboarding both existing Fidelity and new institutional clients to our Enterprise\\-grade custody and execution services offerings. The position will report into the Global Head of Business Development.\n\n\nAs a member of th"
-    },
-    {
       "title": "Associate General Counsel, Crypto Services",
       "company": "Fireblocks",
       "url": "https://www.linkedin.com/jobs/view/4423538282",
       "location": null,
       "posted_date": "2026-08-28",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Associate General Counsel, Crypto Services",
-      "company": "Fireblocks",
-      "url": "https://www.linkedin.com/jobs/view/4380972124",
-      "location": null,
-      "posted_date": "2026-08-25",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1151,6 +926,294 @@
       "posted_date": "2026-05-12",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=bd69fbee966c8726",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=015bb99d835b9e4c",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=22bde760b355cecf",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=c17c03a3b52da496",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=fa782394267d0d60",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=0a16d22f6c0c7bc7",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=aa9b2331abcfff96",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=7dbc1a59f1ec23ae",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=56435976f06636fe",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=a7e0a1a399ae928e",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=4f38689a89177a65",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=cd083b73fb4b7933",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=4f0df4e9a3f2b4f4",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=0d748d65ed5f9a80",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=b333f6afe6f3e21e",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=1197e4f1c101dd74",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=4ba2f1a1e788fccd",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=58195983f38a98a2",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=3895e68ffda3367f",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=df5474199292c1c5",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=5ae1b0f4b01cbffd",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=769b2d20b22ef9c0",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=cf774067d52a959b",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=e1666dba09b5daa8",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=6f82e3fdb5a1601a",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=c8130b1085c26ea4",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=9c960758b4ea817c",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=5602f5f86184e602",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=e0e3bba8b84e7253",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=4aea2fe73d4da71f",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=f2fd454c0ecfebfe",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
+    },
+    {
+      "title": "Senior Project Manager",
+      "company": "defi SOLUTIONS",
+      "url": "https://www.indeed.com/viewjob?jk=ae0ca206ce0e3391",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lending reduce time\\-to\\-market, streamline operations and customer lending processes with proven, scalable performance.  \n\nLearn more at defis"
     },
     {
       "title": "Collections Specialist - Onsite",
@@ -1225,303 +1288,6 @@
       "snippet": "**About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n**What is in it for You?**\n\n* Paid Training\n* Up to four"
     },
     {
-      "title": "Collections Specialist - Remote",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=a891a6743461b489",
-      "location": null,
-      "posted_date": "2026-09-10",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n**What is in it for You?**\n\n* Paid Training\n* Up to four"
-    },
-    {
-      "title": "Collections Specialist - Hybrid",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=85b21b377b552d0f",
-      "location": null,
-      "posted_date": "2026-09-03",
-      "source": "indeed",
-      "snippet": "About defi SOLUTIONS:  \n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.  \n\n\nWhat is in it for You?  \n\n\nPaid Training  \nUp to four we"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=fd61e31a2bbc978f",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=9cb2b632ee7a1e4c",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=893c4c12c16f489f",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=5366d589d2fd800e",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=612b3679a44013ab",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=ffa86a599cd58746",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=fc81fbb66c7f5950",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=5394c1d352e1add0",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=b09032c6f010eb58",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=b487deec7a51abae",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=36626bb913bef527",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=8d6eb4ee560a2835",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=1d55b66cf86a86ff",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=c48174dcddabd85a",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=232c83843fae2345",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=7fa7a4f51928590a",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=07418981487fecf7",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=9c3a4ec392db620f",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=8ee441ad4c60d2d2",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=f7f4c79230f595b7",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=d54ba0ebd00f8b64",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=6e18e54152d53956",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=eb408ef70a7201e9",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=368382673523db9c",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=48ec55f98a7753bd",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=6c76e27fad570b9a",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=edf3dd679d951cd5",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=f2cacb511256987d",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=287da105bce018ce",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Revenue Planning & Intelligence",
-      "company": "defi SOLUTIONS",
-      "url": "https://www.indeed.com/viewjob?jk=fe9a87f3f94c5538",
-      "location": null,
-      "posted_date": "2026-08-27",
-      "source": "indeed",
-      "snippet": "**About defi SOLUTIONS:**\nIt’s an exciting time to join defi!  \n\n defi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest\\-volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customize lending processes with proven, scalable performance.  \n\nLearn more at d"
-    },
-    {
-      "title": "Head of Blockchain Security",
-      "company": "CoinDesk",
-      "url": "https://www.linkedin.com/jobs/view/4465032377",
-      "location": null,
-      "posted_date": "2026-09-09",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Crypto Intelligence Engineer (Full Stack)",
       "company": "Elliptic",
       "url": "https://www.linkedin.com/jobs/view/4455337691",
@@ -1531,22 +1297,31 @@
       "snippet": "nan"
     },
     {
-      "title": "Regional Warehouse Operations Manager",
-      "company": "Meta",
-      "url": "https://www.indeed.com/viewjob?jk=3916c78b37eee989",
+      "title": "Laboratory Assistant II -North Hollywood",
+      "company": "Kaiser Permanente",
+      "url": "https://www.indeed.com/viewjob?jk=ddd05a7f2ad36bed",
       "location": null,
-      "posted_date": "2026-09-13",
+      "posted_date": "2026-09-15",
       "source": "indeed",
-      "snippet": "Meta is seeking an experienced Regional Warehouse Operations Manager to lead and optimize warehouse and logistics operations across a defined geographic region in support of Meta's global infrastructure and hardware supply chain. In this role, you will drive operational strategy for regional warehouse networks, ensuring efficient storage, distribution, and fulfillment of hardware assets — including data center equipment, consumer devices, and facility materials — that power Meta's products and p"
+      "snippet": "**Job Summary:**\n  \n\nUnder the direct and constant supervision of a licensed person as authorized under California B\\&PC 1269, Laboratory Assistants II performs more complex procedures defined for laboratory assistants in the RRL, such as loading samples and assisting in the operation of laboratory instruments, monitoring overdue reports and resolving problem specimens.  \n\n**Essential Responsibilities:**  \n\n  \n\n  \n* Performs all the duties and responsibilities of an RRL Lab Assistant I\n  \n* Prep"
     },
     {
-      "title": "Regional Warehouse Operations Manager",
-      "company": "Meta",
-      "url": "https://www.indeed.com/viewjob?jk=37b8d0944c1ac092",
+      "title": "Technical Product Manager Director",
+      "company": "HCA Healthcare",
+      "url": "https://www.indeed.com/viewjob?jk=39c599408825e6da",
       "location": null,
-      "posted_date": "2026-09-13",
+      "posted_date": "2026-09-15",
       "source": "indeed",
-      "snippet": "Meta is seeking an experienced Regional Warehouse Operations Manager to lead and optimize warehouse and logistics operations across a defined geographic region in support of Meta's global infrastructure and hardware supply chain. In this role, you will drive operational strategy for regional warehouse networks, ensuring efficient storage, distribution, and fulfillment of hardware assets — including data center equipment, consumer devices, and facility materials — that power Meta's products and p"
+      "snippet": "This position is incentive eligible.  \n\n  \n\n  \n\n##### **This is OUR story... and YOUR next chapter**\n\n\nAt HCA Healthcare, our Digital Transformation and Innovation (DT\\&I) team is redefining what’s possible inpatient care. By leveraging the power of artificial intelligence, automation, and digital technologies, DT\\&I is helping drive meaningful improvements in clinical outcomes, reduce manual workload, and expand the reach of our care teams. If you're passionate about using technology to improve"
+    },
+    {
+      "title": "Content Marketing Manager, Crypto",
+      "company": "Alpaca",
+      "url": "https://www.linkedin.com/jobs/view/4467291017",
+      "location": null,
+      "posted_date": "2026-09-14",
+      "source": "linkedin",
+      "snippet": "nan"
     },
     {
       "title": "Senior Product Manager, Crypto Wallet",
@@ -1554,6 +1329,15 @@
       "url": "https://www.linkedin.com/jobs/view/4445060381",
       "location": null,
       "posted_date": "2026-09-11",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Head of Blockchain Security",
+      "company": "CoinDesk",
+      "url": "https://www.linkedin.com/jobs/view/4465032377",
+      "location": null,
+      "posted_date": "2026-09-09",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1598,7 +1382,7 @@
       "company": "Deloitte",
       "url": "https://www.linkedin.com/jobs/view/4420689676",
       "location": null,
-      "posted_date": "2026-08-25",
+      "posted_date": "nan",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1607,7 +1391,7 @@
       "company": "Deloitte",
       "url": "https://www.linkedin.com/jobs/view/4420688786",
       "location": null,
-      "posted_date": "2026-08-25",
+      "posted_date": "nan",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1616,18 +1400,72 @@
       "company": "JPMorganChase",
       "url": "https://www.linkedin.com/jobs/view/4440525172",
       "location": null,
-      "posted_date": "2026-08-25",
+      "posted_date": "nan",
       "source": "linkedin",
       "snippet": "nan"
     },
     {
-      "title": "Content Marketing Manager, Crypto",
-      "company": "Alpaca",
-      "url": "https://www.linkedin.com/jobs/view/4467291017",
+      "title": "Lead Information Security Engineer - Cryptographic Products and Services",
+      "company": "Wells Fargo",
+      "url": "https://www.indeed.com/viewjob?jk=90a5958a1c6bee57",
       "location": null,
-      "posted_date": "nan",
-      "source": "linkedin",
-      "snippet": "nan"
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About this role:**\n\n\nWells Fargo is seeking a motivated Lead Information Security Engineer to join an exciting, fast paced team working on cutting edge encryption, tokenization and key management technologies that are leveraged to protect information companywide. This role will provide technical leadership, and be an individual contributor, to teams that design, deploy, and operationally maintain cryptographic products and services including Hardware Security Modules (HSMs) and security applia"
+    },
+    {
+      "title": "Lead Information Security Engineer - Cryptographic Products and Services",
+      "company": "Wells Fargo",
+      "url": "https://www.indeed.com/viewjob?jk=2612d597c85a4781",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About this role:**\n\n\nWells Fargo is seeking a motivated Lead Information Security Engineer to join an exciting, fast paced team working on cutting edge encryption, tokenization and key management technologies that are leveraged to protect information companywide. This role will provide technical leadership, and be an individual contributor, to teams that design, deploy, and operationally maintain cryptographic products and services including Hardware Security Modules (HSMs) and security applia"
+    },
+    {
+      "title": "Lead Information Security Engineer - Cryptographic Products and Services",
+      "company": "Wells Fargo",
+      "url": "https://www.indeed.com/viewjob?jk=c316ac15ab425a3c",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "**About this role:**\n\n\nWells Fargo is seeking a motivated Lead Information Security Engineer to join an exciting, fast paced team working on cutting edge encryption, tokenization and key management technologies that are leveraged to protect information companywide. This role will provide technical leadership, and be an individual contributor, to teams that design, deploy, and operationally maintain cryptographic products and services including Hardware Security Modules (HSMs) and security applia"
+    },
+    {
+      "title": "Production Support Engineer – Cryptography / HSM",
+      "company": "New Era Technology",
+      "url": "https://www.indeed.com/viewjob?jk=d4a868f8d9a0e64f",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "Join New Era Technology, where People First is at the heart of everything we do. With a global team of over 3,000 professionals, we're committed to creating a workplace where everyone feels valued, empowered, and inspired to grow. Our mission is to securely connect people, places, and information with end\\-to\\-end technology solutions at scale.\n\n\n\nAt New Era, you'll join a team\\-oriented culture that prioritizes your personal and professional development. Work alongside industry\\-certified exper"
+    },
+    {
+      "title": "Production Support Engineer – Cryptography / HSM",
+      "company": "New Era Technology",
+      "url": "https://www.indeed.com/viewjob?jk=938a50fdd516ec95",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "Join New Era Technology, where People First is at the heart of everything we do. With a global team of over 3,000 professionals, we're committed to creating a workplace where everyone feels valued, empowered, and inspired to grow. Our mission is to securely connect people, places, and information with end\\-to\\-end technology solutions at scale.\n\n\n\nAt New Era, you'll join a team\\-oriented culture that prioritizes your personal and professional development. Work alongside industry\\-certified exper"
+    },
+    {
+      "title": "Production Support Engineer – Cryptography / HSM",
+      "company": "New Era Technology",
+      "url": "https://www.indeed.com/viewjob?jk=a2fe943ce40a776b",
+      "location": null,
+      "posted_date": "2026-09-15",
+      "source": "indeed",
+      "snippet": "Join New Era Technology, where People First is at the heart of everything we do. With a global team of over 3,000 professionals, we're committed to creating a workplace where everyone feels valued, empowered, and inspired to grow. Our mission is to securely connect people, places, and information with end\\-to\\-end technology solutions at scale.\n\n\n\nAt New Era, you'll join a team\\-oriented culture that prioritizes your personal and professional development. Work alongside industry\\-certified exper"
+    },
+    {
+      "title": "Strategic Sales Director",
+      "company": "Prove",
+      "url": "https://www.indeed.com/viewjob?jk=4d1a47ca65b52323",
+      "location": null,
+      "posted_date": "2026-09-14",
+      "source": "indeed",
+      "snippet": "Bay Area, CA; United States (Remote)\n**About Prove**\n===============\n\n\nAs the world moves to a mobile\\-first economy, businesses need to modernize how they acquire, engage with and enable consumers. Prove’s phone\\-centric identity tokenization and passive cryptographic authentication solutions reduce friction, enhance security and privacy across all digital channels, and accelerate revenues while reducing operating expenses and fraud losses. Over 1,000 enterprise customers use Prove’s platform t"
     },
     {
       "title": "Product Manager - Digital Collateral and Tokenization - Vice President",
@@ -1648,31 +1486,13 @@
       "snippet": "**JOB DESCRIPTION**  \n\n  \n\n  \n\nThe Payments organization is a motivated, forward\\-thinking team comprised of high talent product managers with a singular focus of delivering innovative payment services via the most important platforms of today and tomorrow. We seek to transform customer experiences, simplify the ways we do business, and aim for product excellence. We value controls, simplicity, and consistency in the capabilities and features we deliver.\n\n\nAs a Senior Product Associate in Connec"
     },
     {
-      "title": "Product Manager, Tokenization - Vice President",
-      "company": "JPMorganChase",
-      "url": "https://www.indeed.com/viewjob?jk=bd1ff75f0f2f7c9e",
+      "title": "Business Execution Manager- Digital Assets and Core Services",
+      "company": "Wells Fargo",
+      "url": "https://www.linkedin.com/jobs/view/4467709677",
       "location": null,
-      "posted_date": "2026-09-14",
-      "source": "indeed",
-      "snippet": "**JOB DESCRIPTION**  \n\n  \n\n  \n\nThe Payments organization is a motivated, forward\\-thinking team comprised of high talent product managers with a singular focus of delivering innovative payment services via the most important platforms of today and tomorrow. We seek to transform customer experiences, simplify the ways we do business, and tirelessly drive toward product excellence. We value controls, simplicity, and consistency in the capabilities and features we deliver.  \n\nAs a Vice President of"
-    },
-    {
-      "title": "Markets Digital Assets - Executive Director",
-      "company": "JPMorganChase",
-      "url": "https://www.indeed.com/viewjob?jk=09f579c1af408d30",
-      "location": null,
-      "posted_date": "2026-09-13",
-      "source": "indeed",
-      "snippet": "**JOB DESCRIPTION**  \n\n  \n\n  \n\nJoin the Markets Digital Assets team within CIB Digital Markets, where you will focus on leveraging blockchain technology to build innovative financial products for JPM's global client franchise. You will help develop and operate proprietary blockchain applications across private permissioned and public blockchains, launch cutting\\-edge products, and help grow wallet share in a fast\\-expanding client segment. This is an entrepreneurial, trading\\-floor role which re"
-    },
-    {
-      "title": "Sr Lead Software Engineer - UAT Data Platform & Governance Lead",
-      "company": "JPMorganChase",
-      "url": "https://www.indeed.com/viewjob?jk=17252e88e033c669",
-      "location": null,
-      "posted_date": "2026-09-12",
-      "source": "indeed",
-      "snippet": "**JOB DESCRIPTION**  \n\n  \n\n  \n\nBe an integral part of an agile team that's constantly pushing the envelope to enhance, build, and deliver top\\-notch technology products.\n\n\n\n\nAs a Sr Lead Software Engineer at JPMorgan Chase within Asset \\& Wealth Management, you will define and drive the firm\\-aligned strategy, operating model, and engineering execution for UAT data provisioning at scale. You will build and evolve a reusable UAT Data Platform that delivers fit\\-for\\-purpose, reliable UAT datasets"
+      "posted_date": "2026-09-15",
+      "source": "linkedin",
+      "snippet": "nan"
     },
     {
       "title": "Markets Digital Assets - Executive Director",
@@ -1680,6 +1500,24 @@
       "url": "https://www.linkedin.com/jobs/view/4465377986",
       "location": null,
       "posted_date": "2026-09-10",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Digital Assets Manager",
+      "company": "Accenture",
+      "url": "https://www.linkedin.com/jobs/view/4462366733",
+      "location": null,
+      "posted_date": "2026-09-05",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Digital Assets Product Specialist",
+      "company": "Tradeweb",
+      "url": "https://www.linkedin.com/jobs/view/4454077781",
+      "location": null,
+      "posted_date": "2026-09-04",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1709,16 +1547,7 @@
       "posted_date": "2026-07-14",
       "source": "linkedin",
       "snippet": "nan"
-    },
-    {
-      "title": "Digital Assets Senior Manager",
-      "company": "Accenture",
-      "url": "https://www.linkedin.com/jobs/view/4439420218",
-      "location": null,
-      "posted_date": "2026-07-13",
-      "source": "linkedin",
-      "snippet": "nan"
     }
   ],
-  "count": 191
+  "count": 172
 }
