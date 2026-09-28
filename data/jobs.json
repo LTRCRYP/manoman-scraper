@@ -57,18 +57,18 @@
     {
       "title": "Engineering Manager, Digital Assets",
       "company": "Ripple",
-      "url": "https://ripple.com/careers/all-jobs/job/8129139?gh_jid=8129139",
-      "location": "Chicago, Illinois, United States",
-      "posted_date": "2026-08-14T20:43:12-04:00",
+      "url": "https://ripple.com/careers/all-jobs/job/8129106?gh_jid=8129106",
+      "location": "San Francisco, CA, United States",
+      "posted_date": "2026-09-17T14:30:10-04:00",
       "source": "greenhouse",
       "snippet": null
     },
     {
       "title": "Engineering Manager, Digital Assets",
       "company": "Ripple",
-      "url": "https://ripple.com/careers/all-jobs/job/8129106?gh_jid=8129106",
-      "location": "San Francisco, CA, United States",
-      "posted_date": "2026-09-17T14:30:10-04:00",
+      "url": "https://ripple.com/careers/all-jobs/job/8129139?gh_jid=8129139",
+      "location": "Chicago, Illinois, United States",
+      "posted_date": "2026-08-14T20:43:12-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -199,6 +199,15 @@
       "snippet": null
     },
     {
+      "title": "Crypto Product Compliance Lead",
+      "company": "Robinhood",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8226689?t=gh_src=&gh_jid=8226689",
+      "location": "Menlo Park, CA; New York, NY",
+      "posted_date": "2026-09-28T02:40:31-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
       "title": "Crypto Risk Lead",
       "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8144996?t=gh_src=&gh_jid=8144996",
@@ -237,17 +246,17 @@
     {
       "title": "Senior Software Engineer, Tokenization",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8189057?t=gh_src=&gh_jid=8189057",
-      "location": "Menlo Park, CA; New York, NY",
-      "posted_date": "2026-09-25T13:03:21-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8189059?t=gh_src=&gh_jid=8189059",
+      "location": "Toronto, Canada",
+      "posted_date": "2026-09-28T12:35:24-04:00",
       "source": "greenhouse",
       "snippet": null
     },
     {
       "title": "Senior Software Engineer, Tokenization",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8189059?t=gh_src=&gh_jid=8189059",
-      "location": "Toronto, Canada",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8189057?t=gh_src=&gh_jid=8189057",
+      "location": "Menlo Park, CA; New York, NY",
       "posted_date": "2026-09-25T13:03:21-04:00",
       "source": "greenhouse",
       "snippet": null
@@ -296,6 +305,15 @@
       "posted_date": "2026-09-24T13:51:27-04:00",
       "source": "greenhouse",
       "snippet": null
+    },
+    {
+      "title": "Executive Assistant to CEO & Operations Administrator",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=0cd2787f57aa057f",
+      "location": null,
+      "posted_date": "2026-09-27",
+      "source": "indeed",
+      "snippet": "**Location:** Greater Houston area required; primarily remote  \n**Schedule:** Part time, approximately 30–35 hours per week  \n**Compensation:** $35–$50 per hour, based on experience and demonstrated capabilities\n\nAbout Blockchain for Energy\n\nBlockchain for Energy (B4E) is an industry consortium building shared digital infrastructure and practical solutions for energy companies. Our work brings together operators and technology partners to improve how organizations exchange information, validate"
     },
     {
       "title": "Blockchain Trainer",
@@ -379,6 +397,15 @@
       "snippet": "nan"
     },
     {
+      "title": "Crypto Intelligence Engineer (Full Stack)",
+      "company": "Elliptic",
+      "url": "https://www.linkedin.com/jobs/view/4455337691",
+      "location": null,
+      "posted_date": "2026-09-25",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
       "title": "Graduate Software Engineer - Blockchain (Entry-Level)",
       "company": "BIT Official",
       "url": "https://www.linkedin.com/jobs/view/4469419453",
@@ -431,6 +458,15 @@
       "posted_date": "2026-08-05",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "Primary Care Physician",
+      "company": "TEEMA Group",
+      "url": "https://www.indeed.com/viewjob?jk=b6d7d5f0f958029a",
+      "location": null,
+      "posted_date": "2026-09-28",
+      "source": "indeed",
+      "snippet": "**Primary Care Physician (Family Medicine / Med\\-Peds)**\n--------------------------------------------------------\n\n### **Role Summary**\n\n\nAre you an impactful physician leader looking to redefine healthcare delivery in an underserved, vibrant urban setting? MLK Community Medical Group (MLK CMG) is expanding its clinical footprint with a brand\\-new, premium outpatient clinic located in the heart of Downtown Los Angeles. We are actively seeking a dedicated, board\\-certified **Family Medicine or Me"
     },
     {
       "title": "SUSHI COOK 3- CRYPTO.COM ARENA",
@@ -595,7 +631,7 @@
       "snippet": "nan"
     },
     {
-      "title": "Could AI Engineer",
+      "title": "Cloud AI Engineer",
       "company": "Binance",
       "url": "https://www.indeed.com/viewjob?jk=12bdd631c920be77",
       "location": null,
@@ -620,15 +656,6 @@
       "posted_date": "2026-09-24",
       "source": "indeed",
       "snippet": "ackal is building a blockchain\\-native decentralized storage layer designed to give Web3 applications access to programmable, permissionless data infrastructure.\n\nWe are looking for a **Senior Web3 Developer / Blockchain Engineer** with deep smart\\-contract experience to help build the next generation of programmable decentralized storage.\n\n**What you'll build**\n\n* Smart contracts controlling storage permissions, payments and data access.\n* Protocol integrations between Jackal and external block"
-    },
-    {
-      "title": "Technical Project Manager",
-      "company": "nan",
-      "url": "https://www.indeed.com/viewjob?jk=1e3ab8f65eadfb6e",
-      "location": null,
-      "posted_date": "2026-09-24",
-      "source": "indeed",
-      "snippet": "CESS is building decentralized data infrastructure combining blockchain, distributed storage and high\\-performance content delivery. We are looking for a **Technical Project Manager** to coordinate engineering initiatives across the CESS protocol, storage infrastructure and developer ecosystem.\n\n**What you'll do**\n\n* Coordinate protocol and infrastructure projects from planning through production.\n* Work directly with blockchain, storage, backend and DevRel engineers.\n* Translate technical requi"
     },
     {
       "title": "Senior Tax Associate (Attorney)",
@@ -854,6 +881,24 @@
       "posted_date": "2026-09-10",
       "source": "indeed",
       "snippet": "**Our Purpose**\n\n*Mastercard powers economies and empowers people in 200\\+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their great"
+    },
+    {
+      "title": "Tax Director - Cryptocurrency & Digital Assets Experience Required",
+      "company": "BPM",
+      "url": "https://www.indeed.com/viewjob?jk=bd2931d6747da617",
+      "location": null,
+      "posted_date": "2026-09-09",
+      "source": "indeed",
+      "snippet": "BPM – where caring and community is in our company DNA; we are always striving to be our best selves; and we’re compelled to ask the questions that lead to innovation. As a **Tax Director within BPM's Corporate Tax practice focused on Cryptocurrency and Digital Assets**, you will help shape the future of taxation in one of the most dynamic and rapidly evolving sectors of the economy. Serving as a trusted advisor to innovative companies, funds, and investors, you will guide clients through comple"
+    },
+    {
+      "title": "Events Strategist",
+      "company": "OtterSec",
+      "url": "https://www.indeed.com/viewjob?jk=9204241247769b23",
+      "location": null,
+      "posted_date": "2026-09-09",
+      "source": "indeed",
+      "snippet": "OtterSec is looking for an experienced Events Strategist. In this role you will be responsible for planning, coordinating, and executing our industry and internal events. These include major conferences as well as smaller side events, meetups, and partner events. You will be the main owner of our events calendar, support the company’s brand and visibility, and design an outstanding experience.\n  \n  \n\n\\#\\# About OtterSec\n  \n  \n\nOtterSec is a blockchain security company founded in 2022\\. Built by"
     },
     {
       "title": "Blockchain Investigator, Financial Crimes, US",
@@ -1279,15 +1324,6 @@
       "snippet": "**About defi SOLUTIONS:**\n\n\ndefi SOLUTIONS is a pioneer in end\\-to\\-end, SaaS loan originations, servicing, and managed servicing solutions. Our customers include the highest volume captive auto lenders, banks, credit unions, and finance companies in North America. We have more than three decades of experience helping lenders reduce time\\-to\\-market, streamline operations, and customer lending processes with proven, scalable performance.\n\n**What is in it for You?**\n\n* Paid Training\n* Up to four"
     },
     {
-      "title": "Crypto Intelligence Engineer (Full Stack)",
-      "company": "Elliptic",
-      "url": "https://www.linkedin.com/jobs/view/4455337691",
-      "location": null,
-      "posted_date": "2026-09-25",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Lead Product Manager, Crypto",
       "company": "Alpaca",
       "url": "https://www.linkedin.com/jobs/view/4413470441",
@@ -1513,5 +1549,5 @@
       "snippet": "nan"
     }
   ],
-  "count": 168
+  "count": 172
 }
