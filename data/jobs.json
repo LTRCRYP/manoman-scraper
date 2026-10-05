@@ -158,7 +158,7 @@
       "company": "Stripe",
       "url": "https://stripe.com/jobs/search?gh_jid=7120766",
       "location": "US-NY",
-      "posted_date": "2026-09-25T16:44:33-04:00",
+      "posted_date": "2026-10-05T10:46:03-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -246,15 +246,6 @@
     {
       "title": "Senior Software Engineer, Tokenization",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8189059?t=gh_src=&gh_jid=8189059",
-      "location": "Toronto, Canada",
-      "posted_date": "2026-09-28T12:35:24-04:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
-      "title": "Senior Software Engineer, Tokenization",
-      "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8189057?t=gh_src=&gh_jid=8189057",
       "location": "Menlo Park, CA; New York, NY",
       "posted_date": "2026-10-02T18:50:48-04:00",
@@ -262,11 +253,11 @@
       "snippet": null
     },
     {
-      "title": "Software Engineer, Tokenization",
+      "title": "Senior Software Engineer, Tokenization",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8189005?t=gh_src=&gh_jid=8189005",
-      "location": "Menlo Park, CA; New York, NY",
-      "posted_date": "2026-10-02T18:50:59-04:00",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8189059?t=gh_src=&gh_jid=8189059",
+      "location": "Toronto, Canada",
+      "posted_date": "2026-09-28T12:35:24-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -276,6 +267,15 @@
       "url": "https://boards.greenhouse.io/robinhood/jobs/8189007?t=gh_src=&gh_jid=8189007",
       "location": "Toronto, Canada",
       "posted_date": "2026-09-28T12:39:49-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
+      "title": "Software Engineer, Tokenization",
+      "company": "Robinhood",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8189005?t=gh_src=&gh_jid=8189005",
+      "location": "Menlo Park, CA; New York, NY",
+      "posted_date": "2026-10-02T18:50:59-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -325,6 +325,15 @@
       "snippet": null
     },
     {
+      "title": "Head of Compliance Product",
+      "company": "Elliptic",
+      "url": "https://www.indeed.com/viewjob?jk=22c8e842c780b171",
+      "location": null,
+      "posted_date": "2026-10-05",
+      "source": "indeed",
+      "snippet": "We're hiring a **Head of Compliance Product** to lead the products at the heart of Elliptic and define what they become in the age of AI.\n\nCompliance is where Elliptic began and where our commercial core sits today. Some of the world's largest exchanges, banks and government agencies rely on our screening, monitoring and investigation products, and the industry they serve is at an inflection point. Compliance teams everywhere are looking to AI to make their work dramatically more efficient, free"
+    },
+    {
       "title": "Data Center Campus Security Manager",
       "company": "Applied Digital",
       "url": "https://www.indeed.com/viewjob?jk=f146738b3ad6fa72",
@@ -334,22 +343,31 @@
       "snippet": "**Job Title:** Data Center Campus Security Manager\n\nLocation: Alexandria Louisiana\n\n**Company Overview:**\n\nApplied Digital (APLD) is a U.S.-based leader in next-generation digital infrastructure, providing advanced solutions in High-Performance Computing (HPC) and Artificial Intelligence (AI). We support diverse markets through our Blockchain colocation services, HPC datacenter colocation services, and GPU cloud services. We are seeking a dedicated and experienced Data Center Campus Security Man"
     },
     {
-      "title": "Senior Director, Business Development",
-      "company": "nan",
-      "url": "https://www.indeed.com/viewjob?jk=e06ed1685b54b120",
+      "title": "Senior Blockchain Engineer",
+      "company": "Cari Network",
+      "url": "https://www.linkedin.com/jobs/view/4475560330",
       "location": null,
-      "posted_date": "2026-10-02",
-      "source": "indeed",
-      "snippet": "Senior Director, Business Development\n\nDepartment: Business Development / Strategic Partnerships\n\nLevel: Senior Director\n\nEmployment Type: Full-Time\n\nReports To: VP of Business Development / Chief Business Officer\n\nPosition Overview\n\nThe Senior Director of Business Development will play a key leadership role in driving the company's long-term growth strategy, expanding strategic partnerships, and identifying new commercial opportunities across the cryptocurrency, digital asset, fintech, and inst"
+      "posted_date": "2026-10-05",
+      "source": "linkedin",
+      "snippet": "nan"
     },
     {
-      "title": "Software Engineer, Full Stack & Blockchain",
-      "company": "nan",
-      "url": "https://www.indeed.com/viewjob?jk=c7e95f824e1bf067",
+      "title": "Senior Engineer – Blockchain Platforms",
+      "company": "Core AI Consulting Inc",
+      "url": "https://www.linkedin.com/jobs/view/4474331471",
       "location": null,
-      "posted_date": "2026-10-02",
-      "source": "indeed",
-      "snippet": "**About the Company**\n\nAquilon Labs builds institutional-grade infrastructure for digital asset markets. We connect institutional borrowers, lenders, investors and custodians so they can access digital asset lending, financing, custody and liquidity with the controls, transparency and compliance they expect from traditional finance.\n\nWe are building in a fast-moving market where trust, execution, and institutional relationships matter.\n\n**Position Overview**\n\nWe are hiring a full-stack engineer"
+      "posted_date": "2026-10-05",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Senior Blockchain Engineer",
+      "company": "Netrolynx AI",
+      "url": "https://www.linkedin.com/jobs/view/4475580422",
+      "location": null,
+      "posted_date": "2026-10-05",
+      "source": "linkedin",
+      "snippet": "nan"
     },
     {
       "title": "Institutional Crypto Strategy Specialist",
@@ -361,36 +379,9 @@
       "snippet": "nan"
     },
     {
-      "title": "Deployment Strategist - Crypto Investigations",
-      "company": "Chainalysis",
-      "url": "https://www.linkedin.com/jobs/view/4474594754",
-      "location": null,
-      "posted_date": "2026-10-02",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Senior Software Engineer- Blockchain Platform (Wallets, Liquidity & Bridging)",
-      "company": "Ladders",
-      "url": "https://www.linkedin.com/jobs/view/4472901986",
-      "location": null,
-      "posted_date": "2026-10-01",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Blockchain Strategy Consultant",
       "company": "Texas Consulting",
       "url": "https://www.linkedin.com/jobs/view/4472548726",
-      "location": null,
-      "posted_date": "2026-10-01",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Senior Engineer – Blockchain Platforms",
-      "company": "Core AI Consulting Inc",
-      "url": "https://www.linkedin.com/jobs/view/4474331471",
       "location": null,
       "posted_date": "2026-10-01",
       "source": "linkedin",
@@ -418,15 +409,6 @@
       "title": "Graduate Software Engineer - Blockchain (Entry-Level)",
       "company": "BIT Official",
       "url": "https://www.linkedin.com/jobs/view/4469419453",
-      "location": null,
-      "posted_date": "2026-09-23",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Senior Cryptocurrency Intelligence Scientist",
-      "company": "Elliptic",
-      "url": "https://www.linkedin.com/jobs/view/4470929610",
       "location": null,
       "posted_date": "2026-09-23",
       "source": "linkedin",
@@ -478,6 +460,15 @@
       "snippet": "nan"
     },
     {
+      "title": "Sr. Blockchain Engineer/Blockchain Engineer/Smart Contract Engineer",
+      "company": "CREAM, LLC",
+      "url": "https://www.linkedin.com/jobs/view/4461727335",
+      "location": null,
+      "posted_date": "2026-09-01",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
       "title": "Smart Contract Engineer",
       "company": "Crebit",
       "url": "https://www.linkedin.com/jobs/view/4449648266",
@@ -485,6 +476,15 @@
       "posted_date": "2026-08-05",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "Physician",
+      "company": "TEEMA Group",
+      "url": "https://www.indeed.com/viewjob?jk=eca57fc4154996d4",
+      "location": null,
+      "posted_date": "2026-10-05",
+      "source": "indeed",
+      "snippet": "**Primary Care Physician (Family Medicine / Med-Peds)**\n-------------------------------------------------------\n\n### **Role Summary**\n\nAre you an impactful physician leader looking to redefine healthcare delivery in an underserved, vibrant urban setting? MLK Community Medical Group (MLK CMG) is expanding its clinical footprint with a brand-new, premium outpatient clinic located in the heart of Downtown Los Angeles. We are actively seeking a dedicated, board-certified **Family Medicine or Med-Ped"
     },
     {
       "title": "Enterprise Customer Success Manager",
@@ -496,36 +496,18 @@
       "snippet": "### **Who We Are**\n\nOverflow is a Silicon Valley technology company with a bold mission: to inspire the world to give. We are a B2B SaaS philanthropy platform that enables modern giving across cash, stock, and crypto for nonprofits, churches, and mission-driven organizations. Backed by leading investors including Uncork Capital, Craft Ventures, and Village Global, Overflow builds secure, beautifully designed infrastructure that powers generosity at scale.\n\n### **Our Founding Principles**\n\nOverfl"
     },
     {
-      "title": "Crypto Senior Associate, Alvarez & Marsal New York Office (Remote Available)",
-      "company": "Alvarez & Marsal",
-      "url": "https://www.indeed.com/viewjob?jk=51f374c2f500c0a8",
-      "location": null,
-      "posted_date": "2026-10-02",
-      "source": "indeed",
-      "snippet": "**Description**\n\n**About Alvarez & Marsal**\n\nAlvarez & Marsal (A&M) is a global consulting firm with entrepreneurial, action- and results-oriented professionals. We take a hands-on approach to solving our clients' problems and helping them reach their potential. A&M is different by design: we give people ownership and impact from day one, fuel development through real opportunity, and provide direct access to leaders who invest in our growth. Our culture celebrates independent thinkers and doers"
-    },
-    {
-      "title": "Crypto Associate, Alvarez & Marsal New York Office (Remote Available)",
-      "company": "Alvarez & Marsal",
-      "url": "https://www.indeed.com/viewjob?jk=9a4669ab824dbd1b",
-      "location": null,
-      "posted_date": "2026-10-02",
-      "source": "indeed",
-      "snippet": "**Description**\n\n**About Alvarez & Marsal**\n\nAlvarez & Marsal (A&M) is a global consulting firm with entrepreneurial, action- and results-oriented professionals. We take a hands-on approach to solving our clients' problems and helping them reach their potential. A&M is different by design: we give people ownership and impact from day one, fuel development through real opportunity, and provide direct access to leaders who invest in our growth. Our culture celebrates independent thinkers and doers"
-    },
-    {
-      "title": "Senior Analyst, Tokenization & Alternative Products",
-      "company": "Cboe Global Markets",
-      "url": "https://www.indeed.com/viewjob?jk=37ed26683e5f900d",
-      "location": null,
-      "posted_date": "2026-10-02",
-      "source": "indeed",
-      "snippet": "**Job Description:**\n--------------------\n\nSenior Analyst, Tokenization & Alternative Products\n\n**Location:** Chicago (4 days in office)\n\n**Job Level:** P3 - Senior\n\n**Reports to:** VP, Head of Tokenization\n\n**Role Purpose**\n================\n\n* The Senior Analyst, Tokenization & Alternative Products will provide the research, modelling, and synthesis capacity required to support a fast-moving, multi-stakeholder portfolio. The role is scoped as a US-anchored hire, the head of Tokenization is base"
-    },
-    {
       "title": "Senior Product Manager, Crypto Wallet",
       "company": "Robinhood",
       "url": "https://www.linkedin.com/jobs/view/4445058389",
+      "location": null,
+      "posted_date": "2026-10-04",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Senior Staff Software Engineer - Blockchain Platform",
+      "company": "Coinbase",
+      "url": "https://www.linkedin.com/jobs/view/4430155435",
       "location": null,
       "posted_date": "2026-10-04",
       "source": "linkedin",
@@ -555,15 +537,6 @@
       "url": "https://www.linkedin.com/jobs/view/4467291017",
       "location": null,
       "posted_date": "2026-09-14",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Senior Staff Software Engineer - Blockchain Platform",
-      "company": "Coinbase",
-      "url": "https://www.linkedin.com/jobs/view/4430155435",
-      "location": null,
-      "posted_date": "2026-09-12",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -665,15 +638,6 @@
       "posted_date": "2026-09-24",
       "source": "indeed",
       "snippet": "At Offchain, we aren’t just building products: we’re leading a movement.\n\nAs pioneers in blockchain scalability and security, we're at the forefront of transforming how the world interacts with decentralized applications. We're laying the foundation that will define the next generation of digital commerce, governance, and human interaction. This involves tackling real-world challenges that come with scaling blockchain technology, without compromising on its core principles: decentralization, sec"
-    },
-    {
-      "title": "Senior Web3 Developer / Blockchain Engineer - Smart Contracts",
-      "company": "nan",
-      "url": "https://www.indeed.com/viewjob?jk=a221ea256c8f24b8",
-      "location": null,
-      "posted_date": "2026-09-24",
-      "source": "indeed",
-      "snippet": "ackal is building a blockchain-native decentralized storage layer designed to give Web3 applications access to programmable, permissionless data infrastructure.\n\nWe are looking for a **Senior Web3 Developer / Blockchain Engineer** with deep smart-contract experience to help build the next generation of programmable decentralized storage.\n\n**What you'll build**\n\n* Smart contracts controlling storage permissions, payments and data access.\n* Protocol integrations between Jackal and external blockch"
     },
     {
       "title": "Partnerships & Ecosystem Manager",
@@ -838,6 +802,15 @@
       "snippet": "**About the Company**\n\nBorn from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions including smart contract audits, penetration testing, on-chain monitoring, incide"
     },
     {
+      "title": "Crypto Partnership Intern (Summer 2027)",
+      "company": "Robinhood",
+      "url": "https://www.indeed.com/viewjob?jk=2d3b290b1008ed4c",
+      "location": null,
+      "posted_date": "2026-09-14",
+      "source": "indeed",
+      "snippet": "**Join us in building the future of finance.**\n----------------------------------------------\n\nOur mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you're ready to be at the epicenter of this historic cultural and financial shift, keep reading.\n\n**About the team + role**\n-------------------------\n\nWe are building an elite team, applying frontier tec"
+    },
+    {
       "title": "Blockchain Security Lead",
       "company": "Galaxy",
       "url": "https://www.linkedin.com/jobs/view/4427544395",
@@ -865,20 +838,20 @@
       "snippet": "nan"
     },
     {
+      "title": "Director of Crypto Compliance",
+      "company": "Ria Money Transfer",
+      "url": "https://www.linkedin.com/jobs/view/4473632914",
+      "location": null,
+      "posted_date": "2026-10-05",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
       "title": "Web3 Senior Sales Executive",
       "company": "Mercuryo",
       "url": "https://www.linkedin.com/jobs/view/4471497568",
       "location": null,
       "posted_date": "2026-09-24",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Director of Crypto Compliance",
-      "company": "Ria Money Transfer",
-      "url": "https://www.linkedin.com/jobs/view/4465530559",
-      "location": null,
-      "posted_date": "2026-09-15",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1261,6 +1234,15 @@
       "snippet": "nan"
     },
     {
+      "title": "BROADCAST ENGINEER - KVLY",
+      "company": "GRAY MEDIA",
+      "url": "https://www.indeed.com/viewjob?jk=108e1ab9cf887a4c",
+      "location": null,
+      "posted_date": "2026-10-05",
+      "source": "indeed",
+      "snippet": "**About Gray Media:**\n\nToday, we are a growing multimedia company headquartered in Atlanta, Georgia. We are the nation's largest owner of top-rated local television stations and digital assets serving 117 full-power television markets that collectively reach approximately 37% of US television households. The portfolio includes 80 markets with the top-rated television station and 100 markets with the first- and/or second-highest-rated television station in average all-day ratings across 116 of su"
+    },
+    {
       "title": "Senior Product Manager, Crypto Wallet",
       "company": "Robinhood",
       "url": "https://www.linkedin.com/jobs/view/4445060381",
@@ -1387,5 +1369,5 @@
       "snippet": "nan"
     }
   ],
-  "count": 154
+  "count": 152
 }
