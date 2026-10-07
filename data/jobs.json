@@ -10,6 +10,15 @@
       "snippet": null
     },
     {
+      "title": "Product Manager II, DeFi Borrow",
+      "company": "Coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8259870?gh_jid=8259870",
+      "location": "Remote - USA",
+      "posted_date": "2026-10-06T16:51:55-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
       "title": "Senior Software Engineer- Blockchain Network",
       "company": "Coinbase",
       "url": "https://www.coinbase.com/careers/positions/8094196?gh_jid=8094196",
@@ -48,6 +57,15 @@
     {
       "title": "Engineering Manager, Digital Assets",
       "company": "Ripple",
+      "url": "https://ripple.com/careers/all-jobs/job/8129118?gh_jid=8129118",
+      "location": "New York, NY, United States",
+      "posted_date": "2026-09-17T14:30:18-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
+      "title": "Engineering Manager, Digital Assets",
+      "company": "Ripple",
       "url": "https://ripple.com/careers/all-jobs/job/8129106?gh_jid=8129106",
       "location": "San Francisco, CA, United States",
       "posted_date": "2026-09-17T14:30:10-04:00",
@@ -60,15 +78,6 @@
       "url": "https://ripple.com/careers/all-jobs/job/8129139?gh_jid=8129139",
       "location": "Chicago, Illinois, United States",
       "posted_date": "2026-08-14T20:43:12-04:00",
-      "source": "greenhouse",
-      "snippet": null
-    },
-    {
-      "title": "Engineering Manager, Digital Assets",
-      "company": "Ripple",
-      "url": "https://ripple.com/careers/all-jobs/job/8129118?gh_jid=8129118",
-      "location": "New York, NY, United States",
-      "posted_date": "2026-09-17T14:30:18-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -246,6 +255,15 @@
     {
       "title": "Senior Software Engineer, Tokenization",
       "company": "Robinhood",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8189057?t=gh_src=&gh_jid=8189057",
+      "location": "Menlo Park, CA; New York, NY",
+      "posted_date": "2026-10-02T18:50:48-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
+      "title": "Senior Software Engineer, Tokenization",
+      "company": "Robinhood",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8189059?t=gh_src=&gh_jid=8189059",
       "location": "Toronto, Canada",
       "posted_date": "2026-09-28T12:35:24-04:00",
@@ -253,11 +271,11 @@
       "snippet": null
     },
     {
-      "title": "Senior Software Engineer, Tokenization",
+      "title": "Senior Software Engineer, Web3 Backend",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8189057?t=gh_src=&gh_jid=8189057",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8255840?t=gh_src=&gh_jid=8255840",
       "location": "Menlo Park, CA; New York, NY",
-      "posted_date": "2026-10-02T18:50:48-04:00",
+      "posted_date": "2026-10-07T06:10:49-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -280,11 +298,20 @@
       "snippet": null
     },
     {
-      "title": "Staff Software Engineer, Web3",
+      "title": "Software Engineer, Web3 Backend",
       "company": "Robinhood",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8258305?t=gh_src=&gh_jid=8258305",
+      "location": "Menlo Park, CA; New York, NY",
+      "posted_date": "2026-10-07T04:27:58-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
+      "title": "Software Engineer, Web3 Backend",
+      "company": "Robinhood",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8258307?t=gh_src=&gh_jid=8258307",
       "location": "Toronto, Canada",
-      "posted_date": "2026-09-28T12:36:05-04:00",
+      "posted_date": "2026-10-07T04:41:09-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -294,6 +321,15 @@
       "url": "https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950",
       "location": "Menlo Park, CA; New York, NY",
       "posted_date": "2026-10-02T18:49:53-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
+      "title": "Staff Software Engineer, Web3",
+      "company": "Robinhood",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952",
+      "location": "Toronto, Canada",
+      "posted_date": "2026-09-28T12:36:05-04:00",
       "source": "greenhouse",
       "snippet": null
     },
@@ -325,247 +361,67 @@
       "snippet": null
     },
     {
-      "title": "Lead Product Manager, Digital Assets",
-      "company": "CertiK",
-      "url": "https://www.indeed.com/viewjob?jk=af4d98bba4f12227",
+      "title": "Treasury Crypto Manager",
+      "company": "SoFi",
+      "url": "https://sofi.com/careers/job/8013449003?gh_jid=8013449003",
+      "location": "New York City, NY",
+      "posted_date": "2026-10-06T19:27:32-04:00",
+      "source": "greenhouse",
+      "snippet": null
+    },
+    {
+      "title": "Product Communications Lead",
+      "company": "Blockchain",
+      "url": "https://www.indeed.com/viewjob?jk=8260b993f4ea8a91",
+      "location": null,
+      "posted_date": "2026-10-07",
+      "source": "indeed",
+      "snippet": "**Blockchain** is connecting the world to the future of finance. As the most trusted and fastest-growing global crypto company, it helps millions of people worldwide safely access cryptocurrency. Since its inception in 2011, Blockchain has earned the trust of over 90 million wallet holders and more than 40 million verified users, facilitating over $1 trillion in crypto transactions.\n\nWe are looking for an experienced **Communications Lead** to help shape the next chapter of Blockchain.com's prod"
+    },
+    {
+      "title": "Principal Product Designer",
+      "company": "Figure",
+      "url": "https://www.indeed.com/viewjob?jk=042662b1814fa933",
+      "location": null,
+      "posted_date": "2026-10-07",
+      "source": "indeed",
+      "snippet": "**About Figure**\n\nFigure Technology Solutions, Inc. (Nasdaq: FIGR; OPEN: FGRS) is the leading blockchain-native capital marketplace for the origination, funding, sale and trading of tokenized assets. More than 480 partners use its loan origination system and capital marketplace. Collectively, Figure and its partners have originated over $30 billion of loans to date, among other products. The fastest growing components are Figure Connect, its credit marketplace, and Democratized Prime, Figure's o"
+    },
+    {
+      "title": "Platform Infrastructure Engineer",
+      "company": "BULLISH GLOBAL",
+      "url": "https://www.indeed.com/viewjob?jk=3a080d784d7abbc6",
       "location": null,
       "posted_date": "2026-10-06",
       "source": "indeed",
-      "snippet": "**About the Company**\n\nBorn from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions including smart contract audits, penetration testing, on-chain monitoring, incide"
+      "snippet": "**About Bullish**\n-----------------\n\n**Bullish is an institutionally focused global digital asset platform that provides market infrastructure and information services. These include:** **Bullish** **Exchange** **– a regulated and institutionally focused digital assets spot and derivatives exchange, integrating a high-performance central limit order book matching engine with automated market making to provide deep and predictable liquidity. Bullish Exchange is regulated in Germany, Hong Kong, an"
     },
     {
-      "title": "President",
-      "company": "The Crypto Company",
-      "url": "https://www.indeed.com/viewjob?jk=11099c97f9a00f2b",
+      "title": "2027 Consumer & Community Banking - Risk Modeling Associate Program - Summer Internship",
+      "company": "JPMorganChase",
+      "url": "https://www.indeed.com/viewjob?jk=8b3446438ab9209e",
       "location": null,
       "posted_date": "2026-10-06",
       "source": "indeed",
-      "snippet": "About The Crypto Company\n\nThe Crypto Company is a pioneer in the digital asset and blockchain infrastructure sector, focused on developing and commercializing next-generation blockchain technologies, enterprise assets, and compliant crypto-financial solutions. As the regulatory and institutional landscape for digital assets enters a new era of mainstream adoption, we are scaling our leadership team to drive aggressive corporate expansion, strategic mergers and acquisitions (M&A), and operational"
+      "snippet": "**JOB DESCRIPTION**  \n  \n  \n\nConsumer & Community Banking Risk Modeling Internship Program.\n\nOur AI and Data Science teams combine data science, research, and industry expertise to develop innovative solutions for complex financial challenges. By leveraging technologies like AI, blockchain, big data, machine learning, and robotics, we enhance customer and client experiences and promote impactful, real-world applications in a collaborative, entrepreneurial environment.\n\nAs a Summer Intern within"
     },
     {
-      "title": "Front-Office Software Trading Support Engineer Specialist - AVP - Charles River Development",
-      "company": "State Street",
-      "url": "https://www.indeed.com/viewjob?jk=f913b9ad7d42e02f",
+      "title": "Director, Blockchain Platform Architect – Technology Incubation – R&D",
+      "company": "Charles Schwab",
+      "url": "https://www.indeed.com/viewjob?jk=de8de9cdb05fd935",
       "location": null,
-      "posted_date": "2026-10-05",
+      "posted_date": "2026-10-06",
       "source": "indeed",
-      "snippet": "**Candidates must have Front-Office Trading / Buy-Side experience - if you do not have it DO NOT APPLY.**\n\n  \n\n**Position is located in Boston 3 days a week and 1 day a week in our Burlington MA office - other day remote**\n\n  \n\n**What we are looking for**\n\nA Dedicated Client Product Support Specialist supports post go-live of the Charles River Investment Management Solution (CRIMS) implementation. Contributions include defining client requirements, configuring, and tuning the application to the"
+      "snippet": "San Francisco, CA ; Austin, TX ; Southlake, TX ; Chicago, IL ; Orlando, FL ; Ann Arbor, MI ; Omaha, NE\n\n**Requisition ID** 2026-127671 **Category** Engineering & Software Development **Position type** Regular **Pay range** USD $219,000.00 - $274,000.00 / Year **Application deadline** 2026-10-16\n\n  \n\n**Your opportunity**\n--------------------\n\n  \n  \n\nAt Schwab, you’re empowered to make an impact on your career. Here, innovative thought meets creative problem solving, helping us “challenge the stat"
     },
     {
-      "title": "Senior HR Generalist",
-      "company": "Offchain Labs",
-      "url": "https://www.indeed.com/viewjob?jk=4e84b4dbf62dd6d2",
+      "title": "Digital Assets & Payments Delivery Lead",
+      "company": "Deloitte",
+      "url": "https://www.indeed.com/viewjob?jk=370fa770d023e282",
       "location": null,
-      "posted_date": "2026-10-05",
+      "posted_date": "2026-10-06",
       "source": "indeed",
-      "snippet": "At Offchain Labs, we aren’t just building products: we’re leading a movement.\n\nAs pioneers in blockchain scalability and security, we're at the forefront of transforming how the world interacts with decentralized applications. We're laying the foundation that will define the next generation of digital commerce, governance, and human interaction. This involves tackling real-world challenges that come with scaling blockchain technology, without compromising on its core principles: decentralization"
-    },
-    {
-      "title": "Senior / Tech Lead Mobile App Developer (Injective Labs)",
-      "company": "nan",
-      "url": "https://www.indeed.com/viewjob?jk=cc5c5639511c9cd7",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**About Injective Labs**\n------------------------\n\nInjective Labs is trailblazing a new dawn for Web3 enabled finance. We are the core contributors to Injective, one of the fastest growing blockchains in the industry.\n\nInjective provides an interoperable smart contracts platform that is optimized for building decentralized finance applications. Interoperability is at the core of Injective, which is natively integrated with chains such as Ethereum, Cosmos and Solana. Developers can rapidly launch"
-    },
-    {
-      "title": "Blockchain Engineer",
-      "company": "All IT Solutions LLC",
-      "url": "https://www.indeed.com/viewjob?jk=1dceb1b5f257afba",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "Blockchain Engineer\n\nAll IT Solutions\n\nUnited States · Pennington, New Jersey\n\nWorkplace Type — On-site\n\nEmployment Type — Contract\n\nWe are currently seeking a qualified Blockchain Engineer to support this engagement. Please review the complete requirements, work location, employment type, and screening questions before applying. Candidates whose experience closely matches the position will be contacted directly by the AIS recruiting team.\n\nJob Summary\n\nAll IT Solutions is seeking a Blockchain E"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=55cfc7dba3c13a7c",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=d0ed7048c01437ea",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=f3eb5efd8baef185",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=71406dac649fe3c7",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=8f249fe19550058f",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=5819340463b7f2ee",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=8c485b3ad5af56c2",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=3b34bbf9383187b1",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=2b3b2d7e66a3f8c7",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=0438ba50035157f5",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=d44dc0dafc27df6d",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=188d0d095e644e16",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=06ebfe3328c82579",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=6fbec12563e02906",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=e15360ceae50c598",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=ab827c1591177575",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=526048e1443ee019",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=4e414acf68d411dc",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=6b37574bb1bea987",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=63730e693b034e0a",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
-    },
-    {
-      "title": "Cyber Security Assessment Manager - Digital Assets",
-      "company": "Crowe",
-      "url": "https://www.indeed.com/viewjob?jk=bdc738f7e844b630",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Your Journey at Crowe Starts Here:**\n\nAt Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, ta"
+      "snippet": "Join our AI & Engineering team in transforming technology platforms, driving innovation, and helping make a significant impact on our clients' success. You'll work alongside talented professionals reimagining and re-engineering operations and processes that are critical to businesses. Your contributions can help clients improve financial performance, accelerate new digital ventures, and fuel growth through innovation.  \n  \nAI & Engineering leverages cutting-edge engineering capabilities to build"
     },
     {
       "title": "Digital Assets Compliance",
@@ -581,7 +437,16 @@
       "company": "Core AI Consulting Inc",
       "url": "https://www.linkedin.com/jobs/view/4474331471",
       "location": null,
-      "posted_date": "2026-10-05",
+      "posted_date": "2026-10-06",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Head of Blockchain Security",
+      "company": "CoinDesk",
+      "url": "https://www.linkedin.com/jobs/view/4465032377",
+      "location": null,
+      "posted_date": "2026-10-06",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -595,11 +460,20 @@
       "snippet": "nan"
     },
     {
-      "title": "Blockchain Strategy Consultant",
-      "company": "Texas Consulting",
-      "url": "https://www.linkedin.com/jobs/view/4472548726",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "company": "Chainalysis",
+      "url": "https://www.linkedin.com/jobs/view/4474594754",
       "location": null,
-      "posted_date": "2026-10-01",
+      "posted_date": "2026-10-02",
+      "source": "linkedin",
+      "snippet": "nan"
+    },
+    {
+      "title": "Senior Blockchain Engineer, Banking Integrations",
+      "company": "Global Settlement Network",
+      "url": "https://www.linkedin.com/jobs/view/4473212639",
+      "location": null,
+      "posted_date": "2026-09-29",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -631,29 +505,11 @@
       "snippet": "nan"
     },
     {
-      "title": "Senior Blockchain Engineer, Settlement",
-      "company": "Global Settlement Network",
-      "url": "https://www.linkedin.com/jobs/view/4470247988",
-      "location": null,
-      "posted_date": "2026-09-23",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Director, Technical Product Manager - Digital Assets",
       "company": "BNY",
       "url": "https://www.linkedin.com/jobs/view/4459008799",
       "location": null,
       "posted_date": "2026-09-16",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Head of Blockchain Security",
-      "company": "CoinDesk",
-      "url": "https://www.linkedin.com/jobs/view/4465032377",
-      "location": null,
-      "posted_date": "2026-09-09",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -667,15 +523,6 @@
       "snippet": "nan"
     },
     {
-      "title": "Sr. Blockchain Engineer/Blockchain Engineer/Smart Contract Engineer",
-      "company": "CREAM, LLC",
-      "url": "https://www.linkedin.com/jobs/view/4461727335",
-      "location": null,
-      "posted_date": "2026-09-01",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Smart Contract Engineer",
       "company": "Crebit",
       "url": "https://www.linkedin.com/jobs/view/4449648266",
@@ -683,6 +530,105 @@
       "posted_date": "2026-08-05",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "Associate, Legal Operations",
+      "company": "FalconX",
+      "url": "https://www.indeed.com/viewjob?jk=b37f7a63523ba69d",
+      "location": null,
+      "posted_date": "2026-10-07",
+      "source": "indeed",
+      "snippet": "**Who are we?**\n\nFalconX is a pioneering team of operators, investors, and builders committed to revolutionizing institutional access to the crypto markets. Operating at the intersection of traditional finance and cutting-edge technology, FalconX addresses the industry's foremost challenges: Navigating the digital asset market can be complex and fragmented, with limited products and services that support trading strategies, structures, and liquidity found in conventional financial markets. As a"
+    },
+    {
+      "title": "Software Engineering Lead for Crypto and Cross Domain Solutions",
+      "company": "General Dynamics Mission Systems",
+      "url": "https://www.indeed.com/viewjob?jk=8fc41328e795d0ed",
+      "location": null,
+      "posted_date": "2026-10-06",
+      "source": "indeed",
+      "snippet": "Basic Qualifications :\n\nBachelor's degree in Software Engineering, or related Science, Technology, Engineering or Mathematics field, plus a minimum of 10 years of relevant experience; or Master's degree, plus 8 years relevant experience.\n\n**CLEARANCE REQUIREMENTS:**  \nAbility to obtain a Department of Defense Secret security is required at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified"
+    },
+    {
+      "title": "VP, Algo Trading / SOR Developer",
+      "company": "GALAXY",
+      "url": "https://www.indeed.com/viewjob?jk=4e9611c1dfb4a3d6",
+      "location": null,
+      "posted_date": "2026-10-06",
+      "source": "indeed",
+      "snippet": "**Who We Are:**\n\n  \n\nGalaxy Digital Inc. (Nasdaq: GLXY) is a global leader in digital assets and data center infrastructure, growing the economy that runs on code. Galaxy delivers the onchain infrastructure that connects institutions to digital assets, including trading, advisory, asset management, staking, self-custody, and tokenization. Galaxy also develops and operates data center infrastructure to power AI and HPC workloads. Anchored by its Helios campus in Texas, Galaxy is building a multi-"
+    },
+    {
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "company": "GALAXY",
+      "url": "https://www.indeed.com/viewjob?jk=81cd84a390b28d41",
+      "location": null,
+      "posted_date": "2026-10-06",
+      "source": "indeed",
+      "snippet": "**Who We Are:**\n\n  \n\nGalaxy Digital Inc. (Nasdaq: GLXY) is a global leader in digital assets and data center infrastructure, growing the economy that runs on code. Galaxy delivers the onchain infrastructure that connects institutions to digital assets, including trading, advisory, asset management, staking, self-custody, and tokenization. Galaxy also develops and operates data center infrastructure to power AI and HPC workloads. Anchored by its Helios campus in Texas, Galaxy is building a multi-"
+    },
+    {
+      "title": "Fintech Compliance & Operations Manager — Crypto Payments",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=d240046f0d72a21f",
+      "location": null,
+      "posted_date": "2026-10-06",
+      "source": "indeed",
+      "snippet": "**Overview**\n\nWe are seeking a dynamic and detail-oriented Fintech Compliance & Operations Manager specializing in Crypto Payments to join our innovative team. In this pivotal role, you will oversee the compliance framework and operational processes that support our rapidly growing digital currency payment platform. Your expertise will ensure adherence to complex financial regulations, mitigate risks, and promote a culture of integrity and transparency. This is an exciting opportunity for a proa"
+    },
+    {
+      "title": "Legal General Counsel (JD)/ Technology, Nonprofit / Business Partner",
+      "company": "Ngage4Good",
+      "url": "https://www.indeed.com/viewjob?jk=890d5f8e14c799dc",
+      "location": null,
+      "posted_date": "2026-10-06",
+      "source": "indeed",
+      "snippet": "**Location:** Remote (U.S.)\n\n**About the Role**\n\nWe are an early-stage tech startup preparing for launch and looking for a sharp, entrepreneurial recent JD graduate or established lawyer to join us as a hands-on legal advisor. We are building an innovative platform leveraging digital art, Web3 and AI to engage everyone in fun ways and make an impact on the world.\n\nYou will work as a trusted business partner directly with the founders on real legal questions across a genuinely varied stack: inter"
+    },
+    {
+      "title": "Creative Producer",
+      "company": "BULLISH GLOBAL",
+      "url": "https://www.indeed.com/viewjob?jk=edbce9108d54e971",
+      "location": null,
+      "posted_date": "2026-10-06",
+      "source": "indeed",
+      "snippet": "**About Bullish**\n-----------------\n\n**Bullish is an institutionally focused global digital asset platform that provides market infrastructure and information services. These include:** **Bullish** **Exchange** **– a regulated and institutionally focused digital assets spot and derivatives exchange, integrating a high-performance central limit order book matching engine with automated market making to provide deep and predictable liquidity. Bullish Exchange is regulated in Germany, Hong Kong, an"
+    },
+    {
+      "title": "Crypto Officer",
+      "company": "Seneca Holdings, LLC",
+      "url": "https://www.indeed.com/viewjob?jk=218f866df06576b2",
+      "location": null,
+      "posted_date": "2026-10-06",
+      "source": "indeed",
+      "snippet": "**Great Hill Solutions, LLC** is part of the **Seneca Nation Group (SNG)** portfolio of companies**. SNG** is Seneca Holdings' federal government contracting business that meets mission-critical needs of federal civilian, defense, and intelligence community customers. Our portfolio comprises multiple subsidiaries that participate in the Small Business Administration 8(a) program. To learn more about SNG, visit the website and follow us on LinkedIn.\n\nOur team of talented individuals is what makes"
+    },
+    {
+      "title": "Crypto Officer",
+      "company": "Seneca Holdings, LLC",
+      "url": "https://www.indeed.com/viewjob?jk=1c6430c8d3e3033c",
+      "location": null,
+      "posted_date": "2026-10-06",
+      "source": "indeed",
+      "snippet": "**Great Hill Solutions, LLC** is part of the **Seneca Nation Group (SNG)** portfolio of companies**. SNG** is Seneca Holdings' federal government contracting business that meets mission-critical needs of federal civilian, defense, and intelligence community customers. Our portfolio comprises multiple subsidiaries that participate in the Small Business Administration 8(a) program. To learn more about SNG, visit the website and follow us on LinkedIn.\n\nOur team of talented individuals is what makes"
+    },
+    {
+      "title": "Solutions Architect - TradFi & Digital Asset Systems",
+      "company": "GALAXY",
+      "url": "https://www.indeed.com/viewjob?jk=cccd2fb6b3c10b67",
+      "location": null,
+      "posted_date": "2026-10-06",
+      "source": "indeed",
+      "snippet": "**Who We Are:**\n\n  \n\nGalaxy Digital Inc. (Nasdaq: GLXY) is a global leader in digital assets and data center infrastructure, growing the economy that runs on code. Galaxy delivers the onchain infrastructure that connects institutions to digital assets, including trading, advisory, asset management, staking, self-custody, and tokenization. Galaxy also develops and operates data center infrastructure to power AI and HPC workloads. Anchored by its Helios campus in Texas, Galaxy is building a multi-"
+    },
+    {
+      "title": "Compliance Operations Analyst",
+      "company": "fin",
+      "url": "https://www.indeed.com/viewjob?jk=a9d4b9b620be51a2",
+      "location": null,
+      "posted_date": "2026-10-06",
+      "source": "indeed",
+      "snippet": "**About Fin**\n\nFin is a next-generation payments platform built for high-value, global, and instant transactions. We are a Series A-stage company backed by Sequoia, Circle, and other notable investors. Powered by stablecoins, Fin enables users and businesses to move millions of dollars in seconds - whether to other Fin users, directly into bank accounts, or across crypto rails. By combining the speed of crypto with the reliability and trust of traditional finance, Fin reimagines how money moves"
     },
     {
       "title": "Senior Manager, Marketing Analytics",
@@ -712,13 +658,13 @@
       "snippet": "At Ripple, we're building a world where value moves like information does today. It's big, it's bold, and we're already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs.\n\nIf you're re"
     },
     {
-      "title": "Full Stack Software Engineer (contract)",
-      "company": "Smart Apply Test Company",
-      "url": "https://www.indeed.com/viewjob?jk=0018a3a8097acc73",
+      "title": "Lead Product Manager, Digital Assets",
+      "company": "CertiK",
+      "url": "https://www.indeed.com/viewjob?jk=af4d98bba4f12227",
       "location": null,
       "posted_date": "2026-10-06",
       "source": "indeed",
-      "snippet": "CoinFlip is a global digital currency platform company, focused on providing consumers simple and secure access to buy and sell cryptocurrency. The company operates the world's largest network of cryptocurrency kiosks by transaction volume with more than 5,500 kiosks across 49 U.S. states, Puerto Rico, Canada, Australia, New Zealand, South Africa, Italy, Panama, Brazil Mexico, and Spain. CoinFlip’s digital currency kiosks make buying and selling major cryptocurrencies accessible and safe for con"
+      "snippet": "**About the Company**\n\nBorn from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions including smart contract audits, penetration testing, on-chain monitoring, incide"
     },
     {
       "title": "Head of Marketing",
@@ -764,105 +710,6 @@
       "posted_date": "2026-10-05",
       "source": "indeed",
       "snippet": "Founded in Silicon Valley in 2009 by Marc Andreessen and Ben Horowitz, Andreessen Horowitz (aka a16z) is a venture capital firm that backs bold entrepreneurs building the future through technology. We are stage agnostic. We invest in seed to venture to growth-stage technology companies, across AI, bio + healthcare, consumer, crypto, enterprise, fintech, games, and companies building toward American dynamism. a16z has $100B+ under management across multiple funds.\n\nWe’ve established a team that i"
-    },
-    {
-      "title": "Consumer Compliance Manager - UDAAP and Reg E focused",
-      "company": "CRYPTO.com",
-      "url": "https://www.indeed.com/viewjob?jk=6846b8c894bae549",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**About the Role**\n\nCrypto.com is looking for a Compliance Manager to lead and strengthen our U.S. consumer compliance program and exchange operations. This is a high-ownership, hands-on role built for someone who thrives in fast-moving environments and brings deep experience in consumer protection laws, Regulation E, and UDAAP compliance. While supporting broader regulatory initiatives and BSA/AML program alignment, your primary focus will be designing, auditing, and executing consumer complian"
-    },
-    {
-      "title": "Consumer Compliance Manager - UDAAP and Reg E focused",
-      "company": "CRYPTO.com",
-      "url": "https://www.indeed.com/viewjob?jk=7a9d35f21fe99b45",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**About the Role**\n\nCrypto.com is looking for a Compliance Manager to lead and strengthen our U.S. consumer compliance program and exchange operations. This is a high-ownership, hands-on role built for someone who thrives in fast-moving environments and brings deep experience in consumer protection laws, Regulation E, and UDAAP compliance. While supporting broader regulatory initiatives and BSA/AML program alignment, your primary focus will be designing, auditing, and executing consumer complian"
-    },
-    {
-      "title": "Consumer Compliance Manager - UDAAP and Reg E focused",
-      "company": "CRYPTO.com",
-      "url": "https://www.indeed.com/viewjob?jk=42069a8495ebfba5",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**About the Role**\n\nCrypto.com is looking for a Compliance Manager to lead and strengthen our U.S. consumer compliance program and exchange operations. This is a high-ownership, hands-on role built for someone who thrives in fast-moving environments and brings deep experience in consumer protection laws, Regulation E, and UDAAP compliance. While supporting broader regulatory initiatives and BSA/AML program alignment, your primary focus will be designing, auditing, and executing consumer complian"
-    },
-    {
-      "title": "Lead Cryptography Engineer - PKI",
-      "company": "Morgan Stanley",
-      "url": "https://www.indeed.com/viewjob?jk=6b3a4d61ab66e57a",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "In the Technology division, we leverage innovation to build the connections and capabilities that power our Firm, enabling our clients and colleagues to redefine markets and shape the future of our communities. This is a Lead Cryptography Engineering position at Vice President level, which is part of the job family responsible for engineering and operations of cryptographic solutions and responsible for providing specialist cyber expertise and creating solutions that protect the organization's s"
-    },
-    {
-      "title": "Premium Sales Specialist (Crypto.com Arena)",
-      "company": "AEG Worldwide",
-      "url": "https://www.indeed.com/viewjob?jk=ba64c2994a0a4295",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "For more than 20 years, **AEG** has played a pivotal role in transforming sports and live entertainment. Annually, we host more than 160 million guests, promote more than 10,000 shows and present more than 22,000 events around the world. We are committed to innovation, artistry, and community, and leverage the power of our 300+ venues, leading sports franchises, marquee music brands, integrated entertainment districts, premier ticketing platform and global sponsorship activations, to create memo"
-    },
-    {
-      "title": "Trading Support Analyst",
-      "company": "CRYPTO.com",
-      "url": "https://www.indeed.com/viewjob?jk=51b4e334e8152be9",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "The **Trading team** develops and operates quantitative trading strategies across **prediction markets, equity markets, and crypto markets**.  \nWe are looking for a **Trading Operations & Support Analyst** to support live systematic trading, ensure smooth day-to-day operations, and help improve the reliability and efficiency of our trading systems and processes.\n\n### **Responsibilities:**\n\n* Monitor live trading systems, strategies, orders, positions, P&L, and risk.\n* Act as the first line of su"
-    },
-    {
-      "title": "Systematic Trader",
-      "company": "CRYPTO.com",
-      "url": "https://www.indeed.com/viewjob?jk=86c2eef776ce37f0",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "The **Trading team** develops and operates quantitative trading strategies across **prediction markets, equity markets, and crypto markets**, including spot and derivatives.  \nWe are looking for an experienced **Systematic Trader** to develop, operate, and continuously improve systematic strategies in fast-moving electronic markets.\n\n### **Responsibilities:**\n\n* Operate and manage systematic trading strategies and frameworks across prediction markets, equities, and crypto, including spot, perpet"
-    },
-    {
-      "title": "VP, Product Analytics",
-      "company": "CRYPTO.com",
-      "url": "https://www.indeed.com/viewjob?jk=4a17724de51b50d0",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "We are looking for a hands-on **VP, Product Analytics** to lead Product Analytics and build an **AI-native analytics operating system** across the company’s crypto, stocks, prediction markets, perpetuals, and stock futures products.\n\nYou will set the analytics strategy, lead and develop the Product Analytics team, and ensure data consistently shapes product and business decisions. This is a player-coach role: you will operate at executive level while remaining technically close enough to review"
-    },
-    {
-      "title": "Executive Assistant to the CEO",
-      "company": "SUAVE",
-      "url": "https://www.indeed.com/viewjob?jk=4a008966630eeb69",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**About Us**\n\nSuave Money is building Phoenix Market — a place for people to convert crypto and dollars 24/7 instantly. Founded by ex-Jump Crypto and Y Combinator alumni, and backed by a16z, HF0, and Orange DAO. We're a small, fast-moving team.\n\nWe're looking for an Executive Assistant to be our CEO's right hand on the ground. About half the job is keeping his work and life running. The other half is the business: research, vendors, events and content, and representing Phoenix in person with ban"
-    },
-    {
-      "title": "Head of Compliance Product",
-      "company": "Elliptic",
-      "url": "https://www.indeed.com/viewjob?jk=22c8e842c780b171",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "We're hiring a **Head of Compliance Product** to lead the products at the heart of Elliptic and define what they become in the age of AI.\n\nCompliance is where Elliptic began and where our commercial core sits today. Some of the world's largest exchanges, banks and government agencies rely on our screening, monitoring and investigation products, and the industry they serve is at an inflection point. Compliance teams everywhere are looking to AI to make their work dramatically more efficient, free"
-    },
-    {
-      "title": "Physician",
-      "company": "TEEMA Group",
-      "url": "https://www.indeed.com/viewjob?jk=eca57fc4154996d4",
-      "location": null,
-      "posted_date": "2026-10-05",
-      "source": "indeed",
-      "snippet": "**Primary Care Physician (Family Medicine / Med-Peds)**\n-------------------------------------------------------\n\n### **Role Summary**\n\nAre you an impactful physician leader looking to redefine healthcare delivery in an underserved, vibrant urban setting? MLK Community Medical Group (MLK CMG) is expanding its clinical footprint with a brand-new, premium outpatient clinic located in the heart of Downtown Los Angeles. We are actively seeking a dedicated, board-certified **Family Medicine or Med-Ped"
     },
     {
       "title": "Content Marketing Manager, Crypto",
@@ -917,6 +764,24 @@
       "posted_date": "2026-05-12",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "Senior HR Generalist",
+      "company": "Offchain Labs",
+      "url": "https://www.indeed.com/viewjob?jk=4e84b4dbf62dd6d2",
+      "location": null,
+      "posted_date": "2026-10-05",
+      "source": "indeed",
+      "snippet": "At Offchain Labs, we aren’t just building products: we’re leading a movement.\n\nAs pioneers in blockchain scalability and security, we're at the forefront of transforming how the world interacts with decentralized applications. We're laying the foundation that will define the next generation of digital commerce, governance, and human interaction. This involves tackling real-world challenges that come with scaling blockchain technology, without compromising on its core principles: decentralization"
+    },
+    {
+      "title": "Senior / Tech Lead Mobile App Developer (Injective Labs)",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=cc5c5639511c9cd7",
+      "location": null,
+      "posted_date": "2026-10-05",
+      "source": "indeed",
+      "snippet": "**About Injective Labs**\n------------------------\n\nInjective Labs is trailblazing a new dawn for Web3 enabled finance. We are the core contributors to Injective, one of the fastest growing blockchains in the industry.\n\nInjective provides an interoperable smart contracts platform that is optimized for building decentralized finance applications. Interoperability is at the core of Injective, which is natively integrated with chains such as Ethereum, Cosmos and Solana. Developers can rapidly launch"
     },
     {
       "title": "Account Manager, Startups",
@@ -991,15 +856,6 @@
       "snippet": "**About the Company**\n\nGemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greate"
     },
     {
-      "title": "CRM Manager",
-      "company": "CRYPTO.com",
-      "url": "https://www.indeed.com/viewjob?jk=789895e760ed4ca8",
-      "location": null,
-      "posted_date": "2026-09-28",
-      "source": "indeed",
-      "snippet": "Crypto.com is seeking a **CRM Manager** to lead the strategy and execution of cross-channel communications across our product verticals. Key functions will include driving platform retention, engagement, onboarding, and usage metrics, via channels including but not limited to push notifications, email, in-app etc.\n\nThe CRM Manager will work closely with Marketing, Product, Creative, Legal, Compliance, and MarTech teams to deliver campaigns that are timely, compliant, and audience-right. The CRM"
-    },
-    {
       "title": "Cloud AI Engineer",
       "company": "Binance",
       "url": "https://www.indeed.com/viewjob?jk=12bdd631c920be77",
@@ -1039,15 +895,6 @@
       "title": "Senior Software Engineer - Go & Rust, Blockchain Infrastructure",
       "company": "QuickNode",
       "url": "https://www.indeed.com/viewjob?jk=2c8d3c1f40f84f90",
-      "location": null,
-      "posted_date": "2026-09-21",
-      "source": "indeed",
-      "snippet": "Quicknode is a cloud-based infrastructure company that powers the blockchain ecosystem.\n\nOur mission is to be the indispensable utility that empowers companies and innovators globally to build next-generation, Web3 enabled businesses & applications using blockchain technology. Quicknode is backed by some of the world's best investors including Tiger Global, Y Combinator, SoftBank, and the Seven Seven Six Fund. The Quicknode team has over 110 people maintaining high performance global data infras"
-    },
-    {
-      "title": "Technical Support Engineer",
-      "company": "QuickNode",
-      "url": "https://www.indeed.com/viewjob?jk=1cb74e6632bd3b6b",
       "location": null,
       "posted_date": "2026-09-21",
       "source": "indeed",
@@ -1117,13 +964,13 @@
       "snippet": "**About Us:** Inca Digital is a veteran-owned data and intelligence company delivering digital-asset analytics for exchanges, financial institutions, regulators, and blockchain ecosystems. By fusing data across blockchains, exchanges, social networks, and markets, our platform delivers market surveillance, ecosystem monitoring, and counter–illicit finance intelligence to help clients manage risk and make better decisions. We operate as a fast-paced, fully remote, global tech team driven by an as"
     },
     {
-      "title": "Software Engineer II - Blockchain",
-      "company": "Mastercard",
-      "url": "https://www.indeed.com/viewjob?jk=82c0da381b35438a",
+      "title": "Technical Operations Support Engineer",
+      "company": "Fidelity TalentSource",
+      "url": "https://www.indeed.com/viewjob?jk=bec5488d54883dda",
       "location": null,
-      "posted_date": "2026-09-16",
+      "posted_date": "2026-06-30",
       "source": "indeed",
-      "snippet": "**Our Purpose**\n\n*Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greate"
+      "snippet": "Fidelity TalentSource is your destination for discovering your next temporary role at Fidelity Investments. We are currently sourcing for a Technical Operational Support Engineer to work from home (must be within a 60 mile radius from Boston, MA) from 4pm EST to 12pm EST Monday thru Friday and on call work on the weekends!\n  \n  \n**The Role**  \nWe are seeking a driven and versatile Technical Operational Support Engineer to join our Blockchain Incubator Team. This is a high-impact role crafted for"
     },
     {
       "title": "Blockchain Security Lead",
@@ -1153,11 +1000,47 @@
       "snippet": "nan"
     },
     {
-      "title": "Software Engineer (L2)",
+      "title": "Software Engineer, Platform Access (L2)",
       "company": "Twilio",
-      "url": "https://www.indeed.com/viewjob?jk=dcb75c62e05e399f",
+      "url": "https://www.indeed.com/viewjob?jk=ad00d8035fce07f5",
       "location": null,
-      "posted_date": "2026-10-01",
+      "posted_date": "2026-10-06",
+      "source": "indeed",
+      "snippet": "**Who we are**\n\nAt Twilio, we're shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n\nOur dedication to remote-first work, and strong culture of connection and global inclusion means that no matter your location, you're part of a vibrant team with diverse experiences making a global impact each day. As we continue to"
+    },
+    {
+      "title": "Consumer Compliance Manager - UDAAP and Reg E focused",
+      "company": "CRYPTO.com",
+      "url": "https://www.indeed.com/viewjob?jk=6846b8c894bae549",
+      "location": null,
+      "posted_date": "2026-10-05",
+      "source": "indeed",
+      "snippet": "**About the Role**\n\nCrypto.com is looking for a Compliance Manager to lead and strengthen our U.S. consumer compliance program and exchange operations. This is a high-ownership, hands-on role built for someone who thrives in fast-moving environments and brings deep experience in consumer protection laws, Regulation E, and UDAAP compliance. While supporting broader regulatory initiatives and BSA/AML program alignment, your primary focus will be designing, auditing, and executing consumer complian"
+    },
+    {
+      "title": "Consumer Compliance Manager - UDAAP and Reg E focused",
+      "company": "CRYPTO.com",
+      "url": "https://www.indeed.com/viewjob?jk=7a9d35f21fe99b45",
+      "location": null,
+      "posted_date": "2026-10-05",
+      "source": "indeed",
+      "snippet": "**About the Role**\n\nCrypto.com is looking for a Compliance Manager to lead and strengthen our U.S. consumer compliance program and exchange operations. This is a high-ownership, hands-on role built for someone who thrives in fast-moving environments and brings deep experience in consumer protection laws, Regulation E, and UDAAP compliance. While supporting broader regulatory initiatives and BSA/AML program alignment, your primary focus will be designing, auditing, and executing consumer complian"
+    },
+    {
+      "title": "Consumer Compliance Manager - UDAAP and Reg E focused",
+      "company": "CRYPTO.com",
+      "url": "https://www.indeed.com/viewjob?jk=42069a8495ebfba5",
+      "location": null,
+      "posted_date": "2026-10-05",
+      "source": "indeed",
+      "snippet": "**About the Role**\n\nCrypto.com is looking for a Compliance Manager to lead and strengthen our U.S. consumer compliance program and exchange operations. This is a high-ownership, hands-on role built for someone who thrives in fast-moving environments and brings deep experience in consumer protection laws, Regulation E, and UDAAP compliance. While supporting broader regulatory initiatives and BSA/AML program alignment, your primary focus will be designing, auditing, and executing consumer complian"
+    },
+    {
+      "title": "Software Engineer, Platform Access (L2)",
+      "company": "Twilio",
+      "url": "https://www.indeed.com/viewjob?jk=66c4e359586c6847",
+      "location": null,
+      "posted_date": "2026-06-24",
       "source": "indeed",
       "snippet": "**Who we are**\n\nAt Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n\nOur dedication to remote-first work, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to"
     },
@@ -1540,15 +1423,6 @@
       "snippet": "**About the Role:**\n\nAs a Senior team member on our Backline Collections team, you will perform in a leadership role, supporting hiring manager(s), clients, customers, vendors, and other internal contacts. In addition, you will be responsible for supporting various functions, including bankruptcy, repossessions, and insurance for defi’s auto clients. You will be key in helping the company achieve desired financial outcomes as defined by client objectives.\n\n**Position Responsibilities**:\n\nRespons"
     },
     {
-      "title": "GTM - Web3 Partnerships",
-      "company": "D3",
-      "url": "https://www.linkedin.com/jobs/view/4473913305",
-      "location": null,
-      "posted_date": "2026-09-30",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Head of DeFi",
       "company": "Monad Foundation",
       "url": "https://www.linkedin.com/jobs/view/4386332189",
@@ -1558,22 +1432,49 @@
       "snippet": "nan"
     },
     {
-      "title": "Senior Vice President IT - Generation, Transmission & Distribution",
-      "company": "American Electric Power",
-      "url": "https://www.indeed.com/viewjob?jk=e22a7ac871d18b0d",
+      "title": "Global Partnership Solutions & Insights Specialist",
+      "company": "Orlando Magic",
+      "url": "https://www.indeed.com/viewjob?jk=4225f6916ce1b303",
       "location": null,
-      "posted_date": "2026-10-06",
+      "posted_date": "2026-10-07",
       "source": "indeed",
-      "snippet": "**Job Posting End Date**\n\n10-19-2026\n\nPlease note the job posting will close on the day before the posting end date.\n\n**Job Summary**\n\nWe are seeking a forward-thinking and transformational Senior Vice President, Information Technology - Generation, Transmission & Distribution who will report directly to the Executive Vice President and Chief Information & Technology Officer. This executive will define and execute the technology vision and strategy that powers the company's generation, transmiss"
+      "snippet": "#### **Before we get into the specifics of the role, there are a few things we want you to know:**\n\nAt the Orlando Magic, our approach is to not only learn as much about you as we can, but for you to learn about us. This is definitely a two-way street, so time with your potential new leader, teammates, and/or other departments that the role will work with is critical. It isn’t just, “what are we looking for”, but also, “what do we have to offer you” and “are we the right fit for you.” While ever"
     },
     {
-      "title": "Web Accessibility Specialist Atlanta GA",
-      "company": "American business solutions inc",
-      "url": "https://www.indeed.com/viewjob?jk=5c8be6258f41e2f8",
+      "title": "Automation & Controls / Instrumentation Engineer",
+      "company": "nan",
+      "url": "https://www.indeed.com/viewjob?jk=5ff8e9dfaa038d13",
       "location": null,
-      "posted_date": "2026-10-05",
+      "posted_date": "2026-10-07",
       "source": "indeed",
-      "snippet": "##### **Complete Description**\n\n  \n\nWork Schedule: 8:30 AM - 5:00 PM\n\n  \n\nWork Location: Hybrid (Onsite 3 days/week and remote 2 days/week)  \n  \n  \nJob Descriptio  \n  \n  \n  \nKey Responsibilities  \n  \nADA Compliance & Remediation  \n  \n\n* Remediate non-compliant HTML, CSS, JavaScript, interactive tools, and web structures across all digital channels.\n* Ensure all web-published digital assets (PDFs, videos, forms, graphics, presentations, photos, and GIS maps[KL1.1]) comply with WCAG 2.1 AA standar"
+      "snippet": "**COMPANY OVERVIEW**\n\nFounded in 2007 in Huntsville, AL, MartinFed provides the U.S. government with customer-focused, performance-based solutions using technology and an empowered workforce as an engine to drive its customers' missions. Our goal is to attract the best and brightest within their field.\n\nWe invest in our people because they are our greatest asset. They cultivate our purpose, embody and reflect our core values, and define our culture. MartinFed's core values that set us apart are"
+    },
+    {
+      "title": "NEWSCAST PRODUCER - WMTV",
+      "company": "GRAY MEDIA",
+      "url": "https://www.indeed.com/viewjob?jk=5b85a55d89fa4e3e",
+      "location": null,
+      "posted_date": "2026-10-07",
+      "source": "indeed",
+      "snippet": "**About Gray Media:**\n\nToday, we are a growing multimedia company headquartered in Atlanta, Georgia. We are the nation's largest owner of top-rated local television stations and digital assets serving 117 full-power television markets that collectively reach approximately 37% of US television households. The portfolio includes 80 markets with the top-rated television station and 100 markets with the first- and/or second-highest-rated television station in average all-day ratings across 116 of su"
+    },
+    {
+      "title": "NEWS PRODUCER (ASSO) - WDBJ",
+      "company": "GRAY MEDIA",
+      "url": "https://www.indeed.com/viewjob?jk=22a6c56e73bbdd87",
+      "location": null,
+      "posted_date": "2026-10-07",
+      "source": "indeed",
+      "snippet": "**About Gray Media:**\n\nToday, we are a growing multimedia company headquartered in Atlanta, Georgia. We are the nation's largest owner of top-rated local television stations and digital assets serving 117 full-power television markets that collectively reach approximately 37% of US television households. The portfolio includes 80 markets with the top-rated television station and 100 markets with the first and/or second highest-rated television station in average all-day ratings across 116 of suc"
+    },
+    {
+      "title": "Kinexys Digital Assets - Product Manager - Vice President",
+      "company": "JPMorganChase",
+      "url": "https://www.linkedin.com/jobs/view/4440525172",
+      "location": null,
+      "posted_date": "2026-10-07",
+      "source": "linkedin",
+      "snippet": "nan"
     },
     {
       "title": "Digital Assets & Payments Delivery Lead",
@@ -1594,20 +1495,11 @@
       "snippet": "nan"
     },
     {
-      "title": "Product Manager - Digital Collateral and Tokenization - Vice President",
-      "company": "JPMorganChase",
-      "url": "https://www.linkedin.com/jobs/view/4437735011",
+      "title": "Director, Digital Assets",
+      "company": "BlackRock",
+      "url": "https://www.linkedin.com/jobs/view/4387849321",
       "location": null,
-      "posted_date": "2026-10-01",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
-      "title": "Digital Assets Crypto/Blockchain Manager",
-      "company": "PwC",
-      "url": "https://www.linkedin.com/jobs/view/4462440482",
-      "location": null,
-      "posted_date": "2026-09-24",
+      "posted_date": "2026-09-29",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1639,15 +1531,6 @@
       "snippet": "nan"
     },
     {
-      "title": "Head of Digital Assets Operations Enablement",
-      "company": "Citi",
-      "url": "https://www.linkedin.com/jobs/view/4458313412",
-      "location": null,
-      "posted_date": "2026-09-17",
-      "source": "linkedin",
-      "snippet": "nan"
-    },
-    {
       "title": "Digital Assets and Payments Product Lead",
       "company": "Deloitte",
       "url": "https://www.linkedin.com/jobs/view/4420689676",
@@ -1657,11 +1540,47 @@
       "snippet": "nan"
     },
     {
-      "title": "Kinexys Digital Assets - Product Manager - Vice President",
-      "company": "JPMorganChase",
-      "url": "https://www.linkedin.com/jobs/view/4440525172",
+      "title": "Blockchain Developer",
+      "company": "BV Teck",
+      "url": "https://www.indeed.com/viewjob?jk=06a412cb9f758689",
       "location": null,
-      "posted_date": "2026-09-16",
+      "posted_date": "2026-10-06",
+      "source": "indeed",
+      "snippet": "**Blockchain Developer – Remote**  \n  \n**Bright Vision Technologies** is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.  \n  \nThis is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.  \n  \n**Job Title:** Blockchain Developer  \n**Location:** 100% Remote (U.S.)  \n**Position Type:** Full-time, Direct W2  \n**Salary Range:** $140,000–$200,00"
+    },
+    {
+      "title": "Senior Pricing Analyst",
+      "company": "Figure",
+      "url": "https://www.indeed.com/viewjob?jk=80381945020e55f7",
+      "location": null,
+      "posted_date": "2026-10-06",
+      "source": "indeed",
+      "snippet": "**About Figure**\n\nFigure Technology Solutions, Inc. (Nasdaq: FIGR; OPEN: FGRS) is the leading blockchain-native capital marketplace for the origination, funding, sale and trading of tokenized assets. More than 480 partners use its loan origination system and capital marketplace. Collectively, Figure and its partners have originated over $30 billion of loans to date, among other products. The fastest growing components are Figure Connect, its credit marketplace, and Democratized Prime, Figure's o"
+    },
+    {
+      "title": "Head of AI Expansion",
+      "company": "Tether Operations Limited",
+      "url": "https://www.indeed.com/viewjob?jk=64aced434539035a",
+      "location": null,
+      "posted_date": "2026-10-06",
+      "source": "indeed",
+      "snippet": "***Join Tether and Shape the Future of Digital Finance***\n\nAt Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cost."
+    },
+    {
+      "title": "Blockchain Engineer",
+      "company": "All IT Solutions LLC",
+      "url": "https://www.indeed.com/viewjob?jk=1dceb1b5f257afba",
+      "location": null,
+      "posted_date": "2026-10-05",
+      "source": "indeed",
+      "snippet": "Blockchain Engineer\n\nAll IT Solutions\n\nUnited States · Pennington, New Jersey\n\nWorkplace Type — On-site\n\nEmployment Type — Contract\n\nWe are currently seeking a qualified Blockchain Engineer to support this engagement. Please review the complete requirements, work location, employment type, and screening questions before applying. Candidates whose experience closely matches the position will be contacted directly by the AIS recruiting team.\n\nJob Summary\n\nAll IT Solutions is seeking a Blockchain E"
+    },
+    {
+      "title": "Treasury Crypto Manager",
+      "company": "SoFi",
+      "url": "https://www.linkedin.com/jobs/view/4476527877",
+      "location": null,
+      "posted_date": "2026-10-07",
       "source": "linkedin",
       "snippet": "nan"
     },
@@ -1691,7 +1610,16 @@
       "posted_date": "2026-09-18",
       "source": "linkedin",
       "snippet": "nan"
+    },
+    {
+      "title": "Head of Digital Assets Operations Enablement",
+      "company": "Citi",
+      "url": "https://www.linkedin.com/jobs/view/4458313412",
+      "location": null,
+      "posted_date": "2026-09-17",
+      "source": "linkedin",
+      "snippet": "nan"
     }
   ],
-  "count": 188
+  "count": 180
 }
